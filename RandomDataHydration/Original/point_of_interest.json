@@ -1,0 +1,6151 @@
+[
+    {
+        "name": "Bellandur Lake", 
+        "area": "3.61 km", 
+        "text": "Bellandur Lake is a lake which lies to the southeast of the city of Bangalore, and is the largest lake in the city. It is a part of Bellandur drainage system that drains the southern and the southeastern parts of the city.", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "longitude": 77.6622027, 
+        "width": "1.4 km", 
+        "length": "3.6 km", 
+        "surface elevation": "921 m", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Freedom Park"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Hesaraghatta Lake"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Chowdiah Memorial Hall"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Male Mahadeshwara Hills"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Puttenahalli Lake"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Devanahalli Fort"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Banashankari Amma Temple"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "The Forum"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Bagmane Tech Park"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Hebbal lake"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Kodandarama Temple"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Ulsoor"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Kanteerava Indoor Stadium"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }
+        ], 
+        "latitude": 12.9337037, 
+        "cities": "Bangalore", 
+        "type": "Lake in Bangalore, India", 
+        "id": 1, 
+        "catchment area": "148 km"
+    }, 
+    {
+        "name": "Hoysaleswara Temple", 
+        "point_of_interest_in": [
+            "Karnataka"
+        ], 
+        "text": "Hoysaleswara temple is a temple dedicated to Hindu god Shiva. It was built in Halebidu during the rule of King Vishnuvardhana of the Hoysala Empire in the 12th century. The construction was started around 1120 CE and completed in 1150 CE.", 
+        "longitude": 75.9942162, 
+        "address": "Halebeedu, Karnataka 573121", 
+        "latitude": 13.2129844, 
+        "id": 2
+    }, 
+    {
+        "name": "Kadri Manjunath Temple", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Mangalore"
+        ], 
+        "text": "Kadri Manjunatha Temple is located in Mangalore in the state of Karnataka, India, was originally made by Vajrayana Buddhist but later on due to fall of Buddhism converted for the deity Manjunatha by Hindus.", 
+        "longitude": 74.8594853, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Mangaladevi Temple"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Gokarnanatheshwara Temple"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "St. Aloysius Chapel"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Tannirbhavi Beach"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Sultan Battery"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Netravati River"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Annapoorneshwari Temple"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Bahubali"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Milagres Church"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Udupi Sri Krishna Matha"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Shringeri Sharadamba Temple"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Kukke Subramanya Temple"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Mahabaleshwar Temple, Gokarna"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Hoysaleswara Temple"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Nisargadhama"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }
+        ], 
+        "address": "Kadri, Mangalore, Karnataka 575002", 
+        "latitude": 12.885647, 
+        "id": 3
+    }, 
+    {
+        "opened": "November 11, 1962", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Bangalore"
+        ], 
+        "text": "The Visvesvaraya Industrial and Technological Museum, Bangalore, India. a constituent unit of National Council of Science Museums, Ministry of Culture, Government of India, was established in memory of Bharat Ratna Sir M Visvesvaraya.", 
+        "longitude": 77.5936705, 
+        "hours": "Open today  10 00 am  6 00 pm", 
+        "phone": "08022866200", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Freedom Park"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Gavi Gangadhareshwara Temple"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Ragigudda Anjaneya Temple"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "ISKCON Temple Bangalore"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Ulsoor"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Wonderla"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "St. Mary's Basilica"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Thippagondanahalli Reservoir"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Thottikallu"
+            }
+        ], 
+        "address": "Beside Karnataka State Government Museum, Kasturba Rd, Sampangi Rama Nagar, Bangalore, Karnataka 560001", 
+        "latitude": 12.9719537, 
+        "type": "Museum in Bangalore, India", 
+        "id": 4, 
+        "name": "Visvesvaraya Industrial and Technological Museum"
+    }, 
+    {
+        "function": "Palace", 
+        "opened": "1944", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Bangalore"
+        ], 
+        "text": "Bangalore Palace, a palace located in Bangalore, Karnataka, India, was built by Rev. J. Garrett, who was the first Principal of the Central High School in Bangalore, now known as Central College.", 
+        "longitude": 77.5882422, 
+        "name": "Bangalore Palace", 
+        "phone": "08023360818", 
+        "architect": "Kempe Gowda I", 
+        "address": "Near Mount Carmel Institute of Management, Palace Rd, Vasanth Nagar, Bangalore, Karnataka 560052", 
+        "latitude": 12.9930596, 
+        "type": "Palace in Bangalore, India", 
+        "id": 5, 
+        "architectural style": "Tudor architecture"
+    }, 
+    {
+        "function": "Palace", 
+        "opened": "1912", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Mysore"
+        ], 
+        "construction started": "1897", 
+        "text": "The Palace of Mysore is a historical palace in the city of Mysore in Karnataka, southern India. It is the official residence and seat of the Wodeyars  the Maharajas of Mysore, the royal family of ...", 
+        "longitude": 76.6483689, 
+        "name": "Mysore Palace", 
+        "hours": "Closed now  Hours", 
+        "phone": "08212421051", 
+        "architect": "Henry Irwin", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Mysore Zoo"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Brindavan Gardens"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Lalitha Mahal"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Jaganmohan Palace"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Karanji Lake"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "St. Philomena's Church, Mysore"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Kukkarahalli lake"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Krishna Raja Sagara"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Railway Museum Mysore"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Hawa Mahal"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Chennakesava Temple, Somanathapura"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Regional Museum of Natural History Mysore"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Ranganathittu Bird Sanctuary"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Jayalakshmi Vilas"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Meenakshi Amman Temple"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Vidhana Soudha"
+            }
+        ], 
+        "address": "Sayyaji Rao Rd, Mysore, Karnataka 570001", 
+        "latitude": 12.3192006, 
+        "type": "Palace in Mysore, India", 
+        "id": 6, 
+        "architectural style": "Indo Saracenic Revival architecture"
+    }, 
+    {
+        "name": "Shivanasamudra Falls", 
+        "flow rate": "934 m/s", 
+        "text": "Shivanasamudra is a small town in the Mandya District of the state of Karnataka, India. It is situated on the banks of the river Kaveri, which forms here the boundary to the Chamarajanagar District, ...", 
+        "longitude": 77.16799999999999, 
+        "height": "98 m", 
+        "latitude": 12.294, 
+        "id": 7
+    }, 
+    {
+        "name": "Puttenahalli Lake", 
+        "area": "10 ha", 
+        "text": "Puttenahalli WS Lake is a 10-hectare water body near Yelahanka, 14 km north of Bangalore. Biodiversity experts have discovered 49 species of birds breeding here.", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "longitude": 77.57807509999999, 
+        "phone": "08041206057", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Banashankari Amma Temple"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Kanteerava Indoor Stadium"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Hebbal lake"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Kodandarama Temple"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Male Mahadeshwara Hills"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Bellandur Lake"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Bagmane Tech Park"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Hesaraghatta Lake"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Freedom Park"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Devanahalli Fort"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Thippagondanahalli Reservoir"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Ragigudda Anjaneya Temple"
+            }
+        ], 
+        "address": "Arekere MICO Layout Main Rd, Near MLR Convention Hall, Puttenahalli, JP Nagar 7th Phase, Bangalore, Karnataka 560076", 
+        "latitude": 12.8873185, 
+        "type": "Pond in Yelahanka, India", 
+        "id": 8
+    }, 
+    {
+        "status": "Minor basilica", 
+        "name": "St. Mary's Basilica", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Bangalore"
+        ], 
+        "text": "St. Mary's Basilica is a basilica located in the Archdiocese of Bangalore in the Indian state of Karnataka. It is the oldest church in Bangalore and is the only church in the state that has been elevated to the status of a minor basilica.", 
+        "longitude": 77.60569269999999, 
+        "phone": "08022865434", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Freedom Park"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Visvesvaraya Industrial and Technological Museum"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Thippagondanahalli Reservoir"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Gavi Gangadhareshwara Temple"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Wonderla"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "ISKCON Temple Bangalore"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Bay Pride Mall"
+            }
+        ], 
+        "address": "M. F. Noronha Road, Shivaji Nagar, Bangalore, Karnataka 560051", 
+        "latitude": 12.9856503, 
+        "dedication": "Mary", 
+        "id": 9, 
+        "architectural style": "Gothic architecture"
+    }, 
+    {
+        "controlled by": "Government of Karnataka", 
+        "name": "Bidar Fort", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Bidar"
+        ], 
+        "text": "Bidar Fort is situated in Bidar city of the northern plateau of Karnataka, India. The fort, the city and the district are all affixed with the name Bidar.", 
+        "longitude": 77.530413, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Bijapur Fort"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Gol Gumbaz"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Jami Masjid, Bijapur Fort"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Guru Nanak Jhira Sahib"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Mahmud Gawan Madrasa"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Makkah Masjid, Hyderabad"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Devanahalli Fort"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Chitradurga Fort"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Jama Masjid Gulbarga"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Sultan Battery"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Badami cave temples"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Golkonda"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Kodachadri"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Agrasen ki Baoli"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Qutb Shahi tombs"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Abbey Falls"
+            }
+        ], 
+        "address": "Old City Fort Area, Bidar, Karnataka 585401", 
+        "latitude": 17.913642, 
+        "id": 10
+    }, 
+    {
+        "name": "Narasimha Jharni", 
+        "point_of_interest_in": [
+            "Bidar"
+        ], 
+        "text": "Narasimha Jharni is a cave temple located in Bidar. It is associated with Lord Narasimha, an incarnation of Hindu god Vishnu. The ancient temple is excavated in a 300 m tunnel under the Manichoola hill range situated at around 1 km from the city.", 
+        "longitude": 77.53343199999999, 
+        "latitude": 17.90796, 
+        "id": 11
+    }, 
+    {
+        "established": "1968", 
+        "name": "Folk Lore Museum Mysore", 
+        "point_of_interest_in": [
+            "Mysore"
+        ], 
+        "text": "The Folklore Museum at Mysore, India, is a museum which exhibits folk art and crafts from all over the state of Karnataka", 
+        "longitude": 76.672313, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Regional Museum of Natural History Mysore"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Jayalakshmi Vilas"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Railway Museum Mysore"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Jaganmohan Palace"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Kukkarahalli lake"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Karanji Lake"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Lalitha Mahal"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Brindavan Gardens"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Mysore Zoo"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Mysore Palace"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "St. Philomena's Church, Mysore"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Krishna Raja Sagara"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Ranganathittu Bird Sanctuary"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Taj Mahal"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Humanyun Mosque"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Marble Palace Zoo"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "National Zoological Park Delhi"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Assam State Zoo cum Botanical Garden"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Jaipur Zoo"
+            }
+        ], 
+        "address": "Karanji Layout, Mysore, Karnataka 570011", 
+        "latitude": 12.3068637, 
+        "type": "Museum in Mysore, India", 
+        "id": 12
+    }, 
+    {
+        "name": "Devanahalli Fort", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "text": "Devanahalli Fort is located 35 kilometers north of Bangalore city, at Devanahalli in the State of Karnataka, India. It was originally built in 1501 by Mallabairegowda, which remained in the hands of his descendants until the mideighteenth century.", 
+        "longitude": 77.7097953, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Hesaraghatta Lake"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "The Forum"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Freedom Park"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Thippagondanahalli Reservoir"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Chowdiah Memorial Hall"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Bellandur Lake"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Hebbal lake"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Male Mahadeshwara Hills"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Bijapur Fort"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "St. Mary's Basilica"
+            }
+        ], 
+        "latitude": 13.2489607, 
+        "id": 13, 
+        "opened": "1501"
+    }, 
+    {
+        "name": "Dodda Ganeshana Gudi", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Bangalore"
+        ], 
+        "text": "Dodda Basavana Gudi is situated in Bull Temple Road, Basavanagudi, area of South Bangalore, part of the largest city of the Indian state of Karnataka. The Hindu temple is inside a park called Bugle Rock.", 
+        "longitude": 77.5678056, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Gavi Gangadhareshwara Temple"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Visvesvaraya Industrial and Technological Museum"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "St. Mary's Basilica"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "ISKCON Temple Bangalore"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Ragigudda Anjaneya Temple"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Ulsoor"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Thippagondanahalli Reservoir"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Wonderla"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Peninsular Gneiss"
+            }
+        ], 
+        "address": "Bull Temple Rd, Basavanagudi, Bangalore, Karnataka 560004", 
+        "latitude": 12.9467292, 
+        "id": 14
+    }, 
+    {
+        "opened": "1983", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "text": "Bangalore Aquarium is the second largest aquarium in India. It is located at the entrance of Cubbon Park in Bangalore, India, and was established in 1983. It has a variety of exotic cultivable as well as ornamental fish on display.", 
+        "longitude": 77.5992708, 
+        "phone": "08022867440", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Freedom Park"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Bellandur Lake"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Male Mahadeshwara Hills"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Bagmane Tech Park"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Hesaraghatta Lake"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Devanahalli Fort"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Banashankari Amma Temple"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Kodandarama Temple"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Visvesvaraya Industrial and Technological Museum"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Puttenahalli Lake"
+            }
+        ], 
+        "address": "Cubbon Park, Kasturba Road, Near Chinnaswamy Cricket Stadium, Bangalore, Karnataka 560001", 
+        "latitude": 12.9765944, 
+        "type": "Aquarium in Bangalore, India", 
+        "id": 15, 
+        "name": "Bangalore Aquarium"
+    }, 
+    {
+        "name": "Udupi Sri Krishna Matha", 
+        "point_of_interest_in": [
+            "Karnataka"
+        ], 
+        "text": "Udupi Sri Krishna Matha is a famous Hindu temple dedicated to god Krishna located in the town of Udupi in Karnataka, India. The matha area resembles a living ashram, a holy place for daily devotion and living.", 
+        "longitude": 74.7395591, 
+        "phone": "09845242053", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Kukke Subramanya Temple"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Annapoorneshwari Temple"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Gokarnanatheshwara Temple"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Chennakesava Temple"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Kudremukh"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Kadri Manjunath Temple"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Shringeri Sharadamba Temple"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Mangaladevi Temple"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Mahabaleshwar Temple, Gokarna"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Sringeri Sharada Peetham"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Bahubali"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Kodachadri"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Hoysaleswara Temple"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Krishna Janmashtami"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Jog Falls"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Abbey Falls"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Nehru Zoological Park"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Taj Mahal"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Humanyun Mosque"
+            }
+        ], 
+        "address": "Krishna Complex, G B Panth Road, Udupi, Mangalore, Karnataka 576101", 
+        "latitude": 13.3239534, 
+        "id": 16
+    }, 
+    {
+        "name": "Milagres Church", 
+        "point_of_interest_in": [
+            "Mangalore"
+        ], 
+        "text": "The Milagres Church is a historic Roman Catholic Church situated in the Hampankatta locality of Mangalore. The church was built in 1680 by Bishop Thomas de Castro, a Theatine from Divar, Goa.", 
+        "completed": "1680", 
+        "longitude": 74.736111, 
+        "architect": "Thomas de Castro", 
+        "country": "India", 
+        "latitude": 13.395556, 
+        "id": 17
+    }, 
+    {
+        "name": "Hesaraghatta Lake", 
+        "area": "4.5 km", 
+        "text": "Hesaraghatta Lake is a manmade reservoir located 18 km to the north-west of Bangalore in Karnataka state, India. It is a fresh water lake created in the year 1894 across the Arkavathy River to meet the drinking water needs of the city.", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "longitude": 77.5945627, 
+        "surface elevation": "861 m", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Devanahalli Fort"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Arkavati"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Thippagondanahalli Reservoir"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Chowdiah Memorial Hall"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Bellandur Lake"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "The Forum"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Hebbal lake"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Freedom Park"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Puttenahalli Lake"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Male Mahadeshwara Hills"
+            }
+        ], 
+        "latitude": 12.9715987, 
+        "inflow source": "Arkavati", 
+        "cities": "Bangalore", 
+        "type": "Reservoir in Bangalore, India", 
+        "id": 18, 
+        "catchment area": "73.83 km"
+    }, 
+    {
+        "elevation": "1,895 m", 
+        "name": "Baba Budangiri", 
+        "point_of_interest_in": [
+            "Chikmagalur", 
+            "Karnataka"
+        ], 
+        "text": "Baba Budangiri is a mountain in the Baba Budan range of the Western Ghats of India. Located in the Chikkamagaluru District of Karnataka, Baba Budangiri is known for its shrine to the Sufi saint Baba .", 
+        "longitude": 75.7138884, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Mullayyanagiri"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "1,930 m"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Kodachadri"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "1,343 m"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Pushpagiri, Karnataka"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "1,748 m"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Tadiandamol"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "1,748 m"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Banasura Hill"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "2,073 m"
+            }
+        ], 
+        "latitude": 15.3172775, 
+        "parent range": "Western Ghats", 
+        "type": "Mountain in Chikkamagaluru district, India", 
+        "id": 19
+    }, 
+    {
+        "name": "Hebbe Falls", 
+        "point_of_interest_in": [
+            "Chikmagalur", 
+            "Karnataka"
+        ], 
+        "text": "Hebbe Falls are situated at 133229N 754330E / 13.54139N 75.72500E about 10 km away from the famous hill station Kemmangundi in Karnataka, India. This waterfalls are inside a coffee estate and can be reached either by walk or four-wheeler.", 
+        "longitude": 75.725, 
+        "height": "168 m", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Baba Budangiri"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Mullayyanagiri"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Bhadra Wildlife Sanctuary"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Kudremukh"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Abbey Falls"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Shringeri Sharadamba Temple"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Unchalli Falls"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Kodandarama Temple"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Jog Falls"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Annapoorneshwari Temple"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Magod Falls"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Irupu Falls"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Barkana Falls"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Kodachadri"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Gokak Falls"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Krishna Raja Sagara"
+            }
+        ], 
+        "latitude": 13.541389, 
+        "type": "Waterfall in India", 
+        "id": 20
+    }, 
+    {
+        "burials": "Mohammed Adil Shah, Ali Adil Shah II, Mark Zebrowski", 
+        "opened": "1659", 
+        "name": "Gol Gumbaz", 
+        "point_of_interest_in": [
+            "Karnataka"
+        ], 
+        "text": "Gol Gumbaz or Gol Gumbadh, from Persian   Gol Gombadh meaning circular dome, is the mausoleum of Mohammed Adil Shah, Sultan of Bijapur. The tomb, located in Bijapur, Karnataka in India, was completed in 1656 by the architect Yaqut of Dabul.", 
+        "longitude": 77.8009872, 
+        "height": "51 m", 
+        "hours": "Closed now  Hours", 
+        "owner": "Archaeological Survey of India", 
+        "architect": "Yaqut of Dabul", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Bijapur Fort"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Jami Masjid, Bijapur Fort"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Bidar Fort"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Qutb Minar"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Humayun's Tomb"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Charminar"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Kudremukh"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Golkonda"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Almatti Dam"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Mysore Palace"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Taj Mahal"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Jama Masjid, Delhi"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Mysore Zoo"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Gateway of India"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Badami cave temples"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Ranganathittu Bird Sanctuary"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Abbey Falls"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Chitradurga Fort"
+            }
+        ], 
+        "address": "Vijayapura, Karnataka", 
+        "latitude": 13.2955371, 
+        "id": 21, 
+        "architectural style": "Islamic architecture"
+    }, 
+    {
+        "name": "Nisargadhama", 
+        "point_of_interest_in": [
+            "Karnataka"
+        ], 
+        "text": "Kaveri Nisargadhama is an island formed by river Kaveri near Kushalnagar in the district of Kodagu, Karnataka. It is approximately 3 km from Kushalanagara, off the State Highway and 30 km from Madikeri and 95 km from Mysore.", 
+        "longitude": 75.9361629, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Abbey Falls"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Harangi Reservoir"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Irupu Falls"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Pushpagiri, Karnataka"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Namdroling Monastery"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Male Mahadeshwara Hills"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Ranganathittu Bird Sanctuary"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Brindavan Gardens"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Kudremukh"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Jaganmohan Palace"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Krishna Raja Sagara"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Mullayyanagiri"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Bhadra Wildlife Sanctuary"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Hebbe Falls"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Kodachadri"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "St. Philomena's Church, Mysore"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Mekedaatu"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Baba Budangiri"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Shivanasamudra Falls"
+            }
+        ], 
+        "latitude": 12.4407439, 
+        "id": 22
+    }, 
+    {
+        "name": "Gokarnanatheshwara Temple", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Mangalore"
+        ], 
+        "text": "The Gokarnanatheshwara Temple, otherwise known as Kudroli Sri Gokarnanatha Kshetra, is in the Kudroli area of Mangalore in Karnataka, India. It was consecrated by Narayana Guru. It is dedicated to Gokarnanatha, a Hindu deity also known as Shiva.", 
+        "longitude": 74.83144279999999, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Mangaladevi Temple"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Kadri Manjunath Temple"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "St. Aloysius Chapel"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Tannirbhavi Beach"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Sultan Battery"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Netravati River"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Bahubali"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Annapoorneshwari Temple"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Milagres Church"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Udupi Sri Krishna Matha"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Mahabaleshwar Temple, Gokarna"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Kukke Subramanya Temple"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Shringeri Sharadamba Temple"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Abbey Falls"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Kudremukh"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Sarangapani Temple"
+            }
+        ], 
+        "latitude": 12.8759549, 
+        "id": 23
+    }, 
+    {
+        "name": "Hebbal Lake", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Bangalore"
+        ], 
+        "text": "Hebbal Lake is located in the north of Bangalore at the mouth of National Highway 7, along the junction of Bellary Road and the Outer Ring Road. It was one of the three lakes created in 1537 by Kempe Gowda.", 
+        "longitude": 77.58558289999999, 
+        "latitude": 13.0465993, 
+        "id": 24
+    }, 
+    {
+        "name": "Kudremukh", 
+        "point_of_interest_in": [
+            "Chikmagalur", 
+            "Karnataka"
+        ], 
+        "text": "Kudremukh also spelled Kuduremukha is a mountain range and name of a peak located in Chikkamagaluru district, in Karnataka, India.", 
+        "longitude": 75.7138884, 
+        "range": "Western Ghats", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Mullayyanagiri"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Baba Budangiri"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Bhadra Wildlife Sanctuary"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Hebbe Falls"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Kodachadri"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Annapoorneshwari Temple"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Shringeri Sharadamba Temple"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Pushpagiri, Karnataka"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Abbey Falls"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Jog Falls"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Netravati River"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Gol Gumbaz"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Ranganathittu Bird Sanctuary"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Kodandarama Temple"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Udupi Sri Krishna Matha"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Jamalabad"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Nisargadhama"
+            }
+        ], 
+        "country": "India", 
+        "latitude": 15.3172775, 
+        "type": "Mountain range in Chikkamagaluru district, India", 
+        "id": 25
+    }, 
+    {
+        "opened": "1932", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Mysore"
+        ], 
+        "text": "Krishna Raja Sagara, also popularly known as KRS, is the name of both a lake and the dam that creates it. It is located close to the settlement of Krishnarajasagara.", 
+        "longitude": 76.573889, 
+        "height": "38 m", 
+        "impounds": "Kaveri", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Brindavan Gardens"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Lalitha Mahal"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Karanji Lake"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Mysore Palace"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Regional Museum of Natural History Mysore"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Kukkarahalli lake"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Jaganmohan Palace"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Mysore Zoo"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "St. Philomena's Church, Mysore"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Ranganathittu Bird Sanctuary"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Venugopala Swamy Temple"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Railway Museum Mysore"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Shivanasamudra Falls"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Mettur Dam"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Jayalakshmi Vilas"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Folk Lore Museum Mysore"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Harangi Reservoir"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Abbey Falls"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Hebbe Falls"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Hoysaleswara Temple"
+            }
+        ], 
+        "latitude": 12.416111, 
+        "id": 26, 
+        "name": "Krishna Raja Sagara"
+    }, 
+    {
+        "name": "Lal Bagh", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Bangalore"
+        ], 
+        "text": "Lal Bagh or Lal Bagh Botanical Gardens, meaning The Red Garden in English, is a well known botanical garden in southern Bangalore, India.", 
+        "longitude": 77.57375979999999, 
+        "hours": "Open today  6 00 am  6 00 pm", 
+        "phone": "08026578184", 
+        "address": "Bangalore, Karnataka 560004", 
+        "latitude": 12.9437506, 
+        "id": 27
+    }, 
+    {
+        "name": "Sankey tank", 
+        "area": "15 ha", 
+        "text": "Sankey tank, a manmade lake or tank, is situated in the western part of Bangalore in the middle of the suburbs of Malleshwaram, Vyalikaval and Sadashiva Nagar. The lake covers an area of about 15 ha.", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "longitude": 77.5741212, 
+        "surface elevation": "930 m", 
+        "number of islands": "1", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Hebbal lake"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "The Forum"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Hesaraghatta Lake"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Devanahalli Fort"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Thippagondanahalli Reservoir"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "St. Mary's Basilica"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Bellandur Lake"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Ulsoor"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Freedom Park"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Puttenahalli Lake"
+            }
+        ], 
+        "latitude": 13.0092983, 
+        "shore length": "1.7 km", 
+        "cities": "Bangalore", 
+        "type": "Lake in Bangalore, India", 
+        "id": 28
+    }, 
+    {
+        "name": "Bhutanatha group of temples, Badami", 
+        "point_of_interest_in": [
+            "Badami"
+        ], 
+        "text": "The Bhutanatha group of temples is a cluster of sandstone shrines dedicated to the deity Bhutanatha, in Badami town of Karnataka state, India. There are two major temples here.", 
+        "longitude": 75.676082, 
+        "latitude": 15.918622, 
+        "id": 29
+    }, 
+    {
+        "name": "Bugle Rock", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "text": "Bugle Rock is a massive rock in the Basavanagudi area of South Bangalore, in the state of Karnataka. It is an abrupt rise above the ground of peninsular gneiss as the main rock formation and with an assessed age of about 3,000 million years.", 
+        "longitude": 77.5703108, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Thippagondanahalli Reservoir"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Devanahalli Fort"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Hebbal lake"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "St. Mary's Basilica"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Gavi Gangadhareshwara Temple"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Visvesvaraya Industrial and Technological Museum"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Bijapur Fort"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Ragigudda Anjaneya Temple"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Hesaraghatta Lake"
+            }
+        ], 
+        "latitude": 12.9436608, 
+        "id": 30
+    }, 
+    {
+        "name": "Regional Museum of Natural History Mysore", 
+        "point_of_interest_in": [
+            "Mysore"
+        ], 
+        "text": "The Regional Museum of Natural History at Mysore, is a museum in India with exhibits on plants, animals and geology of the southern region of India.", 
+        "longitude": 76.6788091, 
+        "phone": "08212447046", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Railway Museum Mysore"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Karanji Lake"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Folk Lore Museum Mysore"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "National Museum of Natural History, New Delhi"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Kukkarahalli lake"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Jaganmohan Palace"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Lalitha Mahal"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Krishna Raja Sagara"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Jayalakshmi Vilas"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Brindavan Gardens"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "St. Philomena's Church, Mysore"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Mysore Zoo"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Mysore Palace"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Ranganathittu Bird Sanctuary"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Male Mahadeshwara Hills"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Kamaraj Sagar Dam"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Venugopala Swamy Temple"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Government Botanical Gardens, Ooty"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Shivanasamudra Falls"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Fun Republic Mall"
+            }
+        ], 
+        "address": "T Narsipur Rd,Siddartha Nagar,Near Milk Dairy, Mysore, Karnataka 570011", 
+        "latitude": 12.306484, 
+        "type": "Museum in Mysore, India", 
+        "id": 31
+    }, 
+    {
+        "name": "Chennakesava Temple", 
+        "point_of_interest_in": [
+            "Karnataka"
+        ], 
+        "text": "The Chennakesava Temple, originally called Vijayanarayana Temple, was built on the banks of the Yagachi River in Belur, by the Hoysala Empire King Vishnuvardhana.", 
+        "longitude": 75.8679195, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Hoysaleswara Temple"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Chennakesava Temple, Somanathapura"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Bahubali"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Baba Budangiri"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Udupi Sri Krishna Matha"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Mullayyanagiri"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Abbey Falls"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Badami cave temples"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Kukke Subramanya Temple"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Ranganathittu Bird Sanctuary"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Mysore Palace"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Brihadeeswarar Temple"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Meenakshi Amman Temple"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Gol Gumbaz"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Kudremukh"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Kanchi Kailasanathar Temple"
+            }
+        ], 
+        "address": "Belur, Karnataka 573115", 
+        "latitude": 13.1623166, 
+        "id": 32, 
+        "architectural style": "Hoysala architecture"
+    }, 
+    {
+        "name": "Gavi Gangadhareshwara Temple", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Bangalore"
+        ], 
+        "text": "Gavi Gangadhareshwara Temple also Gavipuram Cave Temple, an example of Indian rock-cut architecture, is located in Bangalore in the state of Karnataka in India.", 
+        "longitude": 77.5597925, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Ulsoor"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Visvesvaraya Industrial and Technological Museum"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Ragigudda Anjaneya Temple"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "ISKCON Temple Bangalore"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "St. Mary's Basilica"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Wonderla"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Banashankari Amma Temple"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Sankey tank"
+            }
+        ], 
+        "address": "Gavipura, Kempegowda Nagar, Bangalore, Karnataka 560019", 
+        "latitude": 12.9464492, 
+        "id": 33
+    }, 
+    {
+        "name": "Peninsular Gneiss", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "text": "Peninsular Gneiss is a term coined to highlight the older gneissic complex of the metamorphics found all over the Indian Peninsula.", 
+        "longitude": 77.5893636, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Hebbal lake"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Thippagondanahalli Reservoir"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Devanahalli Fort"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Hesaraghatta Lake"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Freedom Park"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Banashankari Amma Temple"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "St. Mary's Basilica"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "The Forum"
+            }
+        ], 
+        "latitude": 12.9488596, 
+        "id": 34
+    }, 
+    {
+        "function": "Art Gallery, Palace", 
+        "opened": "1861", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Mysore"
+        ], 
+        "text": "Jaganmohan Palace is a palace in Mysore, in the princely city of Mysore, India. Its construction was completed in 1861 and was initially used by the Wodeyars, kings of Mysore as their home.", 
+        "longitude": 76.6393805, 
+        "hours": "Open today  10 00 am  5 30 pm", 
+        "phone": "0821 242 3693", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Lalitha Mahal"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Karanji Lake"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Brindavan Gardens"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Mysore Palace"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "St. Philomena's Church, Mysore"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Railway Museum Mysore"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Mysore Zoo"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Jayalakshmi Vilas"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Kukkarahalli lake"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Krishna Raja Sagara"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Regional Museum of Natural History Mysore"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Ranganathittu Bird Sanctuary"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Folk Lore Museum Mysore"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Shivanasamudra Falls"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Nisargadhama"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Doddabetta"
+            }
+        ], 
+        "address": "Opp City Bus Stand, Jagan Mohan Palace Road, Chamrajpura, Mysore, Karnataka 570024", 
+        "latitude": 12.2958104, 
+        "type": "Palace in Mysore, India", 
+        "id": 35, 
+        "name": "Jaganmohan Palace"
+    }, 
+    {
+        "name": "Guru Nanak Jhira Sahib", 
+        "point_of_interest_in": [
+            "Bidar"
+        ], 
+        "text": "Guru Nanak Jhira Sahib is a Sikh historical shrine situated in Bidar, Karnataka. Gurdwara Nanak Jhira Sahib was built in the year 1948 and is dedicated to the first Sikh guru Guru Nanak.", 
+        "longitude": 75.7138884, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Bidar Fort"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Mahmud Gawan Madrasa"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Badami cave temples"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Hazur Sahib Nanded"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Gurdwara Panja Sahib"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Takht Sri Patna Sahib"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Gurudwara Sis Ganj Sahib"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Gurudwara Bangla Sahib"
+            }
+        ], 
+        "latitude": 15.3172775, 
+        "id": 36
+    }, 
+    {
+        "name": "Lalitha Mahal", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Mysore"
+        ], 
+        "construction started": "1921", 
+        "text": "The Lalitha Mahal is the second largest palace in Mysore. It is located near the Chamundi Hills, east of the city of Mysore in the Indian state of Karnataka.", 
+        "longitude": 76.69180039999999, 
+        "phone": "08212526100", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Jaganmohan Palace"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Mysore Palace"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Railway Museum Mysore"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Karanji Lake"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Brindavan Gardens"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Krishna Raja Sagara"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Mysore Zoo"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "St. Philomena's Church, Mysore"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Jayalakshmi Vilas"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Regional Museum of Natural History Mysore"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Kukkarahalli lake"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Folk Lore Museum Mysore"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Ranganathittu Bird Sanctuary"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Abbey Falls"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Hoysaleswara Temple"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Chennakesava Temple, Somanathapura"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Shivanasamudra Falls"
+            }
+        ], 
+        "address": "Lalitha Mahal Quatras, Mysore, Karnataka 570011", 
+        "latitude": 12.2973218, 
+        "id": 37
+    }, 
+    {
+        "name": "Badami cave temples", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Badami"
+        ], 
+        "text": "The Badami cave temples are a complex of temples located at Badami, a town in the Bagalkot district in the north part of Karnataka, India.", 
+        "longitude": 75.676082, 
+        "hours": "Closed now  Hours", 
+        "phone": "08043344334", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Mahakuta group of temples"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Banashankari Amma Temple"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Bhutanatha group of temples, Badami"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Varaha Cave Temple"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Elephanta Caves"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Undavalli caves"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Hoysaleswara Temple"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Karla Caves"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Chennakesava Temple"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Elephanta Island"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Gol Gumbaz"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Chennakesava Temple, Somanathapura"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Kanheri Caves"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Gavi Gangadhareshwara Temple"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Aurangabad Caves"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Bidar Fort"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Kudremukh"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Shore Temple"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Pataleshwar"
+            }
+        ], 
+        "address": "Badami, Karnataka 587201", 
+        "latitude": 15.918622, 
+        "id": 38
+    }, 
+    {
+        "name": "Ulsoor", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Bangalore"
+        ], 
+        "text": "Ulsoor, or Halasuru, is one of the oldest neighbourhoods in the city of Bangalore. It is located in central Bangalore, and begins roughly near the eastern terminus of MG Road. It is renowned for its numerous temples and rather narrow streets.", 
+        "area": "50 ha", 
+        "longitude": 77.621214, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Gavi Gangadhareshwara Temple"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Wonderla"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "ISKCON Temple Bangalore"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Ragigudda Anjaneya Temple"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Visvesvaraya Industrial and Technological Museum"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "The Forum"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "St. Mary's Basilica"
+            }
+        ], 
+        "latitude": 12.979598, 
+        "type": "Neighbourhood in Bangalore, India", 
+        "id": 39
+    }, 
+    {
+        "capacity": "1,100", 
+        "opened": "November 14, 1980", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "text": "Chowdiah Memorial Hall is a cultural centre in Bangalore which provides a home for musical and theatrical performances as well as competitions. Located in Malleswaram, it was built as a tribute to Tirumakudalu Chowdiah.", 
+        "longitude": 77.57133639999999, 
+        "hours": "Open today  10 30 am  9 00 pm", 
+        "phone": "08023445810", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Hesaraghatta Lake"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Freedom Park"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Bellandur Lake"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Devanahalli Fort"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Hebbal lake"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Banashankari Amma Temple"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "The Forum"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Male Mahadeshwara Hills"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Puttenahalli Lake"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Ragigudda Anjaneya Temple"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Kanteerava Indoor Stadium"
+            }
+        ], 
+        "address": "16th Cross,2nd Main Road, G.D. Park Extension , Malleswaram, Bangalore, Karnataka 560003", 
+        "latitude": 13.0019142, 
+        "id": 40, 
+        "name": "Chowdiah Memorial Hall"
+    }, 
+    {
+        "name": "Bagmane Tech Park", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "text": "Bagmane Tech Park is a software technological park in India. The park is situated at Sir C V Raman Nagar in Bangalore. This park is built and maintained by Bagmane Group. The park shares its boundaries with HAL and DRDO and is near the HAL Airport.", 
+        "longitude": 77.66392479999999, 
+        "hours": "Closed now  Hours", 
+        "phone": "08040329999", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Male Mahadeshwara Hills"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Banashankari Amma Temple"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Puttenahalli Lake"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Kanteerava Indoor Stadium"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Freedom Park"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Bellandur Lake"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Hesaraghatta Lake"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "The Forum"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Ulsoor"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Wonderla"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Devanahalli Fort"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Bugle Rock"
+            }
+        ], 
+        "address": "C V Raman Nagar, Bangalore, Karnataka 560093", 
+        "latitude": 12.9854542, 
+        "id": 41
+    }, 
+    {
+        "name": "Mahakuta group of temples", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Badami"
+        ], 
+        "text": "The Mahakuta group of temples is located in Mahakuta, a village in the Bagalkot district of Karnataka state, India. It is an important place of worship for Hindus and the location of a well-known Shaiva monastery.", 
+        "longitude": 75.7429636, 
+        "hours": "Open today  8 00 am  8 00 pm", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Badami cave temples"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Banashankari Amma Temple"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Bhutanatha group of temples, Badami"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Almatti Dam"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Tungabhadra Dam"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Mekedaatu"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Shivanasamudra Falls"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Gol Gumbaz"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Devanahalli Fort"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Parasgad Fort"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Chennakesava Temple, Somanathapura"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Abbey Falls"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Chandramouleshwara Temple"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Pushpagiri, Karnataka"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Taj Mahal"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Humanyun Mosque"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Vani Vilasa Sagara"
+            }
+        ], 
+        "address": "Nandikeshwar, Karnataka 587201", 
+        "latitude": 15.9546592, 
+        "id": 42
+    }, 
+    {
+        "elevation": "1,930 m", 
+        "name": "Mullayyanagiri", 
+        "point_of_interest_in": [
+            "Chikmagalur", 
+            "Karnataka"
+        ], 
+        "text": "Peak in Chikkamagaluru district, India", 
+        "longitude": 75.721385, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Baba Budangiri"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "1,895 m"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Kodachadri"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "1,343 m"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Pushpagiri, Karnataka"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "1,748 m"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Tadiandamol"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "1,748 m"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Chembra Peak"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "2,100 m"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Anamudi"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "2,695 m"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Doddabetta"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "2,637 m"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Kalsubai"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "1,646 m"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Agasthyarkoodam"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "1,868 m"
+            }
+        ], 
+        "latitude": 13.3909399, 
+        "mountain range": "Western Ghats", 
+        "id": 43
+    }, 
+    {
+        "opened": "1878", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Mangalore"
+        ], 
+        "text": "St. Aloysius Chapel, or the chapel of St. Aloysius College, is a Christian chapel in Mangalore in the state of Karnataka in southwest India. The Chapel is situated in the heart of the city on the Lighthouse Hill.", 
+        "longitude": 74.83609179999999, 
+        "phone": "08242449721", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Kadri Manjunath Temple"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Tannirbhavi Beach"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Mangaladevi Temple"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Sultan Battery"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Gokarnanatheshwara Temple"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Milagres Church"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Netravati River"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Bahubali"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Shringeri Sharadamba Temple"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "City Centre, Mangalore"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Annapoorneshwari Temple"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Bharath Mall"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Udupi Sri Krishna Matha"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "St Aloysius Church, Glasgow"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Jamalabad"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Kukke Subramanya Temple"
+            }
+        ], 
+        "address": "P B No 720, Kodailbail, Dakshin Kannada, Kodialbail, Kodialbail, Mangalore, Karnataka 575003", 
+        "latitude": 12.8842699, 
+        "id": 44, 
+        "name": "St. Aloysius Chapel"
+    }, 
+    {
+        "opened": "2004", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "text": "The Forum is a popular shopping mall located on Hosur Road in Koramangala, Bangalore, Karnataka, India developed by Prestige Group.", 
+        "longitude": 77.61136239999999, 
+        "number of floors": "5", 
+        "hours": "Open today  11 00 am  11 30 pm", 
+        "phone": "080 2206 7803", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Garuda Mall"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Mantri Square"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Orion Mall"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "The Forum Vijaya"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Devanahalli Fort"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Hesaraghatta Lake"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Phoenix Market City"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Ulsoor"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Freedom Park"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Bellandur Lake"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Wonderla"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Bangalore Fort"
+            }
+        ], 
+        "address": "No. 21, Hosur Road, Koramangala, Bangalore, Karnataka 560095", 
+        "owner": "Prestige Estates Projects", 
+        "latitude": 12.9344611, 
+        "type": "Shopping mall in Bangalore, India", 
+        "id": 45, 
+        "name": "The Forum"
+    }, 
+    {
+        "name": "Banashankari Amma Temple", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "text": "Banashankari Devi Temple or Banashankari temple is a Hindu shrine located at Cholachagudd near Badami, in Bagalkot district, Karnataka, India.", 
+        "longitude": 75.7078868, 
+        "address": "SH 57, Cholachagudda, Karnataka 587201", 
+        "latitude": 15.8826594, 
+        "id": 46
+    }, 
+    {
+        "controlled by": "Government of Karnataka", 
+        "name": "Chitradurga Fort", 
+        "point_of_interest_in": [
+            "Karnataka"
+        ], 
+        "text": "Chitradurga Fort or as the British called it Chitaldoorg, is a fortification that straddles several hills and a peak overlooking a flat valley in the Chitradurga District, Karnataka, India.", 
+        "longitude": 76.39845369999999, 
+        "architect": "Hyder Ali", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Vani Vilasa Sagara"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Tungabhadra Dam"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Kodachadri"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Palakkad Fort"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Jog Falls"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Gol Gumbaz"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Bidar Fort"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Abbey Falls"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Mangaladevi Temple"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Irupu Falls"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Shivanasamudra Falls"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Ragigudda Anjaneya Temple"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Thusharagiri Falls"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Bhadra Wildlife Sanctuary"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Kittur Fort"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Kudremukh"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Mysore Zoo"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Taj Mahal"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Humanyun Mosque"
+            }
+        ], 
+        "address": "Chitradurga, Karnataka 577501", 
+        "latitude": 14.2305594, 
+        "id": 47
+    }, 
+    {
+        "name": "Tannirbhavi Beach", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Mangalore"
+        ], 
+        "text": "Tannirbhavi beach is a beach in Mangalore, Karnataka, India. Currently, it can only be reached by land near Kuloor Bridge or by ferry via Gurupura river from Sultan Battery.", 
+        "longitude": 74.81387409999999, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Sultan Battery"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Kadri Manjunath Temple"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "St. Aloysius Chapel"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Mangaladevi Temple"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Gokarnanatheshwara Temple"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Netravati River"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Bahubali"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Milagres Church"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Abbey Falls"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Kudremukh"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "The Forum"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Bekal Fort"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Bharath Mall"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "City Centre, Mangalore"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Taj Mahal"
+            }
+        ], 
+        "latitude": 12.8913022, 
+        "id": 48
+    }, 
+    {
+        "name": "Abbey Falls", 
+        "point_of_interest_in": [
+            "Karnataka"
+        ], 
+        "text": "Abbey Falls is in Kodagu, in the Western Ghats in Karnataka. It is located 8 km from the Madikeri, 268 km from Bangalore and 122 km from Mysore.", 
+        "longitude": 75.7226116, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Nisargadhama"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Irupu Falls"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Harangi Reservoir"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Pushpagiri, Karnataka"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Hebbe Falls"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Jog Falls"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Namdroling Monastery"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Shivanasamudra Falls"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Kudremukh"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Baba Budangiri"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Mullayyanagiri"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Hogenakkal Falls"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Bhadra Wildlife Sanctuary"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Gokak Falls"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Unchalli Falls"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Brindavan Gardens"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Krishna Raja Sagara"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Chennakesava Temple"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Kodachadri"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Ranganathittu Bird Sanctuary"
+            }
+        ], 
+        "address": "Madikeri, Hebbettageri, Karnataka 571201", 
+        "latitude": 12.4587537, 
+        "id": 49
+    }, 
+    {
+        "name": "Karanji Lake", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Mysore"
+        ], 
+        "text": "Karanji Lake is a lake located in the city of Mysore in the state of Karnataka, India. The lake is surrounded by a nature park consisting of a butterfly park and a walk-through aviary. This aviary is the biggest 'walk-through aviary' in India.", 
+        "longitude": 76.673611, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Mysore Zoo"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Jaganmohan Palace"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Brindavan Gardens"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Kukkarahalli lake"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Mysore Palace"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Lalitha Mahal"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "St. Philomena's Church, Mysore"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Regional Museum of Natural History Mysore"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Railway Museum Mysore"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Krishna Raja Sagara"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Jayalakshmi Vilas"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Ranganathittu Bird Sanctuary"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Namdroling Monastery"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Folk Lore Museum Mysore"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Chennakesava Temple, Somanathapura"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Shivanasamudra Falls"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Abbey Falls"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Hoysaleswara Temple"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Male Mahadeshwara Hills"
+            }
+        ], 
+        "latitude": 12.302778, 
+        "type": "Lake in Mysore, India", 
+        "id": 50
+    }, 
+    {
+        "name": "Mangaladevi Temple", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Mangalore"
+        ], 
+        "text": "The Mangaladevi Temple is a Hindu temple at Bolara in the city of Mangalore in the South Indian state of Karnataka, situated about three km southwest of the city centre.", 
+        "longitude": 74.83984869999999, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Kadri Manjunath Temple"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Gokarnanatheshwara Temple"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "St. Aloysius Chapel"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Tannirbhavi Beach"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Sultan Battery"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Netravati River"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Bahubali"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Milagres Church"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Annapoorneshwari Temple"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Kukke Subramanya Temple"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Udupi Sri Krishna Matha"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Chitradurga Fort"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Mahabaleshwar Temple, Gokarna"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Gavi Gangadhareshwara Temple"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Shringeri Sharadamba Temple"
+            }
+        ], 
+        "address": "Mangaladevi Rd, Mangala Nagar, Mangalore, Karnataka 575001", 
+        "latitude": 12.85539, 
+        "id": 51
+    }, 
+    {
+        "name": "Kodandarama Temple", 
+        "point_of_interest_in": [
+            "Chikmagalur"
+        ], 
+        "text": "Kodandaramaswami Temple is a Hindu shrine located at Hiremagalur near Chikkamagaluru, in Chikkamagaluru district, Karnataka, India. The temple deity is called Kodandarama, as Rama, and his brother Lakshmana are depicted holding arrows.", 
+        "longitude": 77.6126707, 
+        "hours": "Open today  6 00  9 00 am, 6 00  9 30 pm", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Banashankari Amma Temple"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Vontimitta Kodandarama Swamy Temple"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Puttenahalli Lake"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Male Mahadeshwara Hills"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Baba Budangiri"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Ragigudda Anjaneya Temple"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Kanteerava Indoor Stadium"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Gavi Gangadhareshwara Temple"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Chunchanakatte Falls"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Bellandur Lake"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Devanahalli Fort"
+            }
+        ], 
+        "address": "BTM 2nd Stage, Bangalore, Karnataka 560076", 
+        "latitude": 12.9148979, 
+        "id": 52
+    }, 
+    {
+        "name": "Kukkarahalli lake", 
+        "area": "62 ha", 
+        "text": "Kukkarahalli Lake also called Kukkarhalli Kere, located in the heart of the Mysore city, adjoins the Manasgangotri, the Kalamandir and the Central Food Technological Research Institute campus. It provides lung-space to the city.", 
+        "point_of_interest_in": [
+            "Mysore"
+        ], 
+        "longitude": 76.6304409, 
+        "surface elevation": "756 m", 
+        "catchment area": "414 km", 
+        "latitude": 12.3103953, 
+        "shore length": "5 km", 
+        "basin countries": "India", 
+        "cities": "Mysore", 
+        "type": "Lake in Mysore, India", 
+        "id": 53
+    }, 
+    {
+        "name": "Mahabaleshwar Temple, Gokarna", 
+        "point_of_interest_in": [
+            "Karnataka"
+        ], 
+        "text": "The Mahabaleshwar Temple, Gokarna is a Hindu temple located in Gokarna, a Hindu religious pilgrimage centre in Uttara Kannada district in the Indian state of Karnataka.", 
+        "longitude": 74.31619300000001, 
+        "phone": "08386257956", 
+        "address": "Gokarna Beach Road, Dandebagh, Gokarna, Karnataka 581326", 
+        "latitude": 14.5435456, 
+        "id": 54
+    }, 
+    {
+        "name": "Cubbon Park", 
+        "area": "120 ha", 
+        "text": "Cubbon Park is a landmark 'lung' area of the Bangalore city, located within the heart of city in the Central Administrative Area.", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Bangalore"
+        ], 
+        "longitude": 77.5936705, 
+        "address": "Kasturba Road, Sampangi Rama Nagar, Bangalore, Karnataka 560001", 
+        "latitude": 12.9719537, 
+        "id": 55
+    }, 
+    {
+        "name": "Halasuru Someshwara Temple", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Bangalore"
+        ], 
+        "text": "Halasuru Someshwara Temple is located in the suburb of Halasuru in Bangalore, India. The oldest temple in the city dating back to the Chola period, it is a dedicated to the Hindu god Shiva.", 
+        "longitude": 77.6266741, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Ulsoor"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "St. Mary's Basilica"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Gavi Gangadhareshwara Temple"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "ISKCON Temple Bangalore"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Thippagondanahalli Reservoir"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Ragigudda Anjaneya Temple"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Kodandarama Temple"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Visvesvaraya Industrial and Technological Museum"
+            }
+        ], 
+        "address": "Someshwarpura, Ulsoor - (Halasuru), Bangalore, Karnataka", 
+        "latitude": 12.9764162, 
+        "id": 56
+    }, 
+    {
+        "name": "Tipu Sultan's Summer Palace", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Bangalore"
+        ], 
+        "text": "Tipu Sultan's Summer Palace, in Bangalore, India, is an example of Indo-Islamic architecture and was the summer residence of the Mysorean ruler Tipu Sultan.", 
+        "longitude": 77.56524209999999, 
+        "hours": "Open today  8 30 am  5 30 pm", 
+        "phone": "08026706836", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Visvesvaraya Industrial and Technological Museum"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Gavi Gangadhareshwara Temple"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Wonderla"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Ulsoor"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Ragigudda Anjaneya Temple"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Freedom Park"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "St. Mary's Basilica"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Mysore Palace"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "ISKCON Temple Bangalore"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Brindavan Gardens"
+            }
+        ], 
+        "address": "Allbert Victor Road, Chamrajpet, Bangalore, Karnataka 560018", 
+        "latitude": 12.9608996, 
+        "id": 57
+    }, 
+    {
+        "name": "Bangalore Fort", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Bangalore"
+        ], 
+        "text": "Bangalore Fort began in 1537 as a mud fort. The builder was Kempe Gowda I, a vassal of the Vijaynagar Empire and the founder of Bangalore, now Bangalore. Haider Ali in 1761 replaced the mud fort with a stone fort.", 
+        "built by": "Kempe Gowda I", 
+        "longitude": 77.5760913, 
+        "architect": "Kempe Gowda I", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Visvesvaraya Industrial and Technological Museum"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "St. Mary's Basilica"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Devanahalli Fort"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Freedom Park"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Gavi Gangadhareshwara Temple"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Ulsoor"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Wonderla"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "ISKCON Temple Bangalore"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Thippagondanahalli Reservoir"
+            }
+        ], 
+        "address": "AU, New Tharagupet, Bangalore, Karnataka 560002", 
+        "latitude": 12.9629472, 
+        "id": 58
+    }, 
+    {
+        "opened": "1969", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "text": "The Ragigudda Sri Prasanna Anjaneya temple is a temple dedicated to Hanuman located in Jayanagar 9th Block suburb of Bangalore. The temple also hosts a Shivalinga along with Rama, Sita, Lakshmana, Hanuman shrine in the same precinct.", 
+        "longitude": 77.5943101, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Wonderla"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Gavi Gangadhareshwara Temple"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Visvesvaraya Industrial and Technological Museum"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Ulsoor"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "ISKCON Temple Bangalore"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "St. Mary's Basilica"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Peninsular Gneiss"
+            }
+        ], 
+        "address": "560069, S End F Cross Rd, 2nd Phase, J P Nagar, Bangalore, Karnataka 560078", 
+        "latitude": 12.9149041, 
+        "id": 59, 
+        "name": "Ragigudda Anjaneya Temple"
+    }, 
+    {
+        "name": "Brindavan Gardens", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Mysore"
+        ], 
+        "text": "The Brindavana Gardens is a garden located in the state of Karnataka in India. It lies adjoining the Krishnarajasagara dam which is built across the river Kaveri. The work on laying out this garden was started in the year 1927 and completed in 1932.", 
+        "longitude": 76.63838319999999, 
+        "hours": "Open today  6 30 am  9 00 pm", 
+        "phone": "08026571925", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Krishna Raja Sagara"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Mysore Zoo"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Mysore Palace"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Karanji Lake"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Jaganmohan Palace"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "St. Philomena's Church, Mysore"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Lalitha Mahal"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Railway Museum Mysore"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Ranganathittu Bird Sanctuary"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Kukkarahalli lake"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Regional Museum of Natural History Mysore"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Jayalakshmi Vilas"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Doddabetta"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Hoysaleswara Temple"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Shivanasamudra Falls"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Chennakesava Temple, Somanathapura"
+            }
+        ], 
+        "address": "KRS Dam Road, Krishna Raja Sagar Dam, Mandya, Karnataka 570005", 
+        "latitude": 12.3044877, 
+        "id": 60
+    }, 
+    {
+        "name": "Freedom Park", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "text": "Freedom Park is located in the Central Business District of the city of Bangalore, Karnataka, India. It was formerly the Central Jail. It was opened to the public in November 2008. A part of it has been allotted for protests.", 
+        "longitude": 77.58151690000001, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Visvesvaraya Industrial and Technological Museum"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Bellandur Lake"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "St. Mary's Basilica"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Chowdiah Memorial Hall"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Hesaraghatta Lake"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Wonderla"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Devanahalli Fort"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Ulsoor"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Sankey tank"
+            }
+        ], 
+        "address": "Ramachandra Road, Gandhi Nagar, Bangalore, Karnataka 560009", 
+        "latitude": 12.9757626, 
+        "id": 61
+    }, 
+    {
+        "owners": "Government of Karnataka", 
+        "opened": "1956", 
+        "name": "Vidhana Soudha", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Bangalore"
+        ], 
+        "text": "The Vidhana Soudha located in Bangalore, is the seat of the state legislature of Karnataka. It is an imposing building, constructed in a style sometimes described as Mysore Neo-Dravidian, and incorporates ...", 
+        "longitude": 77.5945627, 
+        "height": "46 m", 
+        "architect": "B.R. Manickam", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Ulsoor"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Gavi Gangadhareshwara Temple"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Ragigudda Anjaneya Temple"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "ISKCON Temple Bangalore"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Visvesvaraya Industrial and Technological Museum"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Wonderla"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "St. Mary's Basilica"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Freedom Park"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Bugle Rock"
+            }
+        ], 
+        "country": "India", 
+        "latitude": 12.9715987, 
+        "type": "Building in Bangalore, India", 
+        "id": 62, 
+        "architectural style": "Dravidian architecture"
+    }, 
+    {
+        "name": "Bahubali", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Mangalore"
+        ], 
+        "text": "Bahubali was the son of Rishabha, the first tirthankara and founder of Jainism in the present half-cycle of time. Bahubali is a much revered figure among Jains.", 
+        "longitude": 77.5497613, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Netravati River"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Sultan Battery"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Kadri Manjunath Temple"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Tannirbhavi Beach"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "St. Aloysius Chapel"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Gokarnanatheshwara Temple"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Mangaladevi Temple"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Hoysaleswara Temple"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Milagres Church"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Mysore Palace"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Chennakesava Temple"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Shikharji"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Kukke Subramanya Temple"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Udupi Sri Krishna Matha"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Sri Digambar Jain Lal Mandir"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Godavari River"
+            }
+        ], 
+        "latitude": 13.0448627, 
+        "id": 63
+    }, 
+    {
+        "name": "Thippagondanahalli Reservoir", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "text": "Thippagondanahalli Reservoir, also known as T G Halli Dam or Chamarajsagar, is located at the confluence of the Arkavathy River and Kumudavathi River, 35 km west of Bangalore, India.", 
+        "longitude": 75.7138884, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Arkavati"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Hesaraghatta Lake"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Hebbal lake"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "St. Mary's Basilica"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Devanahalli Fort"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Visvesvaraya Industrial and Technological Museum"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Ragigudda Anjaneya Temple"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Gavi Gangadhareshwara Temple"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Wonderla"
+            }
+        ], 
+        "latitude": 15.3172775, 
+        "type": "Body Of Water", 
+        "id": 64
+    }, 
+    {
+        "name": "Chennakesava Temple, Somanathapura", 
+        "point_of_interest_in": [
+            "Karnataka"
+        ], 
+        "text": "The Chennakesava Temple located at Somanathapura is one of the finest examples of Hoysala architecture.", 
+        "longitude": 76.8821849, 
+        "address": "Somanathapura, Karnataka 571120", 
+        "latitude": 12.2758033, 
+        "id": 65
+    }, 
+    {
+        "number of animals": "1320", 
+        "opened": "1892", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Mysore"
+        ], 
+        "text": "Mysore Zoo is a 157-acre zoo located near the palace in Mysore, India. It is one of the oldest and most popular zoos in India, and is home to a wide range of species. Mysore Zoo is one of the citys most popular attractions.", 
+        "area": "99 ha", 
+        "longitude": 76.66694210000001, 
+        "hours": "Open today  8 30 am  5 30 pm", 
+        "phone": "08212520302", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Mysore Palace"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Brindavan Gardens"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Karanji Lake"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "St. Philomena's Church, Mysore"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Jaganmohan Palace"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Lalitha Mahal"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Railway Museum Mysore"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Kukkarahalli lake"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Krishna Raja Sagara"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Regional Museum of Natural History Mysore"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Ranganathittu Bird Sanctuary"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Jayalakshmi Vilas"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Namdroling Monastery"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Arignar Anna Zoological Park"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "National Zoological Park Delhi"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Nehru Zoological Park"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Nandankanan Zoological Park"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Alipore Zoological Gardens"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }
+        ], 
+        "address": "Zoo Main Road, Indiranagar,, Mysore, Karnataka 570010", 
+        "latitude": 12.3018304, 
+        "type": "Zoo in Mysore, India", 
+        "id": 66, 
+        "name": "Mysore Zoo"
+    }, 
+    {
+        "name": "HAL Aerospace Museum", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Bangalore"
+        ], 
+        "text": "HAL Aerospace Museum is India's first aerospace museum located at Hindustan Aeronautics Limited premises, in Bangalore.", 
+        "longitude": 77.7013357, 
+        "hours": "Closing soon  9 00 am  5 00 pm", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Visvesvaraya Industrial and Technological Museum"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Gavi Gangadhareshwara Temple"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Thippagondanahalli Reservoir"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "St. Mary's Basilica"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Hebbal lake"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Wonderla"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Sankey tank"
+            }
+        ], 
+        "address": "Varthur Road, Marathahalli, Bangalore, Karnataka 560037", 
+        "latitude": 12.9611891, 
+        "type": "Museum in Bangalore, India", 
+        "id": 67
+    }, 
+    {
+        "capacity": "4000", 
+        "opened": "1995", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "text": "Kanteerava Indoor Stadium, also known as the Sree or Sri Kanteerava Indoor Stadium, is an indoor sporting arena located in Bangalore, India, near Cubbon Park, within the heart of city in the Central Administrative Area.", 
+        "longitude": 75.7138884, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Puttenahalli Lake"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Male Mahadeshwara Hills"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Bagmane Tech Park"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "World 10K Bangalore"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Freedom Park"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Kodandarama Temple"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Bellandur Lake"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Banashankari Amma Temple"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Netaji Indoor Stadium"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Hesaraghatta Lake"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "The Forum"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "St. Mary's Basilica"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Chowdiah Memorial Hall"
+            }
+        ], 
+        "latitude": 15.3172775, 
+        "type": "Stadium in India", 
+        "id": 68, 
+        "name": "Kanteerava Indoor Stadium"
+    }, 
+    {
+        "name": "Railway Museum Mysore", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Mysore"
+        ], 
+        "text": "The Railway Museum at Mysore, India is an outdoor exhibit of vintage locomotives. The Railway Museum was established in 1979 by Indian Railways, the second such museum after the National Railway Museum in Delhi.", 
+        "longitude": 76.64382900000001, 
+        "hours": "Open today  9 30 am  6 00 pm", 
+        "phone": "08212866955", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Jaganmohan Palace"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Lalitha Mahal"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Regional Museum of Natural History Mysore"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Brindavan Gardens"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "St. Philomena's Church, Mysore"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Karanji Lake"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Kukkarahalli lake"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Mysore Zoo"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Mysore Palace"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Jayalakshmi Vilas"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Krishna Raja Sagara"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Folk Lore Museum Mysore"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "National Rail Museum, New Delhi"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Ranganathittu Bird Sanctuary"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Abbey Falls"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Nisargadhama"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "California State Railroad Museum"
+            }
+        ], 
+        "address": "KRS Road, Medar Block, Yadavagiri, Mysore, Karnataka 570005", 
+        "latitude": 12.313854, 
+        "type": "Exhibits in Mysore, India", 
+        "id": 69
+    }, 
+    {
+        "name": "Netravati River", 
+        "point_of_interest_in": [
+            "Mangalore"
+        ], 
+        "text": "The Netravati River has its origins at Bangrabalige valley, Yelaneeru Ghat in Kudremukh in Chikkamagaluru district of Karnataka, India.", 
+        "longitude": 75.140716, 
+        "source": "Gangamoola", 
+        "latitude": 12.9881759, 
+        "type": "River in India", 
+        "id": 70
+    }, 
+    {
+        "name": "World 10K Bangalore", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "text": "The World 10K Bangalore is an annual 10 kilometres road running competition which takes place in Bangalore, India. The competition was first held in 2008 and usually takes place in late May. The first three editions were sponsored by Sunfeast.", 
+        "longitude": 77.68614029999999, 
+        "latitude": 12.925433, 
+        "event type": "Road running", 
+        "id": 71
+    }, 
+    {
+        "name": "ISKCON Temple Bangalore", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Bangalore"
+        ], 
+        "text": "Sri Radha Krishna Temple has deities of Radha and Krishna located at Rajajinagar, in North Bangalore, Karnataka, India. It is one of the largest ISKCON temples in the world.", 
+        "longitude": 77.5507358, 
+        "hours": "Open today  7 15 am  1 15 pm, 4 15  8 30 pm", 
+        "phone": "08023578347", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Wonderla"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Ulsoor"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Sri Sri Radha Krishna Temple"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "ISKCON Temple Delhi"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Visvesvaraya Industrial and Technological Museum"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Halasuru Someshwara Temple"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Gavi Gangadhareshwara Temple"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Ragigudda Anjaneya Temple"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Orion Mall"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "St. Mary's Basilica"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Krishna Balaram Mandir"
+            }
+        ], 
+        "address": "Hare Krishna Hill, Chord Road, West Of Chord Road, Rajaji Nagar, Bangalore, Karnataka 560010", 
+        "latitude": 12.9908491, 
+        "id": 72
+    }, 
+    {
+        "name": "Arkavati", 
+        "point_of_interest_in": [
+            "Karnataka"
+        ], 
+        "text": "The Arkavati is an important mountain river in Karnataka, India, originating at Nandi Hills of Chikkaballapura district.", 
+        "longitude": 77.279904, 
+        "source": "Nandi Hills", 
+        "length": "193 km", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Thippagondanahalli Reservoir"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Mekedaatu"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Hesaraghatta Lake"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Shivanasamudra Falls"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Muthyalamaduvu"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Hogenakkal Falls"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Skandagiri"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Kanva Reservoir"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Netravati River"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Chunchanakatte Falls"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Ranganathittu Bird Sanctuary"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Male Mahadeshwara Hills"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Hebbal lake"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Triveni Sangam"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Krishna Raja Sagara"
+            }
+        ], 
+        "latitude": 12.7101537, 
+        "type": "River", 
+        "id": 73
+    }, 
+    {
+        "elevation": "1,343 m", 
+        "name": "Kodachadri", 
+        "point_of_interest_in": [
+            "Karnataka"
+        ], 
+        "text": "Kodachadri is a mountain peak with dense forests in the Western Ghats in South India. It is declared as natural heritage site by Government Karnataka. and it is 10th highest peak of Karnataka.", 
+        "longitude": 75.7138884, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Mullayyanagiri"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "1,930 m"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Pushpagiri, Karnataka"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "1,748 m"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Tadiandamol"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "1,748 m"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Baba Budangiri"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "1,895 m"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Chembra Peak"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "2,100 m"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Agasthyarkoodam"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "1,868 m"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Banasura Hill"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "2,073 m"
+            }
+        ], 
+        "latitude": 15.3172775, 
+        "mountain range": "Western Ghats", 
+        "type": "Mountain in India", 
+        "id": 74
+    }, 
+    {
+        "established": "1940", 
+        "name": "Ranganathittu Bird Sanctuary", 
+        "area": "67 ha", 
+        "text": "Ranganathittu Bird Sanctuary also known as Pakshi Kashi of Karnataka is a bird sanctuary in the Mandya District of the state of Karnataka in India.", 
+        "point_of_interest_in": [
+            "Karnataka"
+        ], 
+        "longitude": 76.6297189, 
+        "phone": "080 2235 2828", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Brindavan Gardens"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Shivanasamudra Falls"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Mysore Palace"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Krishna Raja Sagara"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Mysore Zoo"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Karanji Lake"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Jaganmohan Palace"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "St. Philomena's Church, Mysore"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Salim Ali Bird Sanctuary"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Bhadra Wildlife Sanctuary"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Mekedaatu"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Kudremukh"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Kumarakom Bird Sanctuary"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Lalitha Mahal"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Chennakesava Temple, Somanathapura"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Mullayyanagiri"
+            }
+        ], 
+        "address": "Mandya, Karnataka 571427", 
+        "latitude": 12.4357468, 
+        "id": 75
+    }, 
+    {
+        "name": "Thottikallu", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "text": "Thottikallu is a place near Bangalore off the Kanakapura road which is famous for a falls called Thottikallu falls, more popularly known as TK falls. It is also known as 'SwarnaMukhi' water falls. SwarnaMukhi translates as 'Golden-Faced'.", 
+        "longitude": 77.5549333, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Thippagondanahalli Reservoir"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Hebbal lake"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Hesaraghatta Lake"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Devanahalli Fort"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "The Forum"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Freedom Park"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Banashankari Amma Temple"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Wonderla"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Kodandarama Temple"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Male Mahadeshwara Hills"
+            }
+        ], 
+        "address": "Bangalore, Karnataka 560083", 
+        "latitude": 12.82667, 
+        "id": 76
+    }, 
+    {
+        "name": "Bhadra Wildlife Sanctuary", 
+        "area": "492.5 km", 
+        "text": "Bhadra Wildlife Sanctuary is a protected area and a Project Tiger tiger reserve located 38 km. northwest of Chikmagalur town in Karnataka state, India. Bhadra sanctuary has a wide range of flora and fauna and is a popular place for day outings.", 
+        "point_of_interest_in": [
+            "Chikmagalur", 
+            "Karnataka"
+        ], 
+        "longitude": 75.7754018, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Mullayyanagiri"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Baba Budangiri"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Kudremukh"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Hebbe Falls"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Bhadra Dam"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Kodandarama Temple"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Annapoorneshwari Temple"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Ranganathittu Bird Sanctuary"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Abbey Falls"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Kodachadri"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Shringeri Sharadamba Temple"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Jog Falls"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Nisargadhama"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Hoysaleswara Temple"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Irupu Falls"
+            }
+        ], 
+        "address": "Chikkamagaluru, Karnataka 577101", 
+        "latitude": 13.315258, 
+        "id": 77
+    }, 
+    {
+        "name": "Sultan Battery", 
+        "point_of_interest_in": [
+            "Mangalore"
+        ], 
+        "text": "The Sultan Battery watch tower, constructed in 1784 by Tipu Sultan, is situated in Boloor, 4 km from Mangalore city, the Chief port city in the state of Karnataka, India.", 
+        "longitude": 74.82828359999999, 
+        "address": "Sultan Battery Rd, Ashok Nagar, Mangalore, Karnataka", 
+        "latitude": 12.8897347, 
+        "type": "Town in Mangalore, India", 
+        "id": 78
+    }, 
+    {
+        "owners": "Kochouseph Chittilappilly", 
+        "opened": "2005", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "rides": "Wavy and Vertical Fall, Wonder la Bamba, Crazy Cars, Maverick, Drop Zone", 
+        "text": "Wonderla Holidays Limited is a leading amusement park designing and operating company in India headquartered near Bidadi, 28 kilometres from Bangalore. It is promoted by Kochouseph Chittilappilly and his son Arun Chittilappilly.", 
+        "area": "33 ha", 
+        "longitude": 77.3872174, 
+        "hours": "Open today  11 00 am  7 00 pm", 
+        "phone": "080 2201 0333", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Veegaland"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Ulsoor"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "ISKCON Temple Bangalore"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Ragigudda Anjaneya Temple"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Adlabs Imagica"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "EsselWorld"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Queens Land"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Visvesvaraya Industrial and Technological Museum"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "St. Mary's Basilica"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Gavi Gangadhareshwara Temple"
+            }
+        ], 
+        "address": "28th km, Mysore Road, Before Bidadi, Bangalore, Karnataka 562109", 
+        "latitude": 12.7984219, 
+        "type": "Amusement park in India", 
+        "id": 79, 
+        "name": "Wonderla"
+    }, 
+    {
+        "name": "Male Mahadeshwara Hills", 
+        "point_of_interest_in": [
+            "Bangalore"
+        ], 
+        "text": "Male Mahadeshwara Hills is a pilgrim town located in the Kollegal taluk of Chamarajanagar district of southern Karnataka. It is situated at about 150 km from Mysore and about 210 km from Bangalore.", 
+        "longitude": 77.1100894, 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Kanteerava Indoor Stadium"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "Banashankari Amma Temple"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Puttenahalli Lake"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Bagmane Tech Park"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Kodandarama Temple"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Bellandur Lake"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Hogenakkal Falls"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Freedom Park"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Hesaraghatta Lake"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Devanahalli Fort"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Shivanasamudra Falls"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Sankey tank"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Bannerghatta National Park"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Ragigudda Anjaneya Temple"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }
+        ], 
+        "latitude": 12.1560923, 
+        "id": 80
+    }, 
+    {
+        "established": "1974", 
+        "name": "Bannerghatta National Park", 
+        "area": "104.3 km", 
+        "text": "Bannerghatta National Park, near Bangalore, Karnataka, southern India, was founded in 1971 and declared as a national park in 1974. In 2002 a portion of the park, became a biological reserve, the Bannerghatta Biological Park.", 
+        "point_of_interest_in": [
+            "Karnataka", 
+            "Bangalore"
+        ], 
+        "longitude": 77.5787804, 
+        "phone": "091649 50099", 
+        "people_also_search_for": [
+            {
+                "rank": 1, 
+                "point_of_interest": "Bangalore Palace"
+            }, 
+            {
+                "rank": 2, 
+                "point_of_interest": "Cubbon Park"
+            }, 
+            {
+                "rank": 3, 
+                "point_of_interest": "ISKCON Temple Bangalore"
+            }, 
+            {
+                "rank": 4, 
+                "point_of_interest": "Lal Bagh"
+            }, 
+            {
+                "rank": 5, 
+                "point_of_interest": "Wonderla"
+            }, 
+            {
+                "rank": 6, 
+                "point_of_interest": "Tipu Sultan's Summer Palace"
+            }, 
+            {
+                "rank": 7, 
+                "point_of_interest": "Vidhana Soudha"
+            }, 
+            {
+                "rank": 8, 
+                "point_of_interest": "Ulsoor"
+            }, 
+            {
+                "rank": 9, 
+                "point_of_interest": "Visvesvaraya Industrial and Technological Museum"
+            }, 
+            {
+                "rank": 10, 
+                "point_of_interest": "Gavi Gangadhareshwara Temple"
+            }, 
+            {
+                "rank": 11, 
+                "point_of_interest": "Thottikallu"
+            }, 
+            {
+                "rank": 12, 
+                "point_of_interest": "Bangalore Fort"
+            }, 
+            {
+                "rank": 13, 
+                "point_of_interest": "HAL Aerospace Museum"
+            }, 
+            {
+                "rank": 14, 
+                "point_of_interest": "Dodda Ganeshana Gudi"
+            }, 
+            {
+                "rank": 15, 
+                "point_of_interest": "Bugle Rock"
+            }, 
+            {
+                "rank": 16, 
+                "point_of_interest": "Mysore Zoo"
+            }, 
+            {
+                "rank": 17, 
+                "point_of_interest": "Peninsular Gneiss"
+            }, 
+            {
+                "rank": 18, 
+                "point_of_interest": "Hesaraghatta Lake"
+            }, 
+            {
+                "rank": 19, 
+                "point_of_interest": "Bangalore Aquarium"
+            }, 
+            {
+                "rank": 20, 
+                "point_of_interest": "Ragigudda Anjaneya Temple"
+            }
+        ], 
+        "address": "Bannerghatta, Bangalore, Karnataka 560083", 
+        "latitude": 12.8052456, 
+        "type": "National park in India", 
+        "id": 81
+    }
+]

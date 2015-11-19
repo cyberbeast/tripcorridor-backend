@@ -1,0 +1,1491 @@
+[
+    {
+        "categories":[
+            "Abseiling", 
+            "Adventure", 
+            "All Destinations", 
+            "Architecture", 
+            "Backpacking", 
+            "Beach", 
+            "Bird-of-paradise", 
+            "Bouldering", 
+            "Buddhism", 
+            "Camping", 
+            "Caves", 
+            "Churches", 
+            "Climbing", 
+            "College", 
+            "Crocodiles", 
+            "Culture", 
+            "Cycling", 
+            "Deer", 
+            "Desert", 
+            "Devaraja Market", 
+            "Elephants", 
+            "Forests", 
+            "Golf", 
+            "Hill Station", 
+            "Hindu Temples", 
+            "History", 
+            "Horticulture", 
+            "King Cobra", 
+            "Lakes", 
+            "Mining", 
+            "Monastery", 
+            "Monument", 
+            "Nature", 
+            "Outdoor Recreation", 
+            "Palace", 
+            "Palaces", 
+            "Paragliding", 
+            "Parasailing", 
+            "Rafting", 
+            "Rainforests", 
+            "Religion", 
+            "River", 
+            "Rock Climbing", 
+            "Ruins", 
+            "Safari", 
+            "Safari Lodge", 
+            "Scuba Diving", 
+            "Sculpture", 
+            "Seaside Resorts", 
+            "Shopping", 
+            "Snorkeling", 
+            "Sports", 
+            "Surface Water Sports", 
+            "Surfing", 
+            "Tech Capital With Modern-art Museums", 
+            "Temple", 
+            "Tigers", 
+            "Water Parks", 
+            "Waterfalls", 
+            "Wildlife", 
+            "Wildlife Refuge", 
+            "Yoga"
+        ]
+    },
+    {
+        "addresses":[
+            {
+                "district": "Bagalkot", 
+                "country": "India", 
+                "subdistrict": "Jamkhandi", 
+                "longitude": 75.2917512, 
+                "state": "Karnataka", 
+                "latitude": 16.5043199
+            }, 
+            {
+                "district": "Bagalkot", 
+                "country": "India", 
+                "subdistrict": "Bilgi", 
+                "longitude": 75.6295375, 
+                "state": "Karnataka", 
+                "latitude": 16.3401525
+            }, 
+            {
+                "district": "Bagalkot", 
+                "country": "India", 
+                "subdistrict": "Mudhol", 
+                "longitude": 75.2858208, 
+                "state": "Karnataka", 
+                "latitude": 16.3333105
+            }, 
+            {
+                "district": "Bagalkot", 
+                "country": "India", 
+                "subdistrict": "Badami", 
+                "longitude": 75.676082, 
+                "state": "Karnataka", 
+                "latitude": 15.918622
+            }, 
+            {
+                "district": "Bagalkot", 
+                "country": "India", 
+                "subdistrict": "Bagalkot", 
+                "longitude": 75.6557206, 
+                "state": "Karnataka", 
+                "latitude": 16.1725355
+            }, 
+            {
+                "district": "Bagalkot", 
+                "country": "India", 
+                "subdistrict": "Hungund", 
+                "longitude": 76.06094759999999, 
+                "state": "Karnataka", 
+                "latitude": 16.0576259
+            }, 
+            {
+                "district": "Bangalore Rural", 
+                "country": "India", 
+                "subdistrict": "Nelamangala", 
+                "longitude": 77.41100639999999, 
+                "state": "Karnataka", 
+                "latitude": 13.0874193
+            }, 
+            {
+                "district": "Bangalore Rural", 
+                "country": "India", 
+                "subdistrict": "Dod Ballapur", 
+                "longitude": 77.5389069, 
+                "state": "Karnataka", 
+                "latitude": 13.2927263
+            }, 
+            {
+                "district": "Bangalore Rural", 
+                "country": "India", 
+                "subdistrict": "Devanahalli", 
+                "longitude": 77.71373059999999, 
+                "state": "Karnataka", 
+                "latitude": 13.2417155
+            }, 
+            {
+                "district": "Bangalore Rural", 
+                "country": "India", 
+                "subdistrict": "Hosakote", 
+                "longitude": 77.7966975, 
+                "state": "Karnataka", 
+                "latitude": 13.0730023
+            }, 
+            {
+                "district": "Bangalore Urban", 
+                "country": "India", 
+                "subdistrict": "Bangalore North", 
+                "longitude": 77.5945627, 
+                "state": "Karnataka", 
+                "latitude": 12.9715987
+            }, 
+            {
+                "district": "Bangalore Urban", 
+                "country": "India", 
+                "subdistrict": "Bangalore South", 
+                "longitude": 77.5945627, 
+                "state": "Karnataka", 
+                "latitude": 12.9715987
+            }, 
+            {
+                "district": "Bangalore Urban", 
+                "country": "India", 
+                "subdistrict": "Bangalore East", 
+                "longitude": 77.5945627, 
+                "state": "Karnataka", 
+                "latitude": 12.9715987
+            }, 
+            {
+                "district": "Bangalore Urban", 
+                "country": "India", 
+                "subdistrict": "Anekal", 
+                "longitude": 77.6911295, 
+                "state": "Karnataka", 
+                "latitude": 12.7105259
+            }, 
+            {
+                "district": "Belgaum", 
+                "country": "India", 
+                "subdistrict": "Chikodi", 
+                "longitude": 74.5878546, 
+                "state": "Karnataka", 
+                "latitude": 16.4291905
+            }, 
+            {
+                "district": "Belgaum", 
+                "country": "India", 
+                "subdistrict": "Athni", 
+                "longitude": 75.06409289999999, 
+                "state": "Karnataka", 
+                "latitude": 16.7268811
+            }, 
+            {
+                "district": "Belgaum", 
+                "country": "India", 
+                "subdistrict": "Raybag", 
+                "longitude": 74.7746684, 
+                "state": "Karnataka", 
+                "latitude": 16.4941345
+            }, 
+            {
+                "district": "Belgaum", 
+                "country": "India", 
+                "subdistrict": "Gokak", 
+                "longitude": 74.8156199, 
+                "state": "Karnataka", 
+                "latitude": 16.1591849
+            }, 
+            {
+                "district": "Belgaum", 
+                "country": "India", 
+                "subdistrict": "Hukeri", 
+                "longitude": 74.5990492, 
+                "state": "Karnataka", 
+                "latitude": 16.229158
+            }, 
+            {
+                "district": "Belgaum", 
+                "country": "India", 
+                "subdistrict": "Belgaum", 
+                "longitude": 74.4976741, 
+                "state": "Karnataka", 
+                "latitude": 15.8496953
+            }, 
+            {
+                "district": "Belgaum", 
+                "country": "India", 
+                "subdistrict": "Khanapur", 
+                "longitude": 74.51703189999999, 
+                "state": "Karnataka", 
+                "latitude": 15.6406634
+            }, 
+            {
+                "district": "Belgaum", 
+                "country": "India", 
+                "subdistrict": "Sampgaon", 
+                "longitude": 74.7604767, 
+                "state": "Karnataka", 
+                "latitude": 15.7963878
+            }, 
+            {
+                "district": "Belgaum", 
+                "country": "India", 
+                "subdistrict": "Parasgad", 
+                "longitude": 75.14067399999999, 
+                "state": "Karnataka", 
+                "latitude": 15.7453533
+            }, 
+            {
+                "district": "Belgaum", 
+                "country": "India", 
+                "subdistrict": "Ramdurg", 
+                "longitude": 75.297485, 
+                "state": "Karnataka", 
+                "latitude": 15.9500493
+            }, 
+            {
+                "district": "Bellary", 
+                "country": "India", 
+                "subdistrict": "Hadagalli", 
+                "longitude": 75.926338, 
+                "state": "Karnataka", 
+                "latitude": 15.01974
+            }, 
+            {
+                "district": "Bellary", 
+                "country": "India", 
+                "subdistrict": "Hagaribommanahalli", 
+                "longitude": 76.2073525, 
+                "state": "Karnataka", 
+                "latitude": 15.0456393
+            }, 
+            {
+                "district": "Bellary", 
+                "country": "India", 
+                "subdistrict": "Hospet", 
+                "longitude": 76.39092409999999, 
+                "state": "Karnataka", 
+                "latitude": 15.2688542
+            }, 
+            {
+                "district": "Bellary", 
+                "country": "India", 
+                "subdistrict": "Siruguppa", 
+                "longitude": 76.9005817, 
+                "state": "Karnataka", 
+                "latitude": 15.6175163
+            }, 
+            {
+                "district": "Bellary", 
+                "country": "India", 
+                "subdistrict": "Bellary", 
+                "longitude": 76.9214428, 
+                "state": "Karnataka", 
+                "latitude": 15.1393932
+            }, 
+            {
+                "district": "Bellary", 
+                "country": "India", 
+                "subdistrict": "Sandur", 
+                "longitude": 76.5477411, 
+                "state": "Karnataka", 
+                "latitude": 15.0873798
+            }, 
+            {
+                "district": "Bellary", 
+                "country": "India", 
+                "subdistrict": "Kudligi", 
+                "longitude": 76.3897733, 
+                "state": "Karnataka", 
+                "latitude": 14.9053562
+            }, 
+            {
+                "district": "Bidar", 
+                "country": "India", 
+                "subdistrict": "Basavakalyan", 
+                "longitude": 76.94702199999999, 
+                "state": "Karnataka", 
+                "latitude": 17.8721032
+            }, 
+            {
+                "district": "Bidar", 
+                "country": "India", 
+                "subdistrict": "Bhalki", 
+                "longitude": 77.2183652, 
+                "state": "Karnataka", 
+                "latitude": 18.0503666
+            }, 
+            {
+                "district": "Bidar", 
+                "country": "India", 
+                "subdistrict": "Aurad", 
+                "longitude": 77.41568889999999, 
+                "state": "Karnataka", 
+                "latitude": 18.2496144
+            }, 
+            {
+                "district": "Bidar", 
+                "country": "India", 
+                "subdistrict": "Bidar", 
+                "longitude": 77.5046101, 
+                "state": "Karnataka", 
+                "latitude": 17.9148799
+            }, 
+            {
+                "district": "Bidar", 
+                "country": "India", 
+                "subdistrict": "Homnabad", 
+                "longitude": 77.1312586, 
+                "state": "Karnataka", 
+                "latitude": 17.7682755
+            }, 
+            {
+                "district": "Bijapur", 
+                "country": "India", 
+                "subdistrict": "Bijapur", 
+                "longitude": 75.710031, 
+                "state": "Karnataka", 
+                "latitude": 16.8301708
+            }, 
+            {
+                "district": "Bijapur", 
+                "country": "India", 
+                "subdistrict": "Indi", 
+                "longitude": 75.9554927, 
+                "state": "Karnataka", 
+                "latitude": 17.1751648
+            }, 
+            {
+                "district": "Bijapur", 
+                "country": "India", 
+                "subdistrict": "Sindgi", 
+                "longitude": 76.2334278, 
+                "state": "Karnataka", 
+                "latitude": 16.9172558
+            }, 
+            {
+                "district": "Bijapur", 
+                "country": "India", 
+                "subdistrict": "Basavana Bagevadi", 
+                "longitude": 75.9753516, 
+                "state": "Karnataka", 
+                "latitude": 16.5681108
+            }, 
+            {
+                "district": "Bijapur", 
+                "country": "India", 
+                "subdistrict": "Muddebihal", 
+                "longitude": 76.1290961, 
+                "state": "Karnataka", 
+                "latitude": 16.3395804
+            }, 
+            {
+                "district": "Chamarajanagar", 
+                "country": "India", 
+                "subdistrict": "Gundlupet", 
+                "longitude": 76.6927259, 
+                "state": "Karnataka", 
+                "latitude": 11.8083459
+            }, 
+            {
+                "district": "Chamarajanagar", 
+                "country": "India", 
+                "subdistrict": "Chamarajanagar", 
+                "longitude": 76.9437312, 
+                "state": "Karnataka", 
+                "latitude": 11.9261471
+            }, 
+            {
+                "district": "Chamarajanagar", 
+                "country": "India", 
+                "subdistrict": "Yelandur", 
+                "longitude": 77.03053899999999, 
+                "state": "Karnataka", 
+                "latitude": 12.0491263
+            }, 
+            {
+                "district": "Chamarajanagar", 
+                "country": "India", 
+                "subdistrict": "Kollegal", 
+                "longitude": 77.11112140000002, 
+                "state": "Karnataka", 
+                "latitude": 12.1536786
+            }, 
+            {
+                "district": "Chickmagalur", 
+                "country": "India", 
+                "subdistrict": "Sringeri", 
+                "longitude": 75.2566564, 
+                "state": "Karnataka", 
+                "latitude": 13.4197675
+            }, 
+            {
+                "district": "Chickmagalur", 
+                "country": "India", 
+                "subdistrict": "Koppa", 
+                "longitude": 75.36307959999999, 
+                "state": "Karnataka", 
+                "latitude": 13.5288647
+            }, 
+            {
+                "district": "Chickmagalur", 
+                "country": "India", 
+                "subdistrict": "Narasimharajapura", 
+                "longitude": 75.508744, 
+                "state": "Karnataka", 
+                "latitude": 13.6079744
+            }, 
+            {
+                "district": "Chickmagalur", 
+                "country": "India", 
+                "subdistrict": "Tarikere", 
+                "longitude": 75.815859, 
+                "state": "Karnataka", 
+                "latitude": 13.7086667
+            }, 
+            {
+                "district": "Chickmagalur", 
+                "country": "India", 
+                "subdistrict": "Kadur", 
+                "longitude": 75.7732517, 
+                "state": "Karnataka", 
+                "latitude": 13.3191269
+            }, 
+            {
+                "district": "Chickmagalur", 
+                "country": "India", 
+                "subdistrict": "Chikmagalur", 
+                "longitude": 75.7754018, 
+                "state": "Karnataka", 
+                "latitude": 13.315258
+            }, 
+            {
+                "district": "Chickmagalur", 
+                "country": "India", 
+                "subdistrict": "Mudigere", 
+                "longitude": 75.64032449999999, 
+                "state": "Karnataka", 
+                "latitude": 13.1365287
+            }, 
+            {
+                "district": "Chikballapur", 
+                "country": "India", 
+                "subdistrict": "Gauribidanur", 
+                "longitude": 77.5169572, 
+                "state": "Karnataka", 
+                "latitude": 13.6111591
+            }, 
+            {
+                "district": "Chikballapur", 
+                "country": "India", 
+                "subdistrict": "Chikkaballapura", 
+                "longitude": 77.7280396, 
+                "state": "Karnataka", 
+                "latitude": 13.432366
+            }, 
+            {
+                "district": "Chikballapur", 
+                "country": "India", 
+                "subdistrict": "Gudibanda", 
+                "longitude": 77.7037131, 
+                "state": "Karnataka", 
+                "latitude": 13.6711326
+            }, 
+            {
+                "district": "Chikballapur", 
+                "country": "India", 
+                "subdistrict": "Bagepalli", 
+                "longitude": 77.7981834, 
+                "state": "Karnataka", 
+                "latitude": 13.784605
+            }, 
+            {
+                "district": "Chikballapur", 
+                "country": "India", 
+                "subdistrict": "Sidlaghatta", 
+                "longitude": 77.86531260000001, 
+                "state": "Karnataka", 
+                "latitude": 13.3936652
+            }, 
+            {
+                "district": "Chikballapur", 
+                "country": "India", 
+                "subdistrict": "Chintamani", 
+                "longitude": 78.05513839999999, 
+                "state": "Karnataka", 
+                "latitude": 13.4019689
+            }, 
+            {
+                "district": "Chitradurga", 
+                "country": "India", 
+                "subdistrict": "Molakalmuru", 
+                "longitude": 76.7466378, 
+                "state": "Karnataka", 
+                "latitude": 14.7165215
+            }, 
+            {
+                "district": "Chitradurga", 
+                "country": "India", 
+                "subdistrict": "Challakere", 
+                "longitude": 76.6528225, 
+                "state": "Karnataka", 
+                "latitude": 14.313395
+            }, 
+            {
+                "district": "Chitradurga", 
+                "country": "India", 
+                "subdistrict": "Chitradurga", 
+                "longitude": 76.39845369999999, 
+                "state": "Karnataka", 
+                "latitude": 14.2305594
+            }, 
+            {
+                "district": "Chitradurga", 
+                "country": "India", 
+                "subdistrict": "Holalkere", 
+                "longitude": 76.18127199999999, 
+                "state": "Karnataka", 
+                "latitude": 14.0504576
+            }, 
+            {
+                "district": "Chitradurga", 
+                "country": "India", 
+                "subdistrict": "Hosdurga", 
+                "longitude": 76.2850567, 
+                "state": "Karnataka", 
+                "latitude": 13.7985261
+            }, 
+            {
+                "district": "Chitradurga", 
+                "country": "India", 
+                "subdistrict": "Hiriyur", 
+                "longitude": 76.6160733, 
+                "state": "Karnataka", 
+                "latitude": 13.9438209
+            }, 
+            {
+                "district": "Dakshina Kannada", 
+                "country": "India", 
+                "subdistrict": "Mangalore", 
+                "longitude": 74.8559568, 
+                "state": "Karnataka", 
+                "latitude": 12.9141417
+            }, 
+            {
+                "district": "Dakshina Kannada", 
+                "country": "India", 
+                "subdistrict": "Bantval", 
+                "longitude": 75.0260667, 
+                "state": "Karnataka", 
+                "latitude": 12.886995
+            }, 
+            {
+                "district": "Dakshina Kannada", 
+                "country": "India", 
+                "subdistrict": "Beltangadi", 
+                "longitude": 75.2725454, 
+                "state": "Karnataka", 
+                "latitude": 12.9886641
+            }, 
+            {
+                "district": "Dakshina Kannada", 
+                "country": "India", 
+                "subdistrict": "Puttur", 
+                "longitude": 75.2070644, 
+                "state": "Karnataka", 
+                "latitude": 12.7686756
+            }, 
+            {
+                "district": "Dakshina Kannada", 
+                "country": "India", 
+                "subdistrict": "Sulya", 
+                "longitude": 75.3907667, 
+                "state": "Karnataka", 
+                "latitude": 12.5580735
+            }, 
+            {
+                "district": "Davangere", 
+                "country": "India", 
+                "subdistrict": "Harihar", 
+                "longitude": 75.8010962, 
+                "state": "Karnataka", 
+                "latitude": 14.5304566
+            }, 
+            {
+                "district": "Davangere", 
+                "country": "India", 
+                "subdistrict": "Harapanahalli", 
+                "longitude": 75.9869609, 
+                "state": "Karnataka", 
+                "latitude": 14.7809865
+            }, 
+            {
+                "district": "Davangere", 
+                "country": "India", 
+                "subdistrict": "Jagalur", 
+                "longitude": 76.33767859999999, 
+                "state": "Karnataka", 
+                "latitude": 14.5200883
+            }, 
+            {
+                "district": "Davangere", 
+                "country": "India", 
+                "subdistrict": "Davanagere", 
+                "longitude": 75.9238397, 
+                "state": "Karnataka", 
+                "latitude": 14.4663438
+            }, 
+            {
+                "district": "Davangere", 
+                "country": "India", 
+                "subdistrict": "Honnali", 
+                "longitude": 75.6469934, 
+                "state": "Karnataka", 
+                "latitude": 14.2342499
+            }, 
+            {
+                "district": "Davangere", 
+                "country": "India", 
+                "subdistrict": "Channagiri", 
+                "longitude": 75.9260011, 
+                "state": "Karnataka", 
+                "latitude": 14.0241989
+            }, 
+            {
+                "district": "Dharwad", 
+                "country": "India", 
+                "subdistrict": "Dharwad", 
+                "longitude": 75.007808, 
+                "state": "Karnataka", 
+                "latitude": 15.4589236
+            }, 
+            {
+                "district": "Dharwad", 
+                "country": "India", 
+                "subdistrict": "Navalgund", 
+                "longitude": 75.3556407, 
+                "state": "Karnataka", 
+                "latitude": 15.5604653
+            }, 
+            {
+                "district": "Dharwad", 
+                "country": "India", 
+                "subdistrict": "Hubli", 
+                "longitude": 75.1311874, 
+                "state": "Karnataka", 
+                "latitude": 15.3471361
+            }, 
+            {
+                "district": "Dharwad", 
+                "country": "India", 
+                "subdistrict": "Kalghatgi", 
+                "longitude": 74.9705585, 
+                "state": "Karnataka", 
+                "latitude": 15.1852271
+            }, 
+            {
+                "district": "Dharwad", 
+                "country": "India", 
+                "subdistrict": "Kundgol", 
+                "longitude": 75.24753539999999, 
+                "state": "Karnataka", 
+                "latitude": 15.2552502
+            }, 
+            {
+                "district": "Gadag", 
+                "country": "India", 
+                "subdistrict": "Nargund", 
+                "longitude": 75.3849382, 
+                "state": "Karnataka", 
+                "latitude": 15.7213753
+            }, 
+            {
+                "district": "Gadag", 
+                "country": "India", 
+                "subdistrict": "Ron", 
+                "longitude": 75.7329592, 
+                "state": "Karnataka", 
+                "latitude": 15.6995608
+            }, 
+            {
+                "district": "Gadag", 
+                "country": "India", 
+                "subdistrict": "Gadag", 
+                "longitude": 75.6380337, 
+                "state": "Karnataka", 
+                "latitude": 15.4324651
+            }, 
+            {
+                "district": "Gadag", 
+                "country": "India", 
+                "subdistrict": "Shirhatti", 
+                "longitude": 75.5771573, 
+                "state": "Karnataka", 
+                "latitude": 15.2312878
+            }, 
+            {
+                "district": "Gadag", 
+                "country": "India", 
+                "subdistrict": "Mundargi", 
+                "longitude": 75.8853465, 
+                "state": "Karnataka", 
+                "latitude": 15.2054557
+            }, 
+            {
+                "district": "Gulbarga", 
+                "country": "India", 
+                "subdistrict": "Aland", 
+                "longitude": 76.5661622, 
+                "state": "Karnataka", 
+                "latitude": 17.5676275
+            }, 
+            {
+                "district": "Gulbarga", 
+                "country": "India", 
+                "subdistrict": "Afzalpur", 
+                "longitude": 76.3577624, 
+                "state": "Karnataka", 
+                "latitude": 17.2025612
+            }, 
+            {
+                "district": "Gulbarga", 
+                "country": "India", 
+                "subdistrict": "Gulbarga", 
+                "longitude": 76.8342957, 
+                "state": "Karnataka", 
+                "latitude": 17.329731
+            }, 
+            {
+                "district": "Gulbarga", 
+                "country": "India", 
+                "subdistrict": "Chincholi", 
+                "longitude": 77.4192758, 
+                "state": "Karnataka", 
+                "latitude": 17.4610238
+            }, 
+            {
+                "district": "Gulbarga", 
+                "country": "India", 
+                "subdistrict": "Sedam", 
+                "longitude": 77.2872658, 
+                "state": "Karnataka", 
+                "latitude": 17.1783909
+            }, 
+            {
+                "district": "Gulbarga", 
+                "country": "India", 
+                "subdistrict": "Chitapur", 
+                "longitude": 77.0830256, 
+                "state": "Karnataka", 
+                "latitude": 17.1181765
+            }, 
+            {
+                "district": "Gulbarga", 
+                "country": "India", 
+                "subdistrict": "Jevargi", 
+                "longitude": 76.77693239999999, 
+                "state": "Karnataka", 
+                "latitude": 17.0114485
+            }, 
+            {
+                "district": "Hassan", 
+                "country": "India", 
+                "subdistrict": "Sakleshpur", 
+                "longitude": 75.78656529999999, 
+                "state": "Karnataka", 
+                "latitude": 12.9441511
+            }, 
+            {
+                "district": "Hassan", 
+                "country": "India", 
+                "subdistrict": "Belur", 
+                "longitude": 75.8679195, 
+                "state": "Karnataka", 
+                "latitude": 13.1623166
+            }, 
+            {
+                "district": "Hassan", 
+                "country": "India", 
+                "subdistrict": "Arsikere", 
+                "longitude": 76.2537052, 
+                "state": "Karnataka", 
+                "latitude": 13.3104549
+            }, 
+            {
+                "district": "Hassan", 
+                "country": "India", 
+                "subdistrict": "Hassan", 
+                "longitude": 76.0995519, 
+                "state": "Karnataka", 
+                "latitude": 13.0068142
+            }, 
+            {
+                "district": "Hassan", 
+                "country": "India", 
+                "subdistrict": "Alur", 
+                "longitude": 75.9913141, 
+                "state": "Karnataka", 
+                "latitude": 12.979283
+            }, 
+            {
+                "district": "Hassan", 
+                "country": "India", 
+                "subdistrict": "Arkalgud", 
+                "longitude": 76.06094759999999, 
+                "state": "Karnataka", 
+                "latitude": 12.7639683
+            }, 
+            {
+                "district": "Hassan", 
+                "country": "India", 
+                "subdistrict": "Hole Narsipur", 
+                "longitude": 76.2467352, 
+                "state": "Karnataka", 
+                "latitude": 12.7869166
+            }, 
+            {
+                "district": "Hassan", 
+                "country": "India", 
+                "subdistrict": "Channarayapatna", 
+                "longitude": 76.38986369999999, 
+                "state": "Karnataka", 
+                "latitude": 12.9000208
+            }, 
+            {
+                "district": "Haveri", 
+                "country": "India", 
+                "subdistrict": "Shiggaon", 
+                "longitude": 75.22165199999999, 
+                "state": "Karnataka", 
+                "latitude": 14.9913752
+            }, 
+            {
+                "district": "Haveri", 
+                "country": "India", 
+                "subdistrict": "Savanur", 
+                "longitude": 75.3355694, 
+                "state": "Karnataka", 
+                "latitude": 14.9724912
+            }, 
+            {
+                "district": "Haveri", 
+                "country": "India", 
+                "subdistrict": "Hangal", 
+                "longitude": 75.1253492, 
+                "state": "Karnataka", 
+                "latitude": 14.771781
+            }, 
+            {
+                "district": "Haveri", 
+                "country": "India", 
+                "subdistrict": "Haveri", 
+                "longitude": 75.4024228, 
+                "state": "Karnataka", 
+                "latitude": 14.7982906
+            }, 
+            {
+                "district": "Haveri", 
+                "country": "India", 
+                "subdistrict": "Byadgi", 
+                "longitude": 75.4869033, 
+                "state": "Karnataka", 
+                "latitude": 14.6814129
+            }, 
+            {
+                "district": "Haveri", 
+                "country": "India", 
+                "subdistrict": "Hirekerur", 
+                "longitude": 75.39513780000001, 
+                "state": "Karnataka", 
+                "latitude": 14.4554926
+            }, 
+            {
+                "district": "Haveri", 
+                "country": "India", 
+                "subdistrict": "Ranibennur", 
+                "longitude": 75.63826569999999, 
+                "state": "Karnataka", 
+                "latitude": 14.6113428
+            }, 
+            {
+                "district": "Kodagu", 
+                "country": "India", 
+                "subdistrict": "Madikeri", 
+                "longitude": 75.7381856, 
+                "state": "Karnataka", 
+                "latitude": 12.4244205
+            }, 
+            {
+                "district": "Kodagu", 
+                "country": "India", 
+                "subdistrict": "Somvarpet", 
+                "longitude": 75.8504904, 
+                "state": "Karnataka", 
+                "latitude": 12.5943101
+            }, 
+            {
+                "district": "Kodagu", 
+                "country": "India", 
+                "subdistrict": "Virajpet", 
+                "longitude": 75.8040022, 
+                "state": "Karnataka", 
+                "latitude": 12.1949851
+            }, 
+            {
+                "district": "Kolar", 
+                "country": "India", 
+                "subdistrict": "Srinivaspur", 
+                "longitude": 78.20773679999999, 
+                "state": "Karnataka", 
+                "latitude": 13.3305066
+            }, 
+            {
+                "district": "Kolar", 
+                "country": "India", 
+                "subdistrict": "Kolar", 
+                "longitude": 78.1325611, 
+                "state": "Karnataka", 
+                "latitude": 13.1357446
+            }, 
+            {
+                "district": "Kolar", 
+                "country": "India", 
+                "subdistrict": "Malur", 
+                "longitude": 77.94245310000001, 
+                "state": "Karnataka", 
+                "latitude": 13.0034948
+            }, 
+            {
+                "district": "Kolar", 
+                "country": "India", 
+                "subdistrict": "Bangarapet", 
+                "longitude": 78.1787597, 
+                "state": "Karnataka", 
+                "latitude": 12.9914907
+            }, 
+            {
+                "district": "Kolar", 
+                "country": "India", 
+                "subdistrict": "Mulbagal", 
+                "longitude": 78.39407369999999, 
+                "state": "Karnataka", 
+                "latitude": 13.1666533
+            }, 
+            {
+                "district": "Koppal", 
+                "country": "India", 
+                "subdistrict": "Yelbarga", 
+                "longitude": 76.0130784, 
+                "state": "Karnataka", 
+                "latitude": 15.6141511
+            }, 
+            {
+                "district": "Koppal", 
+                "country": "India", 
+                "subdistrict": "Kushtagi", 
+                "longitude": 76.19286400000001, 
+                "state": "Karnataka", 
+                "latitude": 15.7518704
+            }, 
+            {
+                "district": "Koppal", 
+                "country": "India", 
+                "subdistrict": "Gangawati", 
+                "longitude": 76.5314817, 
+                "state": "Karnataka", 
+                "latitude": 15.431874
+            }, 
+            {
+                "district": "Koppal", 
+                "country": "India", 
+                "subdistrict": "Koppal", 
+                "longitude": 76.1554311, 
+                "state": "Karnataka", 
+                "latitude": 15.3507081
+            }, 
+            {
+                "district": "Mandya", 
+                "country": "India", 
+                "subdistrict": "Krishnarajpet", 
+                "longitude": 76.488118, 
+                "state": "Karnataka", 
+                "latitude": 12.6558313
+            }, 
+            {
+                "district": "Mandya", 
+                "country": "India", 
+                "subdistrict": "Nagamangala", 
+                "longitude": 76.7596221, 
+                "state": "Karnataka", 
+                "latitude": 12.8271447
+            }, 
+            {
+                "district": "Mandya", 
+                "country": "India", 
+                "subdistrict": "Pandavapura", 
+                "longitude": 76.6642853, 
+                "state": "Karnataka", 
+                "latitude": 12.4928616
+            }, 
+            {
+                "district": "Mandya", 
+                "country": "India", 
+                "subdistrict": "Shrirangapattana", 
+                "longitude": 76.6931273, 
+                "state": "Karnataka", 
+                "latitude": 12.4215561
+            }, 
+            {
+                "district": "Mandya", 
+                "country": "India", 
+                "subdistrict": "Mandya", 
+                "longitude": 76.9009191, 
+                "state": "Karnataka", 
+                "latitude": 12.5221567
+            }, 
+            {
+                "district": "Mandya", 
+                "country": "India", 
+                "subdistrict": "Maddur", 
+                "longitude": 77.0434934, 
+                "state": "Karnataka", 
+                "latitude": 12.5839436
+            }, 
+            {
+                "district": "Mandya", 
+                "country": "India", 
+                "subdistrict": "Malavalli", 
+                "longitude": 77.0535798, 
+                "state": "Karnataka", 
+                "latitude": 12.3853432
+            }, 
+            {
+                "district": "Mysore", 
+                "country": "India", 
+                "subdistrict": "Piriyapatna", 
+                "longitude": 76.09865099999999, 
+                "state": "Karnataka", 
+                "latitude": 12.3373606
+            }, 
+            {
+                "district": "Mysore", 
+                "country": "India", 
+                "subdistrict": "Hunsur", 
+                "longitude": 76.28845919999999, 
+                "state": "Karnataka", 
+                "latitude": 12.3009419
+            }, 
+            {
+                "district": "Mysore", 
+                "country": "India", 
+                "subdistrict": "Krishnarajanagara", 
+                "longitude": 76.3810922, 
+                "state": "Karnataka", 
+                "latitude": 12.4400123
+            }, 
+            {
+                "district": "Mysore", 
+                "country": "India", 
+                "subdistrict": "Mysore", 
+                "longitude": 76.6393805, 
+                "state": "Karnataka", 
+                "latitude": 12.2958104
+            }, 
+            {
+                "district": "Mysore", 
+                "country": "India", 
+                "subdistrict": "Heggadadevankote", 
+                "longitude": 76.33188899999999, 
+                "state": "Karnataka", 
+                "latitude": 12.0879642
+            }, 
+            {
+                "district": "Mysore", 
+                "country": "India", 
+                "subdistrict": "Nanjangud", 
+                "longitude": 76.680093, 
+                "state": "Karnataka", 
+                "latitude": 12.1199769
+            }, 
+            {
+                "district": "Mysore", 
+                "country": "India", 
+                "subdistrict": "Tirumakudal - Narsipur", 
+                "longitude": 76.9038011, 
+                "state": "Karnataka", 
+                "latitude": 12.2110225
+            }, 
+            {
+                "district": "Raichur", 
+                "country": "India", 
+                "subdistrict": "Lingsugur", 
+                "longitude": 76.5199195, 
+                "state": "Karnataka", 
+                "latitude": 16.1550404
+            }, 
+            {
+                "district": "Raichur", 
+                "country": "India", 
+                "subdistrict": "Devadurga", 
+                "longitude": 76.9354979, 
+                "state": "Karnataka", 
+                "latitude": 16.4235352
+            }, 
+            {
+                "district": "Raichur", 
+                "country": "India", 
+                "subdistrict": "Raichur", 
+                "longitude": 77.3439283, 
+                "state": "Karnataka", 
+                "latitude": 16.2120031
+            }, 
+            {
+                "district": "Raichur", 
+                "country": "India", 
+                "subdistrict": "Manvi", 
+                "longitude": 77.0478112, 
+                "state": "Karnataka", 
+                "latitude": 15.9951034
+            }, 
+            {
+                "district": "Raichur", 
+                "country": "India", 
+                "subdistrict": "Sindhnur", 
+                "longitude": 76.7560495, 
+                "state": "Karnataka", 
+                "latitude": 15.7702099
+            }, 
+            {
+                "district": "Ramnagara", 
+                "country": "India", 
+                "subdistrict": "Magadi", 
+                "longitude": 77.22614519999999, 
+                "state": "Karnataka", 
+                "latitude": 12.9576756
+            }, 
+            {
+                "district": "Ramnagara", 
+                "country": "India", 
+                "subdistrict": "Ramanagara", 
+                "longitude": 77.2807423, 
+                "state": "Karnataka", 
+                "latitude": 12.7094487
+            }, 
+            {
+                "district": "Ramnagara", 
+                "country": "India", 
+                "subdistrict": "Channapatna", 
+                "longitude": 77.20027449999999, 
+                "state": "Karnataka", 
+                "latitude": 12.6492422
+            }, 
+            {
+                "district": "Ramnagara", 
+                "country": "India", 
+                "subdistrict": "Kanakapura", 
+                "longitude": 77.4198823, 
+                "state": "Karnataka", 
+                "latitude": 12.5462442
+            }, 
+            {
+                "district": "Shimoga", 
+                "country": "India", 
+                "subdistrict": "Sagar", 
+                "longitude": 75.0403, 
+                "state": "Karnataka", 
+                "latitude": 14.1670402
+            }, 
+            {
+                "district": "Shimoga", 
+                "country": "India", 
+                "subdistrict": "Sorab", 
+                "longitude": 75.1022271, 
+                "state": "Karnataka", 
+                "latitude": 14.3811533
+            }, 
+            {
+                "district": "Shimoga", 
+                "country": "India", 
+                "subdistrict": "Shikarpur", 
+                "longitude": 75.3557927, 
+                "state": "Karnataka", 
+                "latitude": 14.2673037
+            }, 
+            {
+                "district": "Shimoga", 
+                "country": "India", 
+                "subdistrict": "Hosanagara", 
+                "longitude": 75.06403499999999, 
+                "state": "Karnataka", 
+                "latitude": 13.9153869
+            }, 
+            {
+                "district": "Shimoga", 
+                "country": "India", 
+                "subdistrict": "Tirthahalli", 
+                "longitude": 75.24498919999999, 
+                "state": "Karnataka", 
+                "latitude": 13.6894963
+            }, 
+            {
+                "district": "Shimoga", 
+                "country": "India", 
+                "subdistrict": "Shimoga", 
+                "longitude": 75.568101, 
+                "state": "Karnataka", 
+                "latitude": 13.9299299
+            }, 
+            {
+                "district": "Shimoga", 
+                "country": "India", 
+                "subdistrict": "Bhadravati", 
+                "longitude": 75.7080727, 
+                "state": "Karnataka", 
+                "latitude": 13.8329901
+            }, 
+            {
+                "district": "Tumkur", 
+                "country": "India", 
+                "subdistrict": "Chiknayakanhalli", 
+                "longitude": 76.6197912, 
+                "state": "Karnataka", 
+                "latitude": 13.4185443
+            }, 
+            {
+                "district": "Tumkur", 
+                "country": "India", 
+                "subdistrict": "Sira", 
+                "longitude": 76.8989501, 
+                "state": "Karnataka", 
+                "latitude": 13.7447631
+            }, 
+            {
+                "district": "Tumkur", 
+                "country": "India", 
+                "subdistrict": "Pavagada", 
+                "longitude": 77.2807423, 
+                "state": "Karnataka", 
+                "latitude": 14.1030998
+            }, 
+            {
+                "district": "Tumkur", 
+                "country": "India", 
+                "subdistrict": "Madhugiri", 
+                "longitude": 77.20889869999999, 
+                "state": "Karnataka", 
+                "latitude": 13.6643166
+            }, 
+            {
+                "district": "Tumkur", 
+                "country": "India", 
+                "subdistrict": "Koratagere", 
+                "longitude": 77.2376414, 
+                "state": "Karnataka", 
+                "latitude": 13.5239755
+            }, 
+            {
+                "district": "Tumkur", 
+                "country": "India", 
+                "subdistrict": "Tumkur", 
+                "longitude": 77.1139984, 
+                "state": "Karnataka", 
+                "latitude": 13.3391677
+            }, 
+            {
+                "district": "Tumkur", 
+                "country": "India", 
+                "subdistrict": "Gubbi", 
+                "longitude": 76.9398195, 
+                "state": "Karnataka", 
+                "latitude": 13.3117814
+            }, 
+            {
+                "district": "Tumkur", 
+                "country": "India", 
+                "subdistrict": "Tiptur", 
+                "longitude": 76.4702946, 
+                "state": "Karnataka", 
+                "latitude": 13.2637814
+            }, 
+            {
+                "district": "Tumkur", 
+                "country": "India", 
+                "subdistrict": "Turuvekere", 
+                "longitude": 76.6672602, 
+                "state": "Karnataka", 
+                "latitude": 13.1605403
+            }, 
+            {
+                "district": "Tumkur", 
+                "country": "India", 
+                "subdistrict": "Kunigal", 
+                "longitude": 77.0448907, 
+                "state": "Karnataka", 
+                "latitude": 13.0259133
+            }, 
+            {
+                "district": "Udupi", 
+                "country": "India", 
+                "subdistrict": "Kundapura", 
+                "longitude": 74.6899917, 
+                "state": "Karnataka", 
+                "latitude": 13.6315963
+            }, 
+            {
+                "district": "Udupi", 
+                "country": "India", 
+                "subdistrict": "Udupi", 
+                "longitude": 74.746596, 
+                "state": "Karnataka", 
+                "latitude": 13.3371151
+            }, 
+            {
+                "district": "Udupi", 
+                "country": "India", 
+                "subdistrict": "Karkal", 
+                "longitude": 74.9961799, 
+                "state": "Karnataka", 
+                "latitude": 13.2150997
+            }, 
+            {
+                "district": "Uttara Kannada (Karwar)", 
+                "country": "India", 
+                "subdistrict": "Karwar", 
+                "longitude": 74.1256665, 
+                "state": "Karnataka", 
+                "latitude": 14.8095383
+            }, 
+            {
+                "district": "Uttara Kannada (Karwar)", 
+                "country": "India", 
+                "subdistrict": "Supa", 
+                "longitude": 74.5098189, 
+                "state": "Karnataka", 
+                "latitude": 15.269234
+            }, 
+            {
+                "district": "Uttara Kannada (Karwar)", 
+                "country": "India", 
+                "subdistrict": "Haliyal", 
+                "longitude": 74.9641602, 
+                "state": "Karnataka", 
+                "latitude": 15.1804397
+            }, 
+            {
+                "district": "Uttara Kannada (Karwar)", 
+                "country": "India", 
+                "subdistrict": "Yellapur", 
+                "longitude": 74.714444, 
+                "state": "Karnataka", 
+                "latitude": 14.9632604
+            }, 
+            {
+                "district": "Uttara Kannada (Karwar)", 
+                "country": "India", 
+                "subdistrict": "Mundgod", 
+                "longitude": 75.040671, 
+                "state": "Karnataka", 
+                "latitude": 14.9736854
+            }, 
+            {
+                "district": "Uttara Kannada (Karwar)", 
+                "country": "India", 
+                "subdistrict": "Sirsi", 
+                "longitude": 74.714444, 
+                "state": "Karnataka", 
+                "latitude": 14.9632604
+            }, 
+            {
+                "district": "Uttara Kannada (Karwar)", 
+                "country": "India", 
+                "subdistrict": "Ankola", 
+                "longitude": 74.30860849999999, 
+                "state": "Karnataka", 
+                "latitude": 14.6693217
+            }, 
+            {
+                "district": "Uttara Kannada (Karwar)", 
+                "country": "India", 
+                "subdistrict": "Kumta", 
+                "longitude": 74.4190929, 
+                "state": "Karnataka", 
+                "latitude": 14.4275482
+            }, 
+            {
+                "district": "Uttara Kannada (Karwar)", 
+                "country": "India", 
+                "subdistrict": "Siddapur", 
+                "longitude": 74.88998409999999, 
+                "state": "Karnataka", 
+                "latitude": 14.3410006
+            }, 
+            {
+                "district": "Uttara Kannada (Karwar)", 
+                "country": "India", 
+                "subdistrict": "Honavar", 
+                "longitude": 74.4439252, 
+                "state": "Karnataka", 
+                "latitude": 14.2797502
+            }, 
+            {
+                "district": "Uttara Kannada (Karwar)", 
+                "country": "India", 
+                "subdistrict": "Bhatkal", 
+                "longitude": 74.566009, 
+                "state": "Karnataka", 
+                "latitude": 13.98911
+            }, 
+            {
+                "district": "Yadgir", 
+                "country": "India", 
+                "subdistrict": "Yadgir", 
+                "longitude": 77.142764, 
+                "state": "Karnataka", 
+                "latitude": 16.7601963
+            }, 
+            {
+                "district": "Yadgir", 
+                "country": "India", 
+                "subdistrict": "Shorapur", 
+                "longitude": 76.76105179999999, 
+                "state": "Karnataka", 
+                "latitude": 16.5216887
+            }, 
+            {
+                "district": "Yadgir", 
+                "country": "India", 
+                "subdistrict": "Shahpur", 
+                "longitude": 76.8431564, 
+                "state": "Karnataka", 
+                "latitude": 16.6956754
+            }
+        ]
+    },
+    {
+        "major_destinations":[ 
+            "Chikmagalur",
+            "Karnataka",
+            "Mysore",
+            "Bidar",
+            "Mangalore",
+            "Badami",
+            "Bangalore"
+        ]
+    }
+]

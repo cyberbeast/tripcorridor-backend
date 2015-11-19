@@ -1,0 +1,141 @@
+query:  places is bangalore
+
+<Selector
+    intent:to list
+    what:points of interest in major destination
+    where:Bangalore
+    property:None
+>
+        
+Generated Neo4j Cypher Query:
+
+            MATCH (poi:PointOfInterest)<-[:HAS]-(md:MajorDestination)
+            WHERE md.name = "Bangalore"
+            RETURN poi
+            LIMIT 5
+            
+--------------------------------------------------------------------------------
+Executing Query...
+Query response: 
+{
+    "status": "success", 
+    "query": "\n            MATCH (poi:PointOfInterest)<-[:HAS]-(md:MajorDestination)\n            WHERE md.name = \"Bangalore\"\n            RETURN poi\n            LIMIT 5\n            ", 
+    "results": [
+        {
+            "poi": {
+                "timings_from": 7, 
+                "name": "Male Mahadeshwara Hills", 
+                "text": "Male Mahadeshwara Hills is a pilgrim town located in the Kollegal taluk of Chamarajanagar district of southern Karnataka. It is situated at about 150 km from Mysore and about 210 km from Bangalore.", 
+                "pricing_child": 375, 
+                "best_season_from": "january", 
+                "longitude": 77.1100894, 
+                "timings_to": 12, 
+                "latitude": 12.1560923, 
+                "best_season_to": "november", 
+                "id": 80, 
+                "pricing_adult": 650
+            }
+        }, 
+        {
+            "poi": {
+                "timings_from": 8, 
+                "owners": "Kochouseph Chittilappilly", 
+                "type": "Amusement park in India", 
+                "name": "Wonderla", 
+                "area": "33 ha", 
+                "rides": "Wavy and Vertical Fall, Wonder la Bamba, Crazy Cars, Maverick, Drop Zone", 
+                "pricing_child": 1025, 
+                "best_season_from": "january", 
+                "longitude": 77.3872174, 
+                "timings_to": 19, 
+                "hours": "Open today  11 00 am  7 00 pm", 
+                "phone": "080 2201 0333", 
+                "text": "Wonderla Holidays Limited is a leading amusement park designing and operating company in India headquartered near Bidadi, 28 kilometres from Bangalore. It is promoted by Kochouseph Chittilappilly and his son Arun Chittilappilly.", 
+                "address": "28th km, Mysore Road, Before Bidadi, Bangalore, Karnataka 562109", 
+                "latitude": 12.7984219, 
+                "best_season_to": "december", 
+                "id": 79, 
+                "pricing_adult": 1375, 
+                "opened": "2005"
+            }
+        }, 
+        {
+            "poi": {
+                "timings_from": 11, 
+                "name": "Thottikallu", 
+                "text": "Thottikallu is a place near Bangalore off the Kanakapura road which is famous for a falls called Thottikallu falls, more popularly known as TK falls. It is also known as 'SwarnaMukhi' water falls. SwarnaMukhi translates as 'Golden-Faced'.", 
+                "pricing_child": 525, 
+                "best_season_from": "febraury", 
+                "longitude": 77.5549333, 
+                "timings_to": 12, 
+                "address": "Bangalore, Karnataka 560083", 
+                "latitude": 12.82667, 
+                "best_season_to": "febraury", 
+                "id": 76, 
+                "pricing_adult": 700
+            }
+        }, 
+        {
+            "poi": {
+                "timings_from": 7, 
+                "capacity": "4000", 
+                "name": "Kanteerava Indoor Stadium", 
+                "text": "Kanteerava Indoor Stadium, also known as the Sree or Sri Kanteerava Indoor Stadium, is an indoor sporting arena located in Bangalore, India, near Cubbon Park, within the heart of city in the Central Administrative Area.", 
+                "pricing_child": 250, 
+                "best_season_from": "august", 
+                "longitude": 75.7138884, 
+                "timings_to": 18, 
+                "type": "Stadium in India", 
+                "latitude": 15.3172775, 
+                "best_season_to": "april", 
+                "id": 68, 
+                "pricing_adult": 575, 
+                "opened": "1995"
+            }
+        }, 
+        {
+            "poi": {
+                "timings_from": 8, 
+                "name": "Thippagondanahalli Reservoir", 
+                "text": "Thippagondanahalli Reservoir, also known as T G Halli Dam or Chamarajsagar, is located at the confluence of the Arkavathy River and Kumudavathi River, 35 km west of Bangalore, India.", 
+                "pricing_child": 275, 
+                "best_season_from": "may", 
+                "longitude": 75.7138884, 
+                "timings_to": 15, 
+                "type": "Body Of Water", 
+                "latitude": 15.3172775, 
+                "best_season_to": "january", 
+                "id": 64, 
+                "pricing_adult": 625
+            }
+        }
+    ], 
+    "result_length": 5
+}
+--------------------------------------------------------------------------------
+===========================================================
+                        YOUR OUTPUT 
+===========================================================
+Here are points of interest in Bangalore
+
+        Name: Male Mahadeshwara Hills
+        Quick Info: Male Mahadeshwara Hills is a pilgrim town located in the Kollegal taluk of Chamarajanagar district of southern Karnataka. It is situated at about 150 km from Mysore and about 210 km from Bangalore.
+        
+
+        Name: Wonderla
+        Quick Info: Wonderla Holidays Limited is a leading amusement park designing and operating company in India headquartered near Bidadi, 28 kilometres from Bangalore. It is promoted by Kochouseph Chittilappilly and his son Arun Chittilappilly.
+        
+
+        Name: Thottikallu
+        Quick Info: Thottikallu is a place near Bangalore off the Kanakapura road which is famous for a falls called Thottikallu falls, more popularly known as TK falls. It is also known as 'SwarnaMukhi' water falls. SwarnaMukhi translates as 'Golden-Faced'.
+        
+
+        Name: Kanteerava Indoor Stadium
+        Quick Info: Kanteerava Indoor Stadium, also known as the Sree or Sri Kanteerava Indoor Stadium, is an indoor sporting arena located in Bangalore, India, near Cubbon Park, within the heart of city in the Central Administrative Area.
+        
+
+        Name: Thippagondanahalli Reservoir
+        Quick Info: Thippagondanahalli Reservoir, also known as T G Halli Dam or Chamarajsagar, is located at the confluence of the Arkavathy River and Kumudavathi River, 35 km west of Bangalore, India.
+        
+===========================================================
+--------------------------------------------------------------------------------

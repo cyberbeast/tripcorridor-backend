@@ -1,0 +1,1461 @@
+[
+    {
+        "name": "Vijayanagara", 
+        "text": "Vijaya Nagara is in Bellary District, northern Karnataka. It is the name of the now-ruined capital city that surrounds modern-day Hampi, of the historic Vijayanagara empire which extended over the southern part of India.", 
+        "longitude": 77.5298856, 
+        "weather": "26C, Wind W at 19 km/h, 70% Humidity", 
+        "latitude": 12.9719161, 
+        "type": "City in India", 
+        "id": 1, 
+        "categories": [
+            "Temple", 
+            "Ruins", 
+            "Architecture", 
+            "History"
+        ]
+    }, 
+    {
+        "name": "Sringeri", 
+        "text": "Sringeri, also written as Shringeri is a hill town and taluka headquarters located in Chikkamagaluru district in the South Indian state of Karnataka. It is the site of the first maha established by ...", 
+        "longitude": 75.2566564, 
+        "weather": "22C, Wind W at 5 km/h, 91% Humidity", 
+        "latitude": 13.4197675, 
+        "type": "Town in India", 
+        "id": 2, 
+        "categories": [
+            "Temple", 
+            "Architecture", 
+            "All Destinations"
+        ], 
+        "population": "4,253 (2001)"
+    },  
+    {
+        "getting there": "1 h 5 min flight. View flights", 
+        "name": "Saundatti", 
+        "area": "16 km", 
+        "text": "Saundatti also known as Sugandavarti and is one of the oldest towns in Belgaum district in the Indian state of Karnataka. It is a celebrated pilgrimage centre located 78 kilometres from Belgaum.", 
+        "longitude": 75.1165915, 
+        "weather": "22C, Wind W at 11 km/h, 85% Humidity", 
+        "latitude": 15.7658355, 
+        "type": "Town in India", 
+        "id": 4, 
+        "categories": [
+            "Temple", 
+            "History", 
+            "Architecture"
+        ], 
+        "population": "38,155 (2011)"
+    }, 
+    {
+        "name": "Gokarna, India", 
+        "area": "10.9 km", 
+        "text": "Gokarna is a small temple town located on the western coast of India in the Uttara Kannada district of the Indian state of Karnataka. Main temple and deity is Lord Shiva, who is also known as Mahabhaleshwara.", 
+        "longitude": 88.118392, 
+        "weather": "26C, Wind NW at 10 km/h, 92% Humidity", 
+        "latitude": 24.0464021, 
+        "type": "Town in India", 
+        "id": 5, 
+        "categories": [
+            "Beach", 
+            "Yoga", 
+            "All Destinations"
+        ], 
+        "population": "25,851 (2001)"
+    }, 
+    {
+        "established": "September 2, 1987", 
+        "name": "Anshi National Park", 
+        "text": "Anshi National Park is located in Uttara Kannada district, in the Indian state of Karnataka, bordering the state of Goa. The park is a habitat of Bengal tigers, black panthers and Indian elephants, amongst other distinctive fauna.", 
+        "longitude": 74.35874729999999, 
+        "address": "Kodthalli, Karnataka 581187", 
+        "latitude": 14.9980998, 
+        "type": "State park in Dandeli, India", 
+        "id": 6, 
+        "categories": [
+            "Forests", 
+            "Wildlife Refuge", 
+            "Backpacking", 
+            "Wildlife", 
+            "Nature"
+        ]
+    }, 
+    {
+        "name": "Pandavapura", 
+        "text": "Pandavapura is a panchayat town in Mandya district in the Indian state of Karnataka.", 
+        "longitude": 76.6642853, 
+        "weather": "28C, Wind W at 11 km/h, 65% Humidity", 
+        "latitude": 12.4928616, 
+        "type": "Town in India", 
+        "id": 7, 
+        "categories": [
+            "Lakes", 
+            "Nature"
+        ], 
+        "population": "18,236 (2001)"
+    }, 
+    {
+        "name": "Virajpet", 
+        "text": "The town of Virajpet also spelled as Virajapete is the second town of the district of Kodagu, in Karnataka. It is the main town of the Virajpet taluka, in the south of the district.", 
+        "longitude": 75.8040022, 
+        "weather": "21C, Wind W at 8 km/h, 100% Humidity", 
+        "latitude": 12.1949851, 
+        "type": "Town in India", 
+        "id": 8, 
+        "categories": [
+            "Golf", 
+            "All Destinations"
+        ], 
+        "population": "17,246 (2011)"
+    }, 
+    {
+        "name": "Kotilingeshwara", 
+        "text": "Kotilingeshwara is the presiding deity of the temple of the same name in the village of Kammasandra in India. Kammasandra is a small village situated in Kolar district of Karnataka state.", 
+        "longitude": 86.5148133, 
+        "weather": "22C, Wind W at 13 km/h, 87% Humidity", 
+        "latitude": 21.6118428, 
+        "type": "Village in India", 
+        "id": 9, 
+        "categories": [
+            "Temple", 
+            "Architecture"
+        ]
+    }, 
+    {
+        "name": "Kumta", 
+        "area": "15.34 km", 
+        "text": "Kumta is a town and a taluk in the Uttara Kannada district of Karnataka, India. Kumta is about 142 km south of Margao and 58 km north of Bhatkal. It is one of the important stations along the Konkan Railway line running between Mumbai and Mangalore.", 
+        "longitude": 74.4190929, 
+        "weather": "26C, Wind NW at 2 km/h, 92% Humidity", 
+        "latitude": 14.4275482, 
+        "type": "Town in India", 
+        "id": 10, 
+        "categories": [
+            "Beach", 
+            "Temple", 
+            "Yoga"
+        ], 
+        "population": "145,826 (2011)"
+    }, 
+    {
+        "name": "Talakad", 
+        "text": "Talakad or Talakadu is a desert-like town on the left bank of the Kaveri river 45 km from Mysore and 133 km from Bangalore in Karnataka, India. It once had over 30 temples, most of which now lay buried in sand.", 
+        "longitude": 77.03053899999999, 
+        "weather": "29C, Wind W at 11 km/h, 62% Humidity", 
+        "latitude": 12.1946782, 
+        "type": "Town in India", 
+        "id": 11, 
+        "categories": [
+            "Temple", 
+            "Waterfalls", 
+            "History", 
+            "Desert", 
+            "River", 
+            "Nature", 
+            "All Destinations", 
+            "Architecture"
+        ]
+    }, 
+    {
+        "name": "Shivanasamudra Falls", 
+        "flow rate": "934 m/s", 
+        "text": "Shivanasamudra is a small town in the Mandya District of the state of Karnataka, India. It is situated on the banks of the river Kaveri, which forms here the boundary to the Chamarajanagar District, ...", 
+        "longitude": 78.96288, 
+        "height": "98 m", 
+        "latitude": 20.593684, 
+        "type": "Water Falls in India", 
+        "id": 12, 
+        "categories": [
+            "Waterfalls", 
+            "Nature", 
+            "All Destinations"
+        ]
+    }, 
+    {
+        "name": "Nandi Hills", 
+        "text": "Nandi Hills or Nandidurg is an ancient hill fortress in southern India, in the Chikkaballapur district of Karnataka state. It is 10 km from Chickballapur town and approximately 60 km from the city of Bangalore.", 
+        "longitude": 77.68345510000002, 
+        "weather": "23C, Wind W at 37 km/h, 100% Humidity", 
+        "latitude": 13.370154, 
+        "type": "Town in India", 
+        "id": 13, 
+        "categories": [
+            "Paragliding", 
+            "Cycling", 
+            "All Destinations"
+        ]
+    }, 
+    {
+        "number of airports": "1", 
+        "name": "Bellary", 
+        "area": "89.95 km", 
+        "text": "Ballari, Previously called \"Bellary\", is a historic city in Ballari district in Karnataka state, India. It is 306 kilometres from Bangalore,the state capital.", 
+        "longitude": 76.9214428, 
+        "iso 3166 code": "ISO 3166-2 IN", 
+        "universities": "Vijayanagara Sri Krishnadevaraya University, Vijayanagara Institute of Medical Sciences", 
+        "weather": "26C, Wind W at 23 km/h, 71% Humidity", 
+        "latitude": 15.1393932, 
+        "type": "City in India", 
+        "id": 14, 
+        "categories": [
+            "Mining", 
+            "All Destinations"
+        ], 
+        "population": "316,766 (2001) UNdata"
+    }, 
+    {
+        "name": "Kundapur", 
+        "area": "23.06 km", 
+        "text": "Kundapur is a coastal town in the Indian state of Karnataka. It is administered by Kundapur Town Municipal Council and the town is also a headquarters of Kundapur Taluk.", 
+        "universities": "Bhandarkars' Arts & Science College", 
+        "longitude": 74.6899917, 
+        "seat": "Udupi", 
+        "weather": "25C, Wind N at 6 km/h, 92% Humidity", 
+        "latitude": 13.6315963, 
+        "type": "Town in India", 
+        "id": 15, 
+        "categories": [
+            "Beach", 
+            "Temple", 
+            "Architecture"
+        ]
+    }, 
+    {
+        "elevation": "1,276 m", 
+        "name": "Talakaveri", 
+        "text": "Talakaveri, is the place that is generally considered to be the source of the river Kaveri. It is located by Brahmagiri hill near Bhagamandala in Kodagu district, Karnataka, 1,276 m. above sea level.", 
+        "longitude": 75.4941839, 
+        "weather": "19C, Wind W at 5 km/h, 100% Humidity", 
+        "latitude": 12.3835908, 
+        "type": "Town in India", 
+        "id": 16, 
+        "categories": [
+            "Wildlife Refuge", 
+            "River", 
+            "Wildlife"
+        ]
+    }, 
+    {
+        "name": "Kanakapura", 
+        "area": "7.8 km", 
+        "text": "Kanakapura is a town and the headquarters of Kanakapura Taluk in the Ramanagar district in the state of Karnataka, India. Situated 55 km from the city Bangalore, this town is famous for the production of silk and granite.", 
+        "longitude": 77.4198823, 
+        "weather": "29C, Wind W at 11 km/h, 60% Humidity", 
+        "latitude": 12.5462442, 
+        "type": "Town in India", 
+        "id": 17, 
+        "categories": [
+            "Crocodiles", 
+            "Sports", 
+            "Adventure", 
+            "Nature", 
+            "Camping"
+        ], 
+        "population": "54,014 (2012)"
+    }, 
+    {
+        "name": "Hampi", 
+        "text": "Hampi is a village in northern Karnataka, India. It was one of the richest and largest cities in the world during its prime. The name Hampi can also mean \"champion\".", 
+        "universities": "Kannada University", 
+        "longitude": 76.46002399999999, 
+        "weather": "24C, Wind W at 21 km/h, 82% Humidity", 
+        "latitude": 15.3350132, 
+        "type": "Village in India", 
+        "id": 18, 
+        "categories": [
+            "Temple", 
+            "Bouldering", 
+            "Monument", 
+            "Climbing", 
+            "Architecture", 
+            "Outdoor Recreation", 
+            "All Destinations"
+        ]
+    }, 
+    {
+        "name": "Ramanagara", 
+        "text": "Ramanagara is a town and a city municipal council in the Indian state of Karnataka. It is also the headquarters of Ramanagara district. The town was known as Shamserabad at the ruling time of Tippu Sultan.", 
+        "universities": "Ghousia College of Engineering", 
+        "longitude": 77.2807423, 
+        "weather": "22C, Wind W at 11 km/h, 87% Humidity", 
+        "latitude": 12.7094487, 
+        "type": "Town in India", 
+        "id": 19, 
+        "categories": [
+            "Backpacking", 
+            "Rock Climbing", 
+            "Abseiling", 
+            "Climbing", 
+            "Adventure", 
+            "Outdoor Recreation"
+        ], 
+        "population": "79,365 (2001)"
+    }, 
+    {
+        "name": "Mulbagal", 
+        "area": "8.5 km", 
+        "text": "Mulabagilu is a town and taluk headquarters of Mulabagilu taluk in the Kolar district in the state of Karnataka, India. It lies just off the National Highway 4 as the easternmost town of the state and a hill landmark.", 
+        "longitude": 78.39407369999999, 
+        "weather": "24C, Wind W at 14 km/h, 79% Humidity", 
+        "latitude": 13.1666533, 
+        "type": "Town in India", 
+        "id": 20, 
+        "categories": [
+            "Temple", 
+            "History", 
+            "Architecture"
+        ], 
+        "population": "57,276 (2011)"
+    }, 
+    {
+        "name": "Devarayanadurga", 
+        "text": "Devarayanadurga is a hill station near Tumkur in the state of Karnataka in India. The rocky hills are surrounded by forest and the hilltops are dotted with several temples including the Yoganarasimha ...", 
+        "longitude": 78.96288, 
+        "latitude": 20.593684, 
+        "type": "Hill station in India", 
+        "id": 21, 
+        "categories": [
+            "Backpacking", 
+            "Temple", 
+            "Yoga", 
+            "Deer", 
+            "Architecture"
+        ]
+    }, 
+    {
+        "name": "Hassan, Karnataka", 
+        "area": "6,814 km", 
+        "text": "Hassan is a city and the district headquarters of Hassan district in the Indian state of Karnataka. The town is situated 934 m above sea level with fine weather similar to Bangalore.", 
+        "longitude": 76.0995519, 
+        "universities": "Government Engineering College, Hassan, M. Krishna Law College", 
+        "weather": "19C, Wind W at 11 km/h, 91% Humidity", 
+        "latitude": 13.0068142, 
+        "type": "City in India", 
+        "id": 22, 
+        "categories": [
+            "Temple", 
+            "All Destinations"
+        ], 
+        "population": "116,574 (2001) UNdata"
+    },  
+    {
+        "name": "Aihole", 
+        "text": "Aihoe is a village having a historic temple complex in the Bagalkot district of Karnataka, India and located 510 km from Bangalore.", 
+        "longitude": 75.88099, 
+        "weather": "32C, Wind W at 24 km/h, 42% Humidity", 
+        "latitude": 16.019844, 
+        "type": "Village in India", 
+        "id": 24, 
+        "categories": [
+            "Temple", 
+            "Caves", 
+            "Architecture", 
+            "History", 
+            "Culture", 
+            "Nature", 
+            "All Destinations"
+        ]
+    }, 
+    {
+        "established": "1988", 
+        "name": "Nagarhole National Park", 
+        "area": "643.4 km", 
+        "text": "Nagarhole National Park, is a national park located in Kodagu district and Mysore district in Karnataka state in South India. This park was declared the thirty seventh Project Tiger tiger reserve in 1999. It is part of the Nilgiri Biosphere Reserve.", 
+        "longitude": 76.247912, 
+        "phone": "08228264402", 
+        "address": "Kabini River Lodge, Karapura, Nisana Beltur Post, HD Kote Taluk, Mysuru, Karnataka 571114", 
+        "latitude": 12.0251791, 
+        "type": "National park in India", 
+        "id": 25, 
+        "categories": [
+            "Safari", 
+            "Wildlife Refuge", 
+            "Wildlife", 
+            "Tigers", 
+            "River", 
+            "Nature", 
+            "All Destinations", 
+            "Safari"
+        ]
+    }, 
+    {
+        "name": "Sirsi, Karnataka", 
+        "area": "11.33 km", 
+        "text": "Sirsi is a town in the karwar district in the Indian state of Karnataka. Sirsi was also known as Kalyanapattana during the Sonda Dynasty. It is a hill station with a population of around 120,000 people.", 
+        "universities": "MES's M. M. College of Arts and Science, Sirsi", 
+        "longitude": 74.8448648, 
+        "weather": "28C, Wind W at 18 km/h, 66% Humidity", 
+        "latitude": 14.6170943, 
+        "type": "Town in India", 
+        "id": 26, 
+        "categories": [
+            "Temple", 
+            "Horticulture", 
+            "Backpacking", 
+            "Nature", 
+            "All Destinations"
+        ], 
+        "population": "117,000 (2011)"
+    }, 
+    {
+        "name": "Mundgod", 
+        "area": "11.99 km", 
+        "text": "Mundgod is a panchayat town in Uttara Kannada district in the Indian state of Karnataka. It lies en route to Hubli from Sirsi. It is a Main road town. It is at a distance of 132 km from the District headquarters i.e. Karwar.", 
+        "longitude": 75.040671, 
+        "weather": "23C, Wind W at 6 km/h, 92% Humidity", 
+        "latitude": 14.9736854, 
+        "type": "Town in India", 
+        "id": 27, 
+        "categories": [
+            "Monastery", 
+            "Architecture"
+        ], 
+        "population": "18,866 (2011)"
+    }, 
+    {
+        "established": "1974", 
+        "name": "Bandipur National Park", 
+        "area": "874 km", 
+        "text": "Bandipur National Park, established in 1974 as a tiger reserve under Project Tiger, is a national park located in the south Indian state of Karnataka.", 
+        "longitude": 76.5719414, 
+        "hours": "Closed today  Hours", 
+        "phone": "08229236043", 
+        "address": "Bandipur Tiger Reserve, Bandipur, Gundlupet, Karnataka 571126", 
+        "latitude": 11.6842963, 
+        "type": "National park in Chamarajanagar district, India", 
+        "id": 28, 
+        "categories": [
+            "Safari", 
+            "Tigers", 
+            "Wildlife Refuge", 
+            "Wildlife", 
+            "Safari Lodge", 
+            "Nature", 
+            "All Destinations", 
+            "Safari"
+        ]
+    },  
+    {
+        "name": "Kemmangundi", 
+        "text": "Kemmannugundi is a hill station in Tarikere taluk of Chikkamagaluru district in the state of Karnataka, India. It is 1434m above sea level.", 
+        "longitude": 78.96288, 
+        "weather": "22C, Wind W at 13 km/h, 84% Humidity", 
+        "latitude": 20.593684, 
+        "type": "Village in India", 
+        "id": 30, 
+        "categories": [
+            "Backpacking", 
+            "All Destinations"
+        ]
+    }, 
+    {
+        "name": "Nanjangud", 
+        "text": "Nanjangud is a town in Mysore district in the Indian state of Karnataka. Nanjangud lies on the banks of the river Kapila, 23 km from the city of Mysore. Nanjangud is famous for Srikanteshwara Temple. Nanjangud is also called as \"Dakshina Kashi\".", 
+        "longitude": 76.680093, 
+        "weather": "24C, Wind W at 11 km/h, 82% Humidity", 
+        "latitude": 12.1199769, 
+        "type": "Town in India", 
+        "id": 31, 
+        "categories": [
+            "Temple", 
+            "Architecture"
+        ], 
+        "population": "50,598 (2011)"
+    }, 
+    {
+        "name": "Bagalkot", 
+        "area": "48.25 km", 
+        "text": "Bagalkot or Bagalkote is a town in the Indian state of Karnataka. Bagalkote is the district headquarters of the Bagalkot district. It is one of the major towns in North Karnataka.", 
+        "longitude": 75.6557206, 
+        "universities": "Basaveshvara Engineering College, University of Horticultural Sciences, Bagalkot", 
+        "weather": "26C, Wind W at 21 km/h, 70% Humidity", 
+        "latitude": 16.1725355, 
+        "type": "Town in India", 
+        "id": 32, 
+        "categories": [
+            "Horticulture", 
+            "Water Parks", 
+            "All Destinations"
+        ], 
+        "population": "112,068 (2011)"
+    }, 
+    {
+        "getting there": "50 min flight. View flights", 
+        "name": "Kallianpur", 
+        "text": "Kallianpur is a hamlet of Tonse-East village about six km from Udupi. It is a developed hamlet with all modern amenities like schools, college, hospital, good transport and communication facilities.", 
+        "longitude": 78.96288, 
+        "weather": "24C, Wind N at 3 km/h, 96% Humidity", 
+        "latitude": 20.593684, 
+        "type": "Hamlet in India", 
+        "id": 33, 
+        "categories": [
+            "Churches", 
+            "Architecture"
+        ]
+    }, 
+    {
+        "name": "Begur, Bangalore", 
+        "text": "Begur is a village in the Indian state of Karnataka. It is in the state capital Bangalore. It is off Bangalore-Hosur highway. It is said to have been a prominent place during the rule of the Western Ganga Dynasty and later the Chola Kingdom.", 
+        "longitude": 77.6376676, 
+        "weather": "24C, Wind W at 10 km/h, 91% Humidity", 
+        "latitude": 12.8787673, 
+        "type": "Village in India", 
+        "id": 34, 
+        "categories": [
+            "Temple", 
+            "Wildlife", 
+            "Wildlife Refuge", 
+            "History", 
+            "Architecture"
+        ]
+    }, 
+    {
+        "name": "Someshwara Wildlife Sanctuary", 
+        "text": "Someshwara Wildlife Sanctuary is a protected Wildlife sanctuary in the Western Ghats of Karnataka state in India.", 
+        "longitude": 75.0961549, 
+        "address": "State Highway 65, Nadpalu, Karnataka 576112", 
+        "latitude": 13.429868, 
+        "type": "Sanctuary in India", 
+        "id": 35, 
+        "categories": [
+            "Wildlife"
+        ]
+    }, 
+    {
+        "name": "Byndoor, Karnataka", 
+        "text": "Byndoor is a coastal town in Udupi district in the state of Karnataka, India.Byndoor town lies on NH-66 running between Panvel and Kochi and is one of the major stations along the Konkan Railway line-(Mookambika road Byndoor) running between Mumbai and Mangalore.", 
+        "longitude": 74.6341875, 
+        "weather": "25C, Wind N at 0 km/h, 90% Humidity", 
+        "latitude": 13.8685178, 
+        "type": "Town in India", 
+        "id": 37
+    }, 
+    {
+        "getting there": "50 min flight. View flights", 
+        "name": "Malpe", 
+        "text": "Malpe is a natural port about six kilometers to the west of Udupi, Karnataka, India. An important port and fishing harbor on the Karnataka coast. It is a suburb in Udupi city . Malpe and the Mogaveera goes together.", 
+        "longitude": 74.70444250000001, 
+        "weather": "24C, Wind N at 2 km/h, 94% Humidity", 
+        "latitude": 13.3554792, 
+        "type": "City in India", 
+        "id": 38, 
+        "categories": [
+            "Beach", 
+            "Surface Water Sports", 
+            "Parasailing", 
+            "Surfing", 
+            "Sports"
+        ]
+    }, 
+    {
+        "name": "Maravanthe", 
+        "text": "Maravanthe is a village and a beach near Kundapura, Karnataka, India. Outlook travel considers it one of Karnataka's most beautiful beaches. It is about 55 kilometres from Udupi.", 
+        "longitude": 74.64882639999999, 
+        "latitude": 13.7258321, 
+        "type": "Village in India", 
+        "id": 39, 
+        "categories": [
+            "Beach", 
+            "Seaside Resorts", 
+            "Scuba Diving", 
+            "Temple", 
+            "Outdoor Recreation"
+        ]
+    }, 
+    {
+        "name": "Koteshwara", 
+        "text": "Koteshwar is a village in the Indian state of Karnataka. It is located in Kundapur taluk of Udupi district. As of 2007 21,100 people lived in the village.It is also one of Seven Mukthi Stala's.It is also called Parashurama kshetras.", 
+        "longitude": 74.6927354, 
+        "weather": "23C, Wind S at 3 km/h, 92% Humidity", 
+        "latitude": 13.5907434, 
+        "type": "Village in India", 
+        "id": 40, 
+        "categories": [
+            "Temple", 
+            "Beach", 
+            "Architecture"
+        ], 
+        "population": "14,697 (2011)"
+    }, 
+    {
+        "name": "Davangere", 
+        "area": "72 km", 
+        "text": "Davangere, also spelled Davanagere, is a city in the Indian state of Karnataka, lying at the western part of South India.", 
+        "longitude": 75.9238397, 
+        "weather": "23C, Wind W at 16 km/h, 81% Humidity", 
+        "latitude": 14.4663438, 
+        "type": "City in India", 
+        "id": 41, 
+        "categories": [
+            "Hill Station", 
+            "All Destinations"
+        ]
+    },  
+    {
+        "getting there": "1 h 5 min flight. View flights", 
+        "name": "Gokak", 
+        "area": "33.05 km", 
+        "text": "Gokak is a taluka headquarters in the Belgaum District of Karnataka state, India. It is located around 70 km from Belgaum at the confluence of two rivers, the Ghataprabha and the Markandeya.", 
+        "longitude": 74.8156199, 
+        "weather": "22C, Wind W at 24 km/h, 81% Humidity", 
+        "latitude": 16.1591849, 
+        "type": "City in India", 
+        "id": 43, 
+        "categories": [
+            "Waterfalls", 
+            "Temple", 
+            "River", 
+            "History", 
+            "Nature", 
+            "Architecture"
+        ], 
+        "population": "135,773 (2011)"
+    }, 
+    {
+        "getting there": "50 min flight. View flights", 
+        "name": "Puttur, Karnataka", 
+        "text": "Puttur is a town in Dakshina Kannada district, in Karnataka state of India. It is the headquarters of the Puttur Taluk. The city is 52 km from Mangalore, the second biggest commercial-industrial hub of Karnataka.", 
+        "universities": "Vivekananda Degree College", 
+        "longitude": 75.2070644, 
+        "weather": "27C, Wind W at 16 km/h, 78% Humidity", 
+        "latitude": 12.7686756, 
+        "type": "Town in India", 
+        "id": 44, 
+        "categories": [
+            "Temple", 
+            "History", 
+            "Architecture"
+        ], 
+        "population": "53,061 (2011)"
+    }, 
+    {
+        "name": "Hubli-Dharwad", 
+        "text": "Hubballi-Dharwad are twin cities in Indian state of Karnataka. Hubballi-Dharwad is the second-largest conurbation in Karnataka after Bangalore.", 
+        "longitude": 75.1311874, 
+        "latitude": 15.3471361, 
+        "type": "City in India", 
+        "id": 45, 
+        "population": "786,195 (2001) UNdata"
+    }, 
+    {
+        "name": "Brahmagiri Wildlife Sanctuary", 
+        "text": "Brahmagiri Wildlife Sanctuary The Brahmagiri wildlife sanctuary is located in the Kodagu district, Karnataka state and is part of the Western Ghats.", 
+        "address": "Kappimala -Paithalmala Road, Karnataka", 
+        "type": "Sanctuary in India", 
+        "id": 46, 
+        "categories": [
+            "Wildlife", 
+            "Forests", 
+            "Backpacking", 
+            "Wildlife Refuge", 
+            "Nature"
+        ],
+        "latitude": 15.5648759,
+        "longitude": 74.3330917
+    }, 
+    {
+        "name": "Bhagamandala", 
+        "text": "Bhagamandala is a pilgrimage place in Kodagu district of South Indian state of Karnataka. It is situated on the river Kaveri in its upstream stretches.", 
+        "longitude": 75.5298536, 
+        "latitude": 12.3862194, 
+        "type": "Town in India", 
+        "id": 47, 
+        "categories": [
+            "Temple", 
+            "River", 
+            "History", 
+            "Architecture"
+        ]
+    }, 
+    {
+        "name": "Bhadra Wildlife Sanctuary", 
+        "area": "492.5 km", 
+        "text": "Bhadra Wildlife Sanctuary is a protected area and a Project Tiger tiger reserve located 38 km. northwest of Chikmagalur town in Karnataka state, India. Bhadra sanctuary has a wide range of flora and fauna and is a popular place for day outings.", 
+        "longitude": 75.5742467, 
+        "address": "Chikkamagaluru, Karnataka 577101", 
+        "latitude": 13.4468871, 
+        "type": "Sanctuary in India", 
+        "id": 48, 
+        "categories": [
+            "Tigers", 
+            "Safari", 
+            "Wildlife", 
+            "Forests", 
+            "River", 
+            "Nature", 
+            "Safari"
+        ]
+    }, 
+    {
+        "name": "Bylakuppe", 
+        "area": "10 km", 
+        "text": "Bylakuppe is an area in Karnataka which is home to the Indian town Bylakuppe and several Tibetan settlements, established by Lugsum Samdupling and Dickyi Larsoe. It is located to the west of the Mysore district in the Indian state of Karnataka.", 
+        "longitude": 75.9811564, 
+        "latitude": 12.4025539, 
+        "type": "Town in India", 
+        "id": 49, 
+        "categories": [
+            "Monastery", 
+            "Buddhism", 
+            "Temple", 
+            "Architecture"
+        ]
+    }, 
+    {
+        "name": "Chitradurga", 
+        "area": "21.57 km", 
+        "text": "Chitradurga is a city and the headquarters of Chitradurga district which is located on the valley of the Vedavati river in the southern part of the Indian state of Karnataka. It is located about 200 km from the state capital Bangalore.", 
+        "longitude": 76.39845369999999, 
+        "universities": "S.J.M. Institute of Technology, Bapuji Medical College", 
+        "weather": "24C, Wind SW at 10 km/h, 90% Humidity", 
+        "latitude": 14.2305594, 
+        "type": "City in India", 
+        "id": 50, 
+        "categories": [
+            "Culture", 
+            "Architecture"
+        ], 
+        "population": "122,702 (2001) UNdata"
+    }, 
+    {
+        "name": "Kaivara", 
+        "text": "Kaiwara is a small town in the Chickballapur district of Karnataka state, located northeast of Bangalore, India. Kaiwara is a popular place to visit, as it is very close to Bangalore, the capital of Karnataka.", 
+        "longitude": 77.9938497, 
+        "weather": "22C, Wind W at 14 km/h, 85% Humidity", 
+        "latitude": 13.3516095, 
+        "type": "Town in India", 
+        "id": 51, 
+        "categories": [
+            "Temple", 
+            "Yoga"
+        ]
+    }, 
+    {
+        "name": "Hebri", 
+        "text": "Hebri is a small town in Udupi district of Karnataka, in the route from Udupi to Agumbe. Hebri is at the foot of the Western Ghats of India in Karnataka state.", 
+        "longitude": 74.99247199999999, 
+        "latitude": 13.4587597, 
+        "type": "Town in India", 
+        "id": 52, 
+        "categories": [
+            "Waterfalls", 
+            "Nature"
+        ]
+    }, 
+    {
+        "name": "Anegudde", 
+        "text": "Anegudde is a village in the Kundapura taluk of Udupi district, India. The village is also known as Kumbashi . It lies en route from Udupi towards Kundapura on the NH 17.", 
+        "longitude": 74.703918, 
+        "latitude": 13.5673008, 
+        "type": "Village in India", 
+        "id": 53, 
+        "categories": [
+            "Temple", 
+            "Architecture"
+        ]
+    }, 
+    {
+        "name": "Savandurga", 
+        "text": "Savandurga is a hill 60 km west of Bangalore off the Magadi road 125511N 771734E / 12.919654N 77.292881E, in India. The hill is considered to be among the largest monolith hills in Asia.", 
+        "longitude": 78.96288, 
+        "latitude": 20.593684, 
+        "type": "Hill Station in India", 
+        "id": 55, 
+        "categories": [
+            "Backpacking", 
+            "Climbing", 
+            "Camping", 
+            "Adventure", 
+            "Outdoor Recreation"
+        ]
+    }, 
+    {
+        "name": "Melukote", 
+        "text": "Melukote in Pandavapura taluk of Mandya district, Karnataka, in southern India, is one of the sacred places in Karnataka. The place is also known as Thirunarayanapuram.", 
+        "longitude": 76.6484909, 
+        "weather": "27C, Wind W at 13 km/h, 66% Humidity", 
+        "latitude": 12.659807, 
+        "type": "Town in India", 
+        "id": 56, 
+        "categories": [
+            "Temple", 
+            "Wildlife Refuge", 
+            "Yoga", 
+            "Wildlife", 
+            "History", 
+            "Architecture"
+        ]
+    }, 
+    {
+        "name": "Jog Falls", 
+        "text": "Jog is located in Sagar taluk in Shimoga district of Karnataka state, India. The famous Jog Falls is near this village.", 
+        "longitude": 74.7922202, 
+        "weather": "27C, Wind W at 21 km/h, 71% Humidity", 
+        "latitude": 14.2003718, 
+        "type": "Village in India", 
+        "id": 57, 
+        "categories": [
+            "Waterfalls", 
+            "Nature"
+        ], 
+        "population": "12,570 (2001)"
+    }, 
+    {
+        "getting there": "1 h 5 min flight. View flights", 
+        "name": "Dandeli", 
+        "area": "8.5 km", 
+        "text": "'Dandeli is a town in Uttara Kannada district of Karnataka , India, in the Western Ghats region in North Karnataka.", 
+        "longitude": 74.6173738, 
+        "weather": "28C, Wind W at 19 km/h, 64% Humidity", 
+        "latitude": 15.2496775, 
+        "type": "Town in India", 
+        "id": 58, 
+        "categories": [
+            "Rafting", 
+            "River", 
+            "Wildlife", 
+            "Forests", 
+            "Adventure", 
+            "Nature", 
+            "Outdoor Recreation", 
+            "All Destinations", 
+            "Safari"
+        ], 
+        "population": "53,287 (2001)"
+    }, 
+    {
+        "number of airports": "1", 
+        "name": "Gulbarga", 
+        "area": "64 km", 
+        "text": "Gulbarga / Kalaburagi is a city in the Indian state of Karnataka. It is the administrative headquarters of the Kalaburagi District.It is also a major City of North Karnataka Region.", 
+        "longitude": 76.8342957, 
+        "weather": "30C, Wind W at 16 km/h, 49% Humidity", 
+        "latitude": 17.329731, 
+        "type": "City in India", 
+        "id": 59, 
+        "categories": [
+            "Temple", 
+            "Architecture", 
+            "All Destinations"
+        ], 
+        "population": "422,569 (2001) UNdata"
+    }, 
+    {
+        "getting there": "50 min flight. View flights", 
+        "name": "Karkala", 
+        "area": "23.06 km", 
+        "text": "Karkala is a town and the headquarters of Karkala taluk in the Udupi district of Karnataka, India. Located about 380 km from Bangalore, it lies near the Western Ghats.", 
+        "universities": "Bhuvanendra College", 
+        "longitude": 74.9961799, 
+        "seat": "Udupi", 
+        "weather": "24C, Wind N at 2 km/h, 95% Humidity", 
+        "latitude": 13.2150997, 
+        "type": "Town in India", 
+        "id": 60, 
+        "categories": [
+            "Temple", 
+            "Churches", 
+            "History", 
+            "All Destinations", 
+            "Architecture"
+        ], 
+        "population": "25,824 (2011)"
+    }, 
+    {
+        "getting there": "50 min flight. View flights", 
+        "name": "Kalasa", 
+        "text": "Kalasa is a holy temple-town located in Chikkamagaluru district in Karnataka. Kalasa is home to the Kalaseshwara Temple dedicated to Lord Shiva. Kalasa lies 92 Kilometres South-west of Chickmagalur and is located on the banks of the Bhadra River.", 
+        "longitude": 75.3557927, 
+        "weather": "21C, Wind SW at 3 km/h, 91% Humidity", 
+        "latitude": 13.2343586, 
+        "type": "Town in India", 
+        "id": 61, 
+        "categories": [
+            "Temple", 
+            "Architecture"
+        ]
+    }, 
+    {
+        "name": "Pattadakal", 
+        "text": "Pattadakal also spelled Paadakallu is a World Heritage site, a village and an important tourist centre in the state of Karnataka and is located on the left bank of the Malaprabha River in Bagalkot ...", 
+        "longitude": 75.8163521, 
+        "weather": "32C, Wind W at 24 km/h, 42% Humidity", 
+        "latitude": 15.9488181, 
+        "type": "Village in India", 
+        "id": 62, 
+        "categories": [
+            "Temple", 
+            "Monument", 
+            "History", 
+            "Architecture", 
+            "All Destinations", 
+            "Culture"
+        ]
+    }, 
+    {
+        "getting there": "50 min flight. View flights", 
+        "name": "Udupi", 
+        "area": "68.23 km", 
+        "text": "Udupi is a city in the southwest Indian State of Karnataka. It is the headquarters of Udupi District. Udupi is notable for the Krishna Temple and lends its name to the popular Udupi cuisine.", 
+        "longitude": 74.746596, 
+        "universities": "Vaikunta Baliga College of Law, Bhandarkars' Arts & Science College", 
+        "weather": "26C, Wind NW at 10 km/h, 85% Humidity", 
+        "latitude": 13.3371151, 
+        "type": "City in India", 
+        "id": 63, 
+        "categories": [
+            "Temple", 
+            "All Destinations", 
+            "Architecture"
+        ], 
+        "population": "113,112 (2001) UNdata"
+    }, 
+    {
+        "name": "Sagara", 
+        "area": "19.75 km", 
+        "text": "Sagara is a city located in the Indian state of Karnataka and it is also a sub divisional and a taluk headquarters.", 
+        "longitude": 75.0403, 
+        "weather": "22C, Wind W at 14 km/h, 94% Humidity", 
+        "latitude": 14.1670402, 
+        "type": "City in India", 
+        "id": 64, 
+        "categories": [
+            "Waterfalls", 
+            "All Destinations"
+        ], 
+        "population": "120,215 (2011)"
+    }, 
+    {
+        "number of airports": "1", 
+        "getting there": "1 h 5 min flight. View flights", 
+        "name": "Belgaum", 
+        "area": "94 km", 
+        "text": "Belgaum, officially known as Belagavi and also referred to as Begaon by the marathi speakers, is a city in the Indian state of Karnataka. It is the administrative headquarters of the eponymous Belgaum division and Belagavi district.", 
+        "longitude": 74.4976741, 
+        "weather": "23C, Wind W at 14 km/h, 88% Humidity", 
+        "latitude": 15.8496953, 
+        "type": "City in India", 
+        "id": 65, 
+        "categories": [
+            "Waterfalls", 
+            "Nature", 
+            "All Destinations"
+        ], 
+        "population": "399,653 (2001) UNdata"
+    }, 
+    {
+        "name": "Agumbe", 
+        "area": "3 km", 
+        "text": "Agumbe is a small village located in Shimoga district, Thirthahalli taluk in the Malnad region of Karnataka, India. It is sometimes called \"The Cherrapunji of the South\" after Cherrapunji, in Northeast India.", 
+        "longitude": 75.0903154, 
+        "weather": "22C, Wind W at 5 km/h, 91% Humidity", 
+        "latitude": 13.5026635, 
+        "type": "Village in India", 
+        "id": 66, 
+        "categories": [
+            "Rainforests", 
+            "King Cobra", 
+            "Rafting", 
+            "River", 
+            "Backpacking", 
+            "Nature", 
+            "Outdoor Recreation", 
+            "All Destinations"
+        ]
+    },  
+    {
+        "getting there": "1 h 5 min flight. View flights", 
+        "name": "Londa, Karnataka", 
+        "text": "Londa is a census town in Belgaum district in the Indian state of Karnataka.The town is on border with state of Goa. The town is surrounded by lush evergreen forests known as Sahayadri or Western ghats of India.", 
+        "longitude": 74.49359129999999, 
+        "boroughs": "Khanapur", 
+        "weather": "22C, Wind W at 8 km/h, 94% Humidity", 
+        "latitude": 15.4566765, 
+        "type": "Town in India", 
+        "id": 68, 
+        "population": "8,329 (2011)"
+    }, 
+    {
+        "name": "Shravanabelagola", 
+        "text": "Shravanabelagola is a city located near Channarayapatna of Hassan district in the Indian state of Karnataka and is 158 km from Bangalore.", 
+        "longitude": 76.479854, 
+        "weather": "22C, Wind W at 10 km/h, 88% Humidity", 
+        "latitude": 12.8563247, 
+        "type": "City in India", 
+        "id": 69, 
+        "categories": [
+            "Temple", 
+            "History", 
+            "Architecture", 
+            "All Destinations"
+        ]
+    }, 
+    {
+        "name": "Nagamangala", 
+        "text": "Nagamangala is a panchayat town in Mandya district in the Indian state of Karnataka.", 
+        "universities": "Adichunchanagiri Medical College", 
+        "longitude": 76.7596221, 
+        "weather": "23C, Wind W at 11 km/h, 84% Humidity", 
+        "latitude": 12.8271447, 
+        "type": "Town in India", 
+        "id": 70, 
+        "categories": [
+            "Temple", 
+            "History", 
+            "Architecture"
+        ], 
+        "population": "16,050 (2001)"
+    }, 
+    {
+        "number of airports": "1", 
+        "name": "Hubli", 
+        "area": "200.2 km", 
+        "text": "Hubli officially known as Hubballi is an agglomerating city in the state of Karnataka, India. The name Hubballi literally means \"Flowering creeper\" in Kannada.", 
+        "longitude": 75.1239547, 
+        "weather": "27C, Wind W at 11 km/h, 77% Humidity", 
+        "latitude": 15.3647083, 
+        "type": "City in India", 
+        "id": 71, 
+        "categories": [
+            "Temple", 
+            "All Destinations"
+        ]
+    }, 
+    {
+        "name": "Hospet", 
+        "area": "50.92 km", 
+        "text": "Hospet or Hosapete, is a city in Bellary District in central Karnataka, India. It is on the Tungabhadra River, 12 km from Hampi, the World Heritage site consisting of the ruins of the medieval city of ...", 
+        "universities": "Kannada University", 
+        "longitude": 76.39092409999999, 
+        "weather": "27C, Wind W at 21 km/h, 68% Humidity", 
+        "latitude": 15.2688542, 
+        "type": "City in India", 
+        "id": 72, 
+        "categories": [
+            "Temple", 
+            "All Destinations"
+        ], 
+        "population": "164,240 (2001) UNdata"
+    }, 
+    {
+        "name": "Trasi", 
+        "text": "Trasi is a place on the west coast of India, 109 km from Mangalore, 203 km from Canacona, Goa, 937 km from Mumbai and 12 km north from Kundapur in Kundapura Taluk, Udupi District.", 
+        "longitude": 74.65468160000002, 
+        "latitude": 13.6924317, 
+        "type": "Town in India", 
+        "id": 73, 
+        "categories": [
+            "Beach"
+        ]
+    }, 
+    {
+        "getting there": "1 h 5 min flight. View flights", 
+        "name": "Karwar", 
+        "area": "10.9 km", 
+        "text": "Karwar is a city in Uttara Kannada district in the south indian state of Karnataka and the administrative centre of Uttara Kannada district. Karwar lies on the west coast of Southern India at the mouth of the Kali river.", 
+        "longitude": 74.1416127, 
+        "universities": "Divekar College of Commerce, Arts and Science College, Karwar", 
+        "weather": "27C, Wind NW at 0 km/h, 83% Humidity", 
+        "latitude": 14.8184812, 
+        "type": "City in India", 
+        "id": 74, 
+        "categories": [
+            "Beach", 
+            "All Destinations", 
+            "Culture"
+        ]
+    }, 
+    {
+        "name": "Halebidu", 
+        "text": "Halebidu is located in Hassan District, Karnataka, India. Halebidu was the regal capital of the Hoysala Empire in the 12th century. It is home to some of the best examples of Hoysala architecture.", 
+        "longitude": 75.9942162, 
+        "weather": "21C, Wind W at 13 km/h, 86% Humidity", 
+        "latitude": 13.2129844, 
+        "type": "City in India", 
+        "id": 75, 
+        "categories": [
+            "Temple", 
+            "Sculpture", 
+            "History", 
+            "Architecture", 
+            "All Destinations"
+        ], 
+        "population": "8,962 (2001)"
+    }, 
+    {
+        "name": "Shimoga", 
+        "area": "70.01 km", 
+        "text": "Shimoga, officially renamed as Shivamogga, is a city and the district headquarters of Shimoga District in the central part of the state of Karnataka, India. The city lies on the banks of the Tunga River.", 
+        "longitude": 75.568101, 
+        "weather": "23C, Wind W at 13 km/h, 83% Humidity", 
+        "latitude": 13.9299299, 
+        "type": "City in India", 
+        "id": 76, 
+        "categories": [
+            "Safari", 
+            "All Destinations", 
+            "Safari"
+        ], 
+        "population": "274,352 (2001) UNdata"
+    }, 
+    {
+        "name": "Kushalanagar", 
+        "area": "4 km", 
+        "text": "Kushalanagar is a town located in the east of Kodagu district, near the Kaveri river, in the state of Karnataka, India.", 
+        "longitude": 75.9608385, 
+        "weather": "21C, Wind W at 8 km/h, 94% Humidity", 
+        "latitude": 12.4602275, 
+        "type": "Town in India", 
+        "id": 77, 
+        "categories": [
+            "Monastery", 
+            "Temple", 
+            "Buddhism", 
+            "Elephants", 
+            "Bird-of-paradise", 
+            "All Destinations", 
+            "Architecture"
+        ], 
+        "population": "26,487 (2011)"
+    }, 
+    {
+        "name": "Kudalasangama", 
+        "text": "Kudalasangama in India is an important center of pilgrimage for people of the Lingayat faith. It is located about 15 km from the Almatti Dam in Bagalkot district of Karnataka state.", 
+        "longitude": 76.05994129999999, 
+        "latitude": 16.2030023, 
+        "type": "Town in India", 
+        "id": 78, 
+        "categories": [
+            "Temple", 
+            "Architecture"
+        ]
+    }, 
+    {
+        "name": "Majali, Karnataka", 
+        "text": "Majali is a hamlet in the Uttar Kannada district of Karnataka. It is situated in a coastal region called Kanara. It is situated at the Goa-Karnataka border. Konkani and Kannada are spoken here.", 
+        "longitude": 74.1181234, 
+        "latitude": 14.8847952, 
+        "type": "Hamlet in India", 
+        "id": 79
+    }, 
+    {
+        "getting there": "50 min flight. View flights", 
+        "name": "Manipal", 
+        "area": "26 km", 
+        "text": "Manipal is a universities town located in the state of Karnataka in India. It is a suburb within Udupi city and is administered by the Udupi City Municipality.", 
+        "longitude": 74.7863698, 
+        "weather": "24C, Wind NW at 11 km/h, 100% Humidity", 
+        "latitude": 13.3605015, 
+        "type": "Town in India", 
+        "id": 80, 
+        "categories": [
+            "College", 
+            "All Destinations"
+        ], 
+        "population": "34,369 (2011)"
+    }, 
+    {
+        "name": "Murudeshwara", 
+        "text": "Murudeshwar is a town in Bhatkal Taluk of Uttara Kannada district in the state of Karnataka, India. Murudeshwar is another name of the Hindu god Shiva.", 
+        "longitude": 74.4898633, 
+        "weather": "25C, Wind N at 6 km/h, 92% Humidity", 
+        "latitude": 14.093993, 
+        "type": "Town in India", 
+        "id": 81, 
+        "categories": [
+            "Scuba Diving", 
+            "Beach", 
+            "Temple", 
+            "Snorkeling", 
+            "Outdoor Recreation", 
+            "All Destinations", 
+            "Architecture"
+        ]
+    }, 
+    {
+        "getting there": "50 min flight. View flights", 
+        "name": "Moodabidri", 
+        "area": "39.62 km", 
+        "text": "Moodabidri, is a small town in Dakshina Kannada district. It lies 34 km northeast of the district headquarters, Mangalore, in Karnataka, India. Because of widely grown bamboo in ancient days, this place got named as Moodabidri.", 
+        "longitude": 74.99360039999999, 
+        "weather": "24C, Wind N at 5 km/h, 95% Humidity", 
+        "latitude": 13.0687993, 
+        "type": "Town in India", 
+        "id": 82, 
+        "categories": [
+            "Temple", 
+            "Architecture"
+        ]
+    }, 
+    {
+        "getting there": "1 h 5 min flight. View flights", 
+        "name": "Ankola", 
+        "area": "7.42 km", 
+        "text": "Ankola is small picturesque town surrounded by temples, schools, paddy fields and mango groves. Located on the coast of the Arabian sea, and has natural beaches.", 
+        "universities": "Gokhale Centenary Colleges", 
+        "longitude": 74.3000878, 
+        "weather": "26C, Wind NW at 5 km/h, 86% Humidity", 
+        "latitude": 14.6653087, 
+        "type": "Town in India", 
+        "id": 83, 
+        "categories": [
+            "Beach"
+        ], 
+        "population": "101,549 (2011)"
+    }, 
+    {
+        "name": "Madikeri", 
+        "text": "Madikeri is a hill station town in Karnataka state, India. Also known as Mercara, it is the headquarters of the district of Kodagu. It is a popular tourist destination.", 
+        "longitude": 75.7381856, 
+        "weather": "19C, Wind W at 6 km/h, 100% Humidity", 
+        "latitude": 12.4244205, 
+        "type": "Town in India", 
+        "id": 84, 
+        "categories": [
+            "Hill Station", 
+            "All Destinations"
+        ], 
+        "population": "33,381 (2011)"
+    }, 
+    {
+        "name": "Subramanya, Karnataka", 
+        "text": "Subramanya is a village located in Sullia Taluk in Dakshina Kannada . The Kukke Subrahmanya Temple is here. It is about a 105 km from Mangalore, connected by train and road. It was originally named \"Kukke Pattana\".", 
+        "longitude": 75.6106246, 
+        "weather": "19C, Wind W at 8 km/h, 93% Humidity", 
+        "latitude": 12.6694886, 
+        "type": "Village in India", 
+        "id": 85, 
+        "categories": [
+            "Temple", 
+            "Backpacking", 
+            "Architecture"
+        ]
+    }, 
+    {
+        "name": "Belur", 
+        "text": "Belooru is a Town Municipal Council and taluka in Hasana district in the state of Karnataka, India. The town is renowned for its Chennakeshava Temple, one of the finest examples of Hoysala workmanship.", 
+        "universities": "Ramakrishna Mission Vivekananda University, Belur", 
+        "longitude": 75.8679195, 
+        "weather": "20C, Wind W at 13 km/h, 89% Humidity", 
+        "latitude": 13.1623166, 
+        "type": "Town in India", 
+        "id": 86, 
+        "categories": [
+            "Temple", 
+            "Sculpture", 
+            "Architecture", 
+            "All Destinations"
+        ], 
+        "population": "8,962 (2001)"
+    }, 
+    {
+        "name": "Mandya", 
+        "text": "Mandya is a city in the state of Karnataka, India. It is the headquarters of Mandya district and is located 40 km from Mysore and 100 km from Bangalore. First place to introduce Hydro - Electrical Power Supply In Karnataka.", 
+        "longitude": 76.9009191, 
+        "universities": "P.E.S. College of Engineering, PES Law College", 
+        "weather": "23C, Wind W at 11 km/h, 85% Humidity", 
+        "latitude": 12.5221567, 
+        "type": "City in India", 
+        "id": 87, 
+        "categories": [
+            "Wildlife Refuge", 
+            "Yoga", 
+            "Wildlife", 
+            "River", 
+            "Culture"
+        ], 
+        "population": "131,179 (2001) UNdata"
+    }, 
+    {
+        "name": "Magadi", 
+        "text": "Magadi is a town in Ramanagara district in the Indian state of Karnataka. Magadi was the capital of Kempe Gowda who founded Bangalore in the 16th century.", 
+        "longitude": 77.22614519999999, 
+        "weather": "23C, Wind SW at 10 km/h, 85% Humidity", 
+        "latitude": 12.9576756, 
+        "type": "Town in India", 
+        "id": 88, 
+        "categories": [
+            "Temple", 
+            "History", 
+            "Architecture"
+        ], 
+        "population": "25,000 (2001)"
+    }, 
+    {
+        "name": "Somanathapura", 
+        "text": "Somanathapura is a town located 35 km from the historic Mysore city in Mysore district, Karnataka state, India.", 
+        "longitude": 76.8821849, 
+        "weather": "28C, Wind W at 11 km/h, 66% Humidity", 
+        "latitude": 12.2758033, 
+        "type": "Town in India", 
+        "id": 89, 
+        "categories": [
+            "Temple", 
+            "Architecture"
+        ]
+    }, 
+    {
+        "name": "Srirangapatna", 
+        "area": "13 km", 
+        "text": "Srirangapatna is a town in Mandya district of the Indian state of Karnataka. Located near the city of Mysore, it is of religious, cultural and historic importance.", 
+        "longitude": 76.6931273, 
+        "weather": "26C, Wind W at 11 km/h, 70% Humidity", 
+        "latitude": 12.4215561, 
+        "type": "Town in India", 
+        "id": 90, 
+        "categories": [
+            "Temple", 
+            "History", 
+            "River", 
+            "Palace", 
+            "All Destinations", 
+            "Architecture"
+        ], 
+        "population": "23,448 (2001)"
+    }, 
+    {
+        "name": "Bijapur", 
+        "area": "10.54 km", 
+        "text": "Vijayapur city, formerly Bijapur, is the district headquarters of Bijapur District of Karnataka state. It is also the headquarters for Bijapur Taluka.", 
+        "longitude": 75.710031, 
+        "universities": "Karnataka State Women's University, Al-Ameen Medical College, Blde Society's Medical College", 
+        "weather": "24C, Wind W at 19 km/h, 76% Humidity", 
+        "latitude": 16.8301708, 
+        "type": "City in India", 
+        "id": 91, 
+        "categories": [
+            "Monument", 
+            "History", 
+            "Architecture", 
+            "All Destinations", 
+            "Culture"
+        ], 
+        "population": "228,175 (2001) UNdata"
+    }, 
+    {
+        "name": "Kodi, India", 
+        "text": "Kodi is a place in Kundapura taluk of Udupi district of Karnataka state in India. Kodi means \"corner\" in the Koodi Bhanda Uooru - ]Kundapura kannada language. Kodi is located on the Arabian sea coast. Its postal Pin Code is 576254.", 
+        "longitude": 77.4891822, 
+        "latitude": 10.2381136, 
+        "type": "Town in India", 
+        "id": 92
+    }, 
+    {
+        "getting there": "50 min flight. View flights", 
+        "name": "Surathkal", 
+        "text": "Surathkal is a suburb of Mangalore city located on National highway 17 in the Dakshina Kannada district, Karnataka state, India on the shore of Arabian sea. It is a municipality merged with Mangalore City Corporation.", 
+        "universities": "National Institute of Technology, Karnataka", 
+        "longitude": 78.96288, 
+        "weather": "24C, Wind N at 5 km/h, 94% Humidity", 
+        "latitude": 20.593684, 
+        "type": "City in India", 
+        "id": 93, 
+        "categories": [
+            "Beach"
+        ]
+    }, 
+    {
+        "name": "Siddapura, Uttara Kannada", 
+        "text": "Siddapura is a town and the headquarters of Siddapura taluk in Uttara Kannada district of the state of Karnataka in southern India. It is nestled among the Western Ghats of Karnataka.", 
+        "longitude": 74.7633318, 
+        "weather": "27C, Wind W at 19 km/h, 70% Humidity", 
+        "latitude": 15.2880962, 
+        "type": "Town in India", 
+        "id": 94, 
+        "categories": [
+            "Waterfalls", 
+            "Adventure", 
+            "Nature"
+        ], 
+        "population": "97,322 (2011)"
+    }, 
+    {
+        "name": "Sakleshpur", 
+        "text": "Sakleshpur is a hill station town and headquarters of Sakleshpur Taluk in Hassan district in the Indian state of Karnataka.", 
+        "longitude": 75.78656529999999, 
+        "weather": "21C, Wind W at 10 km/h, 91% Humidity", 
+        "latitude": 12.9441511, 
+        "type": "Town in India", 
+        "id": 95, 
+        "categories": [
+            "Backpacking", 
+            "River", 
+            "All Destinations"
+        ], 
+        "population": "23,201 (2001)"
+    }, 
+    {
+        "name": "Kollur, Udupi district", 
+        "text": "Kolluru or Kollur is a small temple-town in Kundapur Taluk in Udupi district of Karnataka state, India. It is situated about 38 km from Kundapur town.", 
+        "longitude": 74.8126951, 
+        "weather": "24C, Wind W at 3 km/h, 94% Humidity", 
+        "latitude": 13.8657706, 
+        "type": "Town in India", 
+        "id": 96
+    }, 
+    {
+        "name": "Kolar", 
+        "area": "26.56 km", 
+        "text": "Kolara is a city in the South Indian state of Karnataka. It is the headquarters of Kolara District and is known for gold mining. Kolar is called the land of silk, milk, and gold. The town is famous for the Someshwara temple and the Kolaramma temple.", 
+        "longitude": 78.1325611, 
+        "weather": "23C, Wind W at 18 km/h, 85% Humidity", 
+        "latitude": 13.1357446, 
+        "type": "City in India", 
+        "id": 97, 
+        "categories": [
+            "Horticulture", 
+            "All Destinations"
+        ], 
+        "population": "113,907 (2001) UNdata"
+    }, 
+    {
+        "getting there": "50 min flight. View flights", 
+        "name": "Mulki, India", 
+        "text": "Mulki is a panchayat town in Dakshina Kannada district in the Indian state of Karnataka. It is on the banks of Shambhavi River. It was earlier known as Moolikapur, turned to Mulki.", 
+        "longitude": 76.88650849999999, 
+        "weather": "24C, Wind N at 5 km/h, 95% Humidity", 
+        "latitude": 18.5860885, 
+        "type": "Town in India", 
+        "id": 98, 
+        "categories": [
+            "Temple", 
+            "Surfing", 
+            "Beach", 
+            "Outdoor Recreation"
+        ]
+    }, 
+    {
+        "getting there": "50 min flight. View flights", 
+        "name": "Ullal", 
+        "area": "11.8 km", 
+        "text": "Ullal is a City Municipality in Mangalore Taluk in Dakshina Kannada district. Ullal town is one of the oldest towns in India. In the 15th century it came under the rule of the Portuguese.", 
+        "longitude": 74.8601539, 
+        "weather": "24C, Wind N at 6 km/h, 98% Humidity", 
+        "latitude": 12.8053759, 
+        "type": "City in India", 
+        "id": 99, 
+        "categories": [
+            "Beach", 
+            "History", 
+            "River"
+        ], 
+        "population": "53,808 (2011)"
+    }, 
+    {
+        "name": "Honnavar", 
+        "area": "9.38 km", 
+        "text": "Honavar or Honnavar is a port town in Uttara Kannada district of Karnataka, India. The town is the headquarters of Honnavar Taluk.", 
+        "universities": "Arts and Science College, Honnavar", 
+        "longitude": 74.4439252, 
+        "weather": "25C, Wind NW at 10 km/h, 94% Humidity", 
+        "latitude": 14.2797502, 
+        "type": "Town in India", 
+        "id": 100, 
+        "categories": [
+            "Beach", 
+            "Temple", 
+            "Waterfalls", 
+            "All Destinations"
+        ], 
+        "population": "19,109 (2011)"
+    }
+]

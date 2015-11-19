@@ -1,0 +1,530 @@
+query:  Hotels at Bangalore
+
+<Selector
+    intent:to list
+    what:hotels
+    where:Bangalore
+    property:None
+>
+        
+Generated Neo4j Cypher Query:
+
+            MATCH (hotel:Hotel)
+            WHERE hotel.address =~ ".*Bangalore.*"
+            RETURN hotel
+            LIMIT 5
+            
+--------------------------------------------------------------------------------
+Executing Query...
+Query response: 
+{
+    "status": "success", 
+    "query": "\n            MATCH (hotel:Hotel)\n            WHERE hotel.address =~ \".*Bangalore.*\"\n            RETURN hotel\n            LIMIT 5\n            ", 
+    "results": [
+        {
+            "hotel": {
+                "rating": 25, 
+                "pricing_adult_min": 2, 
+                "name": "Anand Vihar", 
+                "pricing_adult_cost_per_night": 22466, 
+                "pricing_child_max": 8, 
+                "longitude": 77.5945627, 
+                "pricing_adult_max": 9, 
+                "pricing_child_cost_per_night": 18340, 
+                "address": "Bangalore, Karnataka, India", 
+                "latitude": 12.9715987, 
+                "pricing_child_min": 2, 
+                "type": "hotel", 
+                "id": 3
+            }
+        }, 
+        {
+            "hotel": {
+                "rating": 69, 
+                "pricing_adult_min": 1, 
+                "name": "Elegant Guest House", 
+                "pricing_adult_cost_per_night": 21942, 
+                "pricing_child_max": 9, 
+                "longitude": 77.5945627, 
+                "pricing_adult_max": 8, 
+                "pricing_child_cost_per_night": 19080, 
+                "address": "Bangalore, Karnataka, India", 
+                "latitude": 12.9715987, 
+                "pricing_child_min": 2, 
+                "type": "hotel", 
+                "id": 4
+            }
+        }, 
+        {
+            "hotel": {
+                "rating": 73, 
+                "pricing_adult_min": 1, 
+                "name": "UG Royal", 
+                "pricing_adult_cost_per_night": 20371, 
+                "pricing_child_max": 3, 
+                "longitude": 77.5945627, 
+                "pricing_adult_max": 10, 
+                "pricing_child_cost_per_night": 18950, 
+                "address": "Bangalore, Karnataka, India", 
+                "latitude": 12.9715987, 
+                "pricing_child_min": 2, 
+                "type": "hotel", 
+                "id": 6
+            }
+        }, 
+        {
+            "hotel": {
+                "rating": 70, 
+                "pricing_adult_min": 2, 
+                "name": "UG Deluxe", 
+                "pricing_adult_cost_per_night": 21842, 
+                "pricing_child_max": 5, 
+                "longitude": 77.5945627, 
+                "pricing_adult_max": 9, 
+                "pricing_child_cost_per_night": 13040, 
+                "address": "Bangalore, Karnataka, India", 
+                "latitude": 12.9715987, 
+                "pricing_child_min": 3, 
+                "type": "hotel", 
+                "id": 7
+            }
+        }, 
+        {
+            "hotel": {
+                "rating": 71, 
+                "pricing_adult_min": 1, 
+                "name": "UG Grand", 
+                "pricing_adult_cost_per_night": 14270, 
+                "pricing_child_max": 10, 
+                "longitude": 77.5945627, 
+                "pricing_adult_max": 5, 
+                "pricing_child_cost_per_night": 14270, 
+                "address": "Bangalore, Karnataka, India", 
+                "latitude": 12.9715987, 
+                "pricing_child_min": 2, 
+                "type": "hotel", 
+                "id": 8
+            }
+        }
+    ], 
+    "result_length": 5
+}
+--------------------------------------------------------------------------------
+===========================================================
+                        YOUR OUTPUT 
+===========================================================
+Here is a list of hotels in Bangalore
+
+        Name: Anand Vihar
+        Address: Bangalore, Karnataka, India
+        
+
+        Name: Elegant Guest House
+        Address: Bangalore, Karnataka, India
+        
+
+        Name: UG Royal
+        Address: Bangalore, Karnataka, India
+        
+
+        Name: UG Deluxe
+        Address: Bangalore, Karnataka, India
+        
+
+        Name: UG Grand
+        Address: Bangalore, Karnataka, India
+        
+===========================================================
+--------------------------------------------------------------------------------
+query:  List hotels in Bangalore
+
+<Selector
+    intent:to list
+    what:hotels
+    where:Bangalore
+    property:None
+>
+        
+Generated Neo4j Cypher Query:
+
+            MATCH (hotel:Hotel)
+            WHERE hotel.address =~ ".*Bangalore.*"
+            RETURN hotel
+            LIMIT 5
+            
+--------------------------------------------------------------------------------
+Executing Query...
+Query response: 
+{
+    "status": "success", 
+    "query": "\n            MATCH (hotel:Hotel)\n            WHERE hotel.address =~ \".*Bangalore.*\"\n            RETURN hotel\n            LIMIT 5\n            ", 
+    "results": [
+        {
+            "hotel": {
+                "rating": 25, 
+                "pricing_adult_min": 2, 
+                "name": "Anand Vihar", 
+                "pricing_adult_cost_per_night": 22466, 
+                "pricing_child_max": 8, 
+                "longitude": 77.5945627, 
+                "pricing_adult_max": 9, 
+                "pricing_child_cost_per_night": 18340, 
+                "address": "Bangalore, Karnataka, India", 
+                "latitude": 12.9715987, 
+                "pricing_child_min": 2, 
+                "type": "hotel", 
+                "id": 3
+            }
+        }, 
+        {
+            "hotel": {
+                "rating": 69, 
+                "pricing_adult_min": 1, 
+                "name": "Elegant Guest House", 
+                "pricing_adult_cost_per_night": 21942, 
+                "pricing_child_max": 9, 
+                "longitude": 77.5945627, 
+                "pricing_adult_max": 8, 
+                "pricing_child_cost_per_night": 19080, 
+                "address": "Bangalore, Karnataka, India", 
+                "latitude": 12.9715987, 
+                "pricing_child_min": 2, 
+                "type": "hotel", 
+                "id": 4
+            }
+        }, 
+        {
+            "hotel": {
+                "rating": 73, 
+                "pricing_adult_min": 1, 
+                "name": "UG Royal", 
+                "pricing_adult_cost_per_night": 20371, 
+                "pricing_child_max": 3, 
+                "longitude": 77.5945627, 
+                "pricing_adult_max": 10, 
+                "pricing_child_cost_per_night": 18950, 
+                "address": "Bangalore, Karnataka, India", 
+                "latitude": 12.9715987, 
+                "pricing_child_min": 2, 
+                "type": "hotel", 
+                "id": 6
+            }
+        }, 
+        {
+            "hotel": {
+                "rating": 70, 
+                "pricing_adult_min": 2, 
+                "name": "UG Deluxe", 
+                "pricing_adult_cost_per_night": 21842, 
+                "pricing_child_max": 5, 
+                "longitude": 77.5945627, 
+                "pricing_adult_max": 9, 
+                "pricing_child_cost_per_night": 13040, 
+                "address": "Bangalore, Karnataka, India", 
+                "latitude": 12.9715987, 
+                "pricing_child_min": 3, 
+                "type": "hotel", 
+                "id": 7
+            }
+        }, 
+        {
+            "hotel": {
+                "rating": 71, 
+                "pricing_adult_min": 1, 
+                "name": "UG Grand", 
+                "pricing_adult_cost_per_night": 14270, 
+                "pricing_child_max": 10, 
+                "longitude": 77.5945627, 
+                "pricing_adult_max": 5, 
+                "pricing_child_cost_per_night": 14270, 
+                "address": "Bangalore, Karnataka, India", 
+                "latitude": 12.9715987, 
+                "pricing_child_min": 2, 
+                "type": "hotel", 
+                "id": 8
+            }
+        }
+    ], 
+    "result_length": 5
+}
+--------------------------------------------------------------------------------
+===========================================================
+                        YOUR OUTPUT 
+===========================================================
+Here is a list of hotels in Bangalore
+
+        Name: Anand Vihar
+        Address: Bangalore, Karnataka, India
+        
+
+        Name: Elegant Guest House
+        Address: Bangalore, Karnataka, India
+        
+
+        Name: UG Royal
+        Address: Bangalore, Karnataka, India
+        
+
+        Name: UG Deluxe
+        Address: Bangalore, Karnataka, India
+        
+
+        Name: UG Grand
+        Address: Bangalore, Karnataka, India
+        
+===========================================================
+--------------------------------------------------------------------------------
+query:  Mysore
+
+<Selector
+    intent:to list
+    what:points of interest in major destination
+    where:Mysore
+    property:None
+>
+        
+Generated Neo4j Cypher Query:
+
+            MATCH (poi:PointOfInterest)<-[:HAS]-(md:MajorDestination)
+            WHERE md.name = "Mysore"
+            RETURN poi
+            LIMIT 5
+            
+--------------------------------------------------------------------------------
+Executing Query...
+Query response: 
+{
+    "status": "success", 
+    "query": "\n            MATCH (poi:PointOfInterest)<-[:HAS]-(md:MajorDestination)\n            WHERE md.name = \"Mysore\"\n            RETURN poi\n            LIMIT 5\n            ", 
+    "results": [
+        {
+            "poi": {
+                "timings_from": 11, 
+                "shore_length": "5 km", 
+                "name": "Kukkarahalli lake", 
+                "timings_to": 19, 
+                "area": "62 ha", 
+                "text": "Kukkarahalli Lake also called Kukkarhalli Kere, located in the heart of the Mysore city, adjoins the Manasgangotri, the Kalamandir and the Central Food Technological Research Institute campus. It provides lung-space to the city.", 
+                "pricing_child": 450, 
+                "best_season_from": "december", 
+                "longitude": 76.6304409, 
+                "basin_countries": "India", 
+                "catchment_area": "414 km", 
+                "type": "Lake in Mysore, India", 
+                "latitude": 12.3103953, 
+                "getting_there": "756 m", 
+                "cities": "Mysore", 
+                "best_season_to": "november", 
+                "id": 53, 
+                "pricing_adult": 650
+            }
+        }, 
+        {
+            "poi": {
+                "timings_from": 6, 
+                "type": "Museum in Mysore, India", 
+                "name": "Regional Museum of Natural History Mysore", 
+                "text": "The Regional Museum of Natural History at Mysore, is a museum in India with exhibits on plants, animals and geology of the southern region of India.", 
+                "pricing_child": 650, 
+                "best_season_from": "may", 
+                "longitude": 76.6788091, 
+                "timings_to": 12, 
+                "phone": "08212447046", 
+                "address": "T Narsipur Rd,Siddartha Nagar,Near Milk Dairy, Mysore, Karnataka 570011", 
+                "latitude": 12.306484, 
+                "best_season_to": "january", 
+                "id": 31, 
+                "pricing_adult": 825
+            }
+        }, 
+        {
+            "poi": {
+                "timings_from": 9, 
+                "established": "1968", 
+                "type": "Museum in Mysore, India", 
+                "name": "Folk Lore Museum Mysore", 
+                "text": "The Folklore Museum at Mysore, India, is a museum which exhibits folk art and crafts from all over the state of Karnataka", 
+                "pricing_child": 475, 
+                "best_season_from": "june", 
+                "longitude": 76.672313, 
+                "timings_to": 14, 
+                "address": "Karanji Layout, Mysore, Karnataka 570011", 
+                "latitude": 12.3068637, 
+                "best_season_to": "febraury", 
+                "id": 12, 
+                "pricing_adult": 825
+            }
+        }
+    ], 
+    "result_length": 3
+}
+--------------------------------------------------------------------------------
+===========================================================
+                        YOUR OUTPUT 
+===========================================================
+Here are points of interest in Mysore
+
+        Name: Kukkarahalli lake
+        Quick Info: Kukkarahalli Lake also called Kukkarhalli Kere, located in the heart of the Mysore city, adjoins the Manasgangotri, the Kalamandir and the Central Food Technological Research Institute campus. It provides lung-space to the city.
+        
+
+        Name: Regional Museum of Natural History Mysore
+        Quick Info: The Regional Museum of Natural History at Mysore, is a museum in India with exhibits on plants, animals and geology of the southern region of India.
+        
+
+        Name: Folk Lore Museum Mysore
+        Quick Info: The Folklore Museum at Mysore, India, is a museum which exhibits folk art and crafts from all over the state of Karnataka
+        
+===========================================================
+--------------------------------------------------------------------------------
+query:  Find tourist sites at Karnataka
+
+<Selector
+    intent:to list
+    what:points of interest in state
+    where:Karnataka
+    property:None
+>
+        
+Generated Neo4j Cypher Query:
+
+            MATCH (poi:PointOfInterest)<-[:HAS]-(s:State)
+            WHERE s.name = "Karnataka"
+            RETURN poi
+            LIMIT 5
+            
+--------------------------------------------------------------------------------
+Executing Query...
+Query response: 
+{
+    "status": "success", 
+    "query": "\n            MATCH (poi:PointOfInterest)<-[:HAS]-(s:State)\n            WHERE s.name = \"Karnataka\"\n            RETURN poi\n            LIMIT 5\n            ", 
+    "results": [
+        {
+            "poi": {
+                "timings_from": 9, 
+                "name": "Hoysaleswara Temple", 
+                "text": "Hoysaleswara temple is a temple dedicated to Hindu god Shiva. It was built in Halebidu during the rule of King Vishnuvardhana of the Hoysala Empire in the 12th century. The construction was started around 1120 CE and completed in 1150 CE.", 
+                "pricing_child": 725, 
+                "best_season_from": "september", 
+                "longitude": 75.9942162, 
+                "timings_to": 19, 
+                "address": "Halebeedu, Karnataka 573121", 
+                "latitude": 13.2129844, 
+                "best_season_to": "march", 
+                "id": 2, 
+                "pricing_adult": 950
+            }
+        }, 
+        {
+            "poi": {
+                "timings_from": 8, 
+                "name": "Kadri Manjunath Temple", 
+                "text": "Kadri Manjunatha Temple is located in Mangalore in the state of Karnataka, India, was originally made by Vajrayana Buddhist but later on due to fall of Buddhism converted for the deity Manjunatha by Hindus.", 
+                "pricing_child": 600, 
+                "best_season_from": "november", 
+                "longitude": 74.8594853, 
+                "timings_to": 13, 
+                "address": "Kadri, Mangalore, Karnataka 575002", 
+                "latitude": 12.885647, 
+                "best_season_to": "june", 
+                "id": 3, 
+                "pricing_adult": 625
+            }
+        }, 
+        {
+            "poi": {
+                "timings_from": 11, 
+                "type": "Museum in Bangalore, India", 
+                "name": "Visvesvaraya Industrial and Technological Museum", 
+                "text": "The Visvesvaraya Industrial and Technological Museum, Bangalore, India. a constituent unit of National Council of Science Museums, Ministry of Culture, Government of India, was established in memory of Bharat Ratna Sir M Visvesvaraya.", 
+                "pricing_child": 850, 
+                "best_season_from": "april", 
+                "longitude": 77.5936705, 
+                "timings_to": 18, 
+                "hours": "Open today  10 00 am  6 00 pm", 
+                "phone": "08022866200", 
+                "address": "Beside Karnataka State Government Museum, Kasturba Rd, Sampangi Rama Nagar, Bangalore, Karnataka 560001", 
+                "latitude": 12.9719537, 
+                "best_season_to": "april", 
+                "id": 4, 
+                "pricing_adult": 1000, 
+                "opened": "November 11, 1962"
+            }
+        }, 
+        {
+            "poi": {
+                "function": "Palace", 
+                "timings_from": 10, 
+                "type": "Palace in Bangalore, India", 
+                "name": "Bangalore Palace", 
+                "text": "Bangalore Palace, a palace located in Bangalore, Karnataka, India, was built_by Rev. J. Garrett, who was the first Principal of the Central High School in Bangalore, now known as Central College.", 
+                "pricing_child": 400, 
+                "best_season_from": "december", 
+                "longitude": 77.5882422, 
+                "timings_to": 13, 
+                "phone": "08023360818", 
+                "architect": "Kempe Gowda I", 
+                "architectural_style": "Tudor architecture", 
+                "address": "Near Mount Carmel Institute of Management, Palace Rd, Vasanth Nagar, Bangalore, Karnataka 560052", 
+                "latitude": 12.9930596, 
+                "best_season_to": "august", 
+                "id": 5, 
+                "pricing_adult": 575, 
+                "opened": "1944"
+            }
+        }, 
+        {
+            "poi": {
+                "function": "Palace", 
+                "timings_from": 6, 
+                "type": "Palace in Mysore, India", 
+                "name": "Mysore Palace", 
+                "text": "The Palace of Mysore is a historical palace in the city of Mysore in Karnataka, southern India. It is the official residence and seat of the Wodeyars  the Maharajas of Mysore, the royal family of ...", 
+                "pricing_child": 725, 
+                "best_season_from": "may", 
+                "longitude": 76.6483689, 
+                "timings_to": 17, 
+                "hours": "Closed now  Hours", 
+                "phone": "08212421051", 
+                "architect": "Henry Irwin", 
+                "architectural_style": "Indo Saracenic Revival architecture", 
+                "address": "Sayyaji Rao Rd, Mysore, Karnataka 570001", 
+                "latitude": 12.3192006, 
+                "construction_started": "1897", 
+                "best_season_to": "august", 
+                "id": 6, 
+                "pricing_adult": 1075, 
+                "opened": "1912"
+            }
+        }
+    ], 
+    "result_length": 5
+}
+--------------------------------------------------------------------------------
+===========================================================
+                        YOUR OUTPUT 
+===========================================================
+Here are points of interest in Karnataka
+
+        Name: Hoysaleswara Temple
+        Quick Info: Hoysaleswara temple is a temple dedicated to Hindu god Shiva. It was built in Halebidu during the rule of King Vishnuvardhana of the Hoysala Empire in the 12th century. The construction was started around 1120 CE and completed in 1150 CE.
+        
+
+        Name: Kadri Manjunath Temple
+        Quick Info: Kadri Manjunatha Temple is located in Mangalore in the state of Karnataka, India, was originally made by Vajrayana Buddhist but later on due to fall of Buddhism converted for the deity Manjunatha by Hindus.
+        
+
+        Name: Visvesvaraya Industrial and Technological Museum
+        Quick Info: The Visvesvaraya Industrial and Technological Museum, Bangalore, India. a constituent unit of National Council of Science Museums, Ministry of Culture, Government of India, was established in memory of Bharat Ratna Sir M Visvesvaraya.
+        
+
+        Name: Bangalore Palace
+        Quick Info: Bangalore Palace, a palace located in Bangalore, Karnataka, India, was built_by Rev. J. Garrett, who was the first Principal of the Central High School in Bangalore, now known as Central College.
+        
+
+        Name: Mysore Palace
+        Quick Info: The Palace of Mysore is a historical palace in the city of Mysore in Karnataka, southern India. It is the official residence and seat of the Wodeyars  the Maharajas of Mysore, the royal family of ...
+        
+===========================================================
+--------------------------------------------------------------------------------

@@ -1,0 +1,116 @@
+[    
+    {
+        "name": "Chikmagalur", 
+        "text": "Chikkamagaluru is a town located in the Chikkamagaluru district in the Indian state of Karnataka. Located in the foothills of Mullayanagiri range,Chikkamgaluru is famous for its serene environment, lush green forests and tall mountains.", 
+        "longitude": 75.7754018, 
+        "universities": "Adichunchanagiri Institute of Technology, Mountain View High School", 
+        "weather": "21C, Wind W at 11 km/h, 92% Humidity", 
+        "latitude": 13.315258, 
+        "type": "Town in India", 
+        "id": 29, 
+        "categories": [
+            "Hill Station", 
+            "All Destinations"
+        ], 
+        "population": "101,251 (2001) UNdata"
+    },
+    {
+        "number_of_airports": "1", 
+        "name": "Mysore", 
+        "area": "128.4 km", 
+        "text": "Mysore (or Mysuru), a city in India's Karnataka state, was the capital of the Kingdom of Mysore from 1399-1947. In its center is opulent Mysore Palace, former seat of the ruling Wodeyar dynasty. The palace blends Hindu, Islamic, Gothic and Rajput styles, and is dramatically lit at night. Mysore is also home to the centuries-old Devaraja Market, filled with spices, silk and sandalwood.", 
+        "longitude": 76.6393805, 
+        "weather": "27C, Wind W at 11 km/h, 68% Humidity", 
+        "latitude": 12.2958104, 
+        "type": "City in India", 
+        "id": 3, 
+        "categories": [
+            "Palaces", 
+            "Hindu Temples", 
+            "Devaraja Market", 
+            "Yoga", 
+            "All Destinations", 
+            "Culture", 
+            "Architecture"
+        ], 
+        "population": "755,379 (2001) UNdata"
+    },
+	{
+        "number_of_airports": "1", 
+        "name": "Bidar", 
+        "area": "43 km", 
+        "text": "Bidar is a hill-top city situated on the deccan plateau, in the north-eastern part of Karnataka state in India. It is the headquarters of the Bidar District which shares its border with Maharashtra and Telangana.", 
+        "longitude": 77.5046101, 
+        "weather": "26C, Wind W at 11 km/h, 65% Humidity", 
+        "latitude": 17.9148799, 
+        "type": "City in India", 
+        "id": 42, 
+        "categories": [
+            "Temple", 
+            "Architecture", 
+            "All Destinations"
+        ], 
+        "population": "172,877 (2001) UNdata"
+    },
+    {
+        "number_of_airports": "1", 
+        "getting_there": "50 min flight. View flights", 
+        "name": "Mangalore", 
+        "area": "132.4 km", 
+        "text": "Mangalore also known as Mangalore is the chief port city of the Indian state of Karnataka. It is located about 371 kilometres west of the state capital, Bangalore.", 
+        "longitude": 74.8559568, 
+        "weather": "24C, Wind N at 14 km/h, 93% Humidity", 
+        "named_for": "Mangaladevi Temple", 
+        "latitude": 12.9141417, 
+        "type": "City in India", 
+        "id": 67, 
+        "categories": [
+            "Temple", 
+            "Beach", 
+            "Shopping", 
+            "All Destinations", 
+            "Architecture"
+        ], 
+        "population": "399,565 (2001) UNdata"
+    },
+    {
+        "name": "Badami", 
+        "area": "10.9 km", 
+        "text": "Badami formerly known as Vatapi, is a town and headquarters of a taluk by the same name, in the Bagalkot district of Karnataka, India. It was the regal capital of the Badami Chalukyas from 540 to 757 AD.", 
+        "longitude": 75.676082, 
+        "weather": "32C, Wind W at 23 km/h, 43% Humidity", 
+        "latitude": 15.918622, 
+        "type": "Town in India", 
+        "id": 36, 
+        "categories": [
+            "Temple", 
+            "Caves", 
+            "Climbing", 
+            "Architecture", 
+            "History", 
+            "Nature", 
+            "Outdoor Recreation", 
+            "All Destinations"
+        ], 
+        "population": "25,851 (2001)"
+    }, 
+    {
+        "name": "Bangalore", 
+        "area": "741 km", 
+        "text": "Bangalore (aka Bengaluru) is the capital of India's southern Karnataka state. The center of India's high-tech industry, the city is also known for its green spaces and nightlife. Near Cubbon Park, Vidhana Soudha is its massive Neo-Dravidian legislative building. Former royal residences include 19th-century Bangalore Palace, modeled after Englands Windsor Castle, and Tipu Sultans Summer Palace, an 18th-century teak structure.", 
+        "longitude": 77.5945627, 
+        "founded": "1537", 
+        "latitude": 12.9715987, 
+        "weather": "27C, Wind W at 32 km/h, 89% Humidity", 
+        "founders": "Kempe Gowda I", 
+        "type": "City in India", 
+        "id": 54, 
+        "categories": [
+            "Tech Capital With Modern-art Museums", 
+            "All Destinations", 
+            "Culture", 
+            "Architecture"
+        ], 
+        "population": "4.301 million (2001) UNdata"
+    }
+] 
