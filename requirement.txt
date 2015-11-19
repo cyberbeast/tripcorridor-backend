@@ -1,0 +1,8 @@
+Flask==0.10.1
+Flask-Cors==2.1.0
+Flask-HTTPAuth==2.7.0
+Flask-Limiter==0.8.5
+-e git+https://github.com/flask-restful/flask-restful.git@9bfb9f87215820c970b30e3aaa182adceb3e6bc8#egg=Flask_RESTful-origin/master
+REfO==0.12
+nltk==3.0.4
+py2neo==2.0.7
