@@ -8,7 +8,7 @@ from the json files.
 tic = time.time()
 
 watch('httpstream')
-authenticate('localhost:7474','neo4j','TRVLR')
+authenticate('localhost:7474','neo4j','Tr!pC0rr!d0r')
 graph = Graph()
 graph.delete_all()
 
