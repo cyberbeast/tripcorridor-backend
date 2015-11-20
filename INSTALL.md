@@ -1,19 +1,19 @@
 *To install neo4j, run*
 
 ```
-$cd backend
-$./bin/install-neo4j.sh
+$ cd backend
+$ ./bin/install-neo4j.sh
 ```
 *To start the server, run *
 
 ```
-$sudo /var/lib/neo4j/bin/neo4j restart
+$ sudo /var/lib/neo4j/bin/neo4j restart
 ```
 
 or 
 
 ```
-$sudo service neo4j-serive restart
+$ sudo service neo4j-serive restart
 ```
 
 **To run the flask app, in settings.py file modify**
@@ -24,7 +24,7 @@ $sudo service neo4j-serive restart
 
 Maybe you can have a localtunnel as 
 ```
-$lt -s neo4jdb -p 7474
+$ lt -s neo4jdb -p 7474
 ```
 
 then replace "localhost:7474" to "neo4jdb.localtunnel.me",
@@ -32,7 +32,7 @@ in settings.py
 
 Then run the flask app as,
 ```
-$python api.py &
+$ python api.py &
 ```
 
 
