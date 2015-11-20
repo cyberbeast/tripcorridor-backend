@@ -8,7 +8,12 @@ from the json files.
 tic = time.time()
 
 watch('httpstream')
+"""
+    Sandesh, modify the line below
+    authenticate('host:port','username','password')
+"""
 authenticate('localhost:7474','neo4j','Tr!pC0rr!d0r')
+
 graph = Graph()
 graph.delete_all()
 
