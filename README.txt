@@ -1,8 +1,12 @@
 .
 ├── bin
 │   ├── install-neo4j.sh
+│   ├── install-python-modules.sh
 │   ├── query.sh
 │   └── start-server.sh
+├── contributors.txt
+├── INSTALL.md
+├── neo4j-password.txt
 ├── QueryGeneration
 │   ├── api.py
 │   ├── database.py
@@ -32,28 +36,30 @@
 │   ├── test.py
 │   ├── utils.py
 │   └── utils.pyc
-└── RandomData Hydration
-    ├── entities.json
-    ├── Fake
-    │   ├── direct_destinations2.json
-    │   ├── hotels2.json
-    │   └── point_of_interest2.json
-    ├── Fake2
-    ├── generate_fake_dataset.sh
-    ├── hydrate_everthing_output.txt
-    ├── hydrate_everthing.py
-    ├── neo4j_unfold.py
-    ├── Original
-    │   ├── addresses.json
-    │   ├── all.json
-    │   ├── categories.json
-    │   ├── direct_destinations.json
-    │   ├── hotels.json
-    │   ├── karnataka.json
-    │   ├── major_destinations.json
-    │   └── point_of_interest.json
-    ├── process2.py
-    ├── process3.py
-    └── process.py
+├── RandomDataHydration
+│   ├── entities.json
+│   ├── Fake
+│   │   ├── direct_destinations2.json
+│   │   ├── hotels2.json
+│   │   └── point_of_interest2.json
+│   ├── Fake2
+│   ├── generate_fake_dataset.sh
+│   ├── hydrate_everthing_output.txt
+│   ├── hydrate_everthing.py
+│   ├── neo4j_unfold.py
+│   ├── Original
+│   │   ├── addresses.json
+│   │   ├── all.json
+│   │   ├── categories.json
+│   │   ├── direct_destinations.json
+│   │   ├── hotels.json
+│   │   ├── karnataka.json
+│   │   ├── major_destinations.json
+│   │   └── point_of_interest.json
+│   ├── process2.py
+│   ├── process3.py
+│   └── process.py
+├── README.txt
+└── requirement.txt
 
-7 directories, 49 files
+7 directories, 55 files

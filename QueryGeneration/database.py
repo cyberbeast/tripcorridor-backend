@@ -46,7 +46,7 @@ class Neo4jDatabase:
 
     """
     def __init__(self):
-        authenticate('localhost:7474',
+        authenticate(settings.NEO4J_DB_URL_PORT,
             settings.NEO4J_DB_USERNAME,
             settings.NEO4J_DB_PASSWORD)
         watch('httpstream')

@@ -40,7 +40,7 @@ class NaturalQueryAPI(Resource):
 
         In another terminal try
         $curl -i \ 
-        -u neo4j:TRVLR \
+        -u mushtaque:secret \
         -H "Content-Type: application/json" \
         -X POST \
         -d '{"query": "Hotels in Bangalore"}' \
