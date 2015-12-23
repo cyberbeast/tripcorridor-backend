@@ -1,0 +1,234 @@
+If opened in sublime text editor, set syntax to Erlang.
+You know, with syntax highlighting, it looks good.
+
+
+request_json_to_api = {
+	"intent": <str>,
+	"query": <str>,
+	"entities": [
+					{
+						"value":<str>,
+						"type":<str>
+					},...
+				] 
+	"status": <int>,
+	"other": <json object>
+}
+
+----------------------------------------------
+"intent" can be one of the four:
+	1. "plan a trip"
+	2. "find places in a destination"
+	3. "find hotels in a place"
+	4. "find eateries in a place"
+
+---------------------------------------------
+"query" is the query string from the user
+
+---------------------------------------------
+"status" code is used to refer to state
+of the api transaction, can be used to 
+represent various states such as
+	1 --> "fresh query"
+	2 --> "successful, results found"
+	3 --> "incomplete request, need more parameters"
+	4 --> "unable to process query"
+	5 --> "other states"
+obviously this is an incomplete/improvable list.
+this can be further improved to represent interactions
+better.
+
+---------------------------------------------
+"entities" depend on the type of the "intent".
+"entities" are of two types complusory and optional.
+
+---------------------------------------------
+for "plan a trip" intent, 
+	complusory entities are:
+	
+	1. "destinations", a list of destinations and 
+		regions that user wants to visit
+	2. "num_days", then number of days of the trip
+	3. "start_date", then date from when the trip
+		has to be planned
+
+	optional entities are:
+	1. "budget", the limit on the budget,
+		default is unbound (infinity)
+	2. "budget_class", it can be "cheapest","economy",
+		"premium", or "luxury". specified when exact budget
+		is not known
+	2. "currency", stand currency code ISO-4217 such as 
+		"INR" for indian rupees, "USD" for american
+		dollar. default value is "INR" if not specified
+	3. "activity_level", it can be "relaxed","normal","active"
+	4. "num_adults", number of adult traveller/tourist
+		default is 2
+	5. "num_children", number of children, default is 0(zero)
+
+
+---------------------------------------------
+for "find places in a destination" intent,
+	complusory entities are:
+
+	1."destination", a single destination or a 
+		region such as "North India","Western Coast", etc,
+		or a state in India suchs as"Kashmir" haha, or a
+		country (you know what in mean, need example?!)
+	2."limit", the max number of results expected
+
+	optional entities are:
+	1. "category", it can be one of 
+
+	["Abseiling", "Adventure", 
+	"All Destinations", "Architecture", 
+	"Backpacking", "Beach", "Bird-of-paradise", 
+	"Bouldering", "Buddhism","Camping", 
+	"Caves", "Churches", "Climbing", 
+	"College", "Crocodiles", "Culture", 
+	"Cycling", "Deer", "Desert", 
+	"Devaraja Market", "Elephants", "Forests", 
+	"Golf", "Hill Station", "Hindu Temples", 
+	"History", "Horticulture", "King Cobra", 
+	"Lakes", "Mining", "Monastery", "Monument",
+	"Nature", "Outdoor Recreation", "Palace", 
+	"Palaces", "Paragliding", "Parasailing", 
+	"Rafting", "Rainforests", "Religion", 
+	"River", "Rock Climbing", "Ruins", "Safari", 
+	"Safari Lodge","Scuba Diving","Sculpture",
+	"Seaside Resorts","Shopping", "Snorkeling", 
+	"Sports", "Surface Water Sports", "Surfing", 
+	"Tech Capital With Modern-art Museums",
+	"Temple", "Tigers", "Water Parks", 
+	"Waterfalls", "Wildlife", "Wildlife Refuge",
+	"Yoga"]
+
+		and other values too. no default value is used
+
+	2. "distance", the geodesic radius around the 
+		destination which has to be considered
+	3. "distance_unit", either "km" or "mile"
+	4. "budget", used to filter the places
+		in the budget range. It is a json object
+		of type {"min":<int>, "max":<int>}, honestly 
+		who uses <float> for currency, who cares about
+		paises and cents."min" is the minimum of the 
+		budget range and "max" is max.
+	5. "currency", ISO-4217 compliant currency code
+	6. "date", preffered day/month/year of the visit.
+		used to filter places according the best season to
+		visit.
+	7. "num_adults", number of adult traveller/tourist
+		default is 2
+	8. "num_children", number of children, default is 0(zero)
+
+		note: "num_adults" and "num_children" maybe required for 
+		to filter places that have adults only constraint.
+
+---------------------------------------------
+for "find hotels in a place" intent,
+	complusory entities are:
+
+	1. "place", around which the hotels are to be found
+	2. "limit", the max number of hotel-results expected
+
+	optional entities are:
+
+	1. "class_star_rating", a number that in range(1,7) where
+		5 for example means that the hotel is ***** (5-star) hotel
+	2. "distance", the geodesic radius around the 
+		place which has to be considered
+	3. "distance_unit", either "km" or "mile"
+	4. "budget", used to filter the hotel
+		in the budget range. It is a json object
+		of type {"min":<int>, "max":<int>},
+		"min" is the minimum of the 
+		budget range and "max" is max.
+	5. "currency", ISO-4217 compliant currency code
+	6. "num_adults", number of adult traveller/tourist
+		default is 2
+	7. "num_children", number of children, default is 0(zero)
+	8. "num_nights", the number of nights for which the hotel 
+		is to be checked in
+	9. "check_in", date for check in
+	10. "check_out", date for check out
+	11. "amenities", wit.ai must return one, because we have 
+		trained it exhaustively to find amenities
+		Example: AC, Internet, Swimming pool, etc
+
+---------------------------------------------
+"find eateries in a place" intent is not yet supported
+by the system we building, to be developed in the
+future. So yeah!
+
+---------------------------------------------
+response object has a basic structure of 
+{
+	"query": <the query that was in request,
+	"count": <number of result object>,
+	"criterias": <list of criteria,
+			that was used to select and filter>,
+	"results": <list of result object>,
+	"status": <status code, an int>
+}
+
+@chirag and @amjad, you need to tell me what is 
+required in result object. A general result object
+will contain json serialized row from the database table.
+
+if a row in DB is (r1c1,r1c2,r1,c3) then
+	it becomes
+	{
+		"r1c1":{something|value},
+		"r1c2":{something|value},
+		"r1c3":{something|value}
+	}
+
+when more parameters are required, the request json is
+sent back along with the added field, called 
+"complusory": <a list of parameters expected>
+
+
+----------------------------------------------
+Interaction between APIs
+
+				[request]
+[client] ---------------------> [server] 
+								 {perform validation on the
+								  intent, complusory and optional
+								  entities and the query}
+
+		[request complusory params] /-------------------------------\
+[client]<------------------------  <  missing complusory parameters  >
+				<<true>>		    \-------------------------------/ 
+										<<false>> |
+												  v
+				[response]			{perform necessary computation,
+[client]<--------------------------	 access DB, format response}
+
+** the loop repeats
+** any RFC are welcomed
+
+----------------------------------------------
+In a short while i will get you a code that
+acts as proxy/virtual server. I call it proxy.py 
+
+try $ python proxy.py "your json request here (in quotes)"
+and it should print the json response to the STDOUT
+
+Example
+$python proxy.py '{
+	"intent":"find hotels in a place",
+	"entities":[{"value":"Bangalore","type":"place"},
+				{"value":10,"type":"limit"},
+				{"value":{"min":5000,"max":"INF"},"type":"budget"},
+				{"value":5,"type":"num_nights"},
+				{"value":"room service","type":"amenities"}],
+	"query":"find hotels in Bangalore above 5000 rupees per night for 5 days",
+	"status":123
+	}'
+
+Here the request contain entities that are (value,type) pairs 
+encoded as in above example. Note the entities generated by 
+wit.ai and all the generated entities are list in "entities" as above
+

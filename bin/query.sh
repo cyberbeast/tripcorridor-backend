@@ -8,6 +8,6 @@ if [ $# -eq 0 ]; then
 	exit
 fi
 echo "natural language query: \"$1\" "
-
+set -x
 curl -i -u mushtaque:secret -H "Content-Type: application/json" \
--X POST -d "{ \"query\": \"$1\"}" http://localhost:6000/api/naturalquery/execute
+-X POST -d "{ \"query\": \"$1\", \"intent\": \"plan a trip\"}" http://localhost:6000/api/naturalquery/execute

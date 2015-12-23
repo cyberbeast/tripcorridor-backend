@@ -16,7 +16,23 @@ or
 $ sudo service neo4j-serive restart
 ```
 
-**To run the flask app, in settings.py file modify**
+To hydrate the server, modify the file
+
+```
+$ cd RandomDataHydration
+$ vi hydrate_everything.py
+```
+
+change line 15, authentication() as required
+and the script
+
+```
+$ python hydrate_everything.py
+```
+
+wait for about 2 minutes for server to hydrate
+
+*To run the flask app, in settings.py file modify*
 
 1. NEO4J_DB_URL_PORT = "localhost:7474"
 2. NEO4J_DB_USERNAME = "neo4j"

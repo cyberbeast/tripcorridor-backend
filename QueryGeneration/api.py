@@ -2,14 +2,16 @@ from flask import Flask, jsonify, abort, make_response
 from flask.ext.restful import Api, Resource, reqparse, fields, marshal
 from flask.ext.httpauth import HTTPBasicAuth
 from model import Model
-import settings
+import settings, json
+from model2 import Model2
 
 app = Flask(__name__, static_url_path="")
 api = Api(app)
 auth = HTTPBasicAuth()
 
 
-model = Model(verbose = True)
+model = Model2(verbose = True, proxy = True)
+#model = Model(verbose = True)
 
 @auth.get_password
 def get_password(username):
@@ -52,8 +54,9 @@ class NaturalQueryAPI(Resource):
 
     def __init__(self):
         self.parser = reqparse.RequestParser()
-        self.parser.add_argument('query', type=str, required=True,
-                                location='json')
+        self.parser.add_argument('request', type=str, required=False,
+            location='json')
+
         super(NaturalQueryAPI, self).__init__()
 
     def post(self):
@@ -64,8 +67,10 @@ class NaturalQueryAPI(Resource):
 
             Return the http response along with 200 OK
         """
-        query = self.parser.parse_args()['query']
-        response = model.execute(query)        
+        #parsed_args = self.parser.parse_args()
+        parsed_args = request.get_json()
+        #response = model.execute(parsed_args) 
+        response = {"parsed_args":parsed_args}       
         return response,200
     
 api.add_resource(NaturalQueryAPI, '/api/naturalquery/execute', endpoint='execute')

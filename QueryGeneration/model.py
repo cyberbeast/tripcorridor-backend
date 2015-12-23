@@ -87,7 +87,7 @@ class Model:
         print "==========================================================="
 
 
-    def execute(self,query):
+    def execute(self,parsed_args):
         """
             This method has the main algorithm that
             turns the natural language query into 
@@ -111,6 +111,8 @@ class Model:
                 while will have Model object in it 
 
         """
+        intent = parsed_args('intent')
+        query = parsed_args['query']
         if self.verbose:
             print "query: ", query
         query = self.tagger.tag(query.lower())

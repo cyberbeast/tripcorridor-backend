@@ -1,0 +1,222 @@
+Itinerary Generation Algorithm (IGA)
+
+If opened in sublime text editor, set syntax to Erlang.
+You know, with syntax highlighting, it looks good.
+
+complusory entities:
+	
+	1. "destinations", a list of destinations and 
+		regions that user wants to visit
+	2. "num_days", then number of days of the trip
+	3. "start_date", then date from when the trip
+		has to be planned
+
+optional entities:
+
+	1. "budget", the limit on the budget,
+		default is unbound (infinity)
+	2. "budget_class", it can be "cheapest","economy",
+		"premium", or "luxury". specified when exact budget
+		is not known
+	2. "currency", stand currency code ISO-4217 such as 
+		"INR" for indian rupees, "USD" for american
+		dollar. default value is "INR" if not specified
+	3. "activity_level", it can be "relaxed","normal","active"
+	4. "num_adults", number of adult traveller/tourist
+		default is 2
+	5. "num_children", number of children, default is 0(zero)
+
+let {Pi} be the set of POIs SP for some integer values i
+i is globally unique value
+
+let K be the num_days, and D be the start date
+
+let B be the budget limit, and H be the maximum hour beyond which
+no more places should be visited. Example H = 18:00, is sunset 6 pm 
+in 24 hour time format.
+so after sunset you can only head to some hotel not a POI
+
+
+An Itinerary IT is a table with the following schema
++----+--------+----------+----+----+----+----+------+------+-------+
+|Day | SLNO   | Activity | Ts | Tp | Tr | ID | Dist | Cost | Level |
++----+--------+----------+----+----+----+----+------+------+-------+
+
+where,
+	Day is the day number from start date D, it can be K at max.
+	SLNO is the serial number of the activity.
+	Activity is either Pi, a POI to visit or Pi -> Pj a route 
+	to travel. 
+	Each Activity is uniquely identified by an ID.
+	Ts is the (S)tart time of the Activity.
+	Tp is the sto(P) time of the Activity.
+	Tr is the expected time (R)equired for the Activity.
+	time is specified in 24 Hour format always HH:mm 
+	Dist is the distance for a route Pi -> Pj in Activity.
+	Cost is the cost of ticket for an Activity.
+	Level is an integer in range(1,10) indicating the activity level.
+	
+
+A final column of Itinerary IT contains totals of Cost and Dist 
+Level can be quantized value for "relaxed", "normal", "active".
+"relaxed" = 1 to 3, "normal" = 4 to 7, "active" = 8 to 10 etc.
+
+
+Assume the following global functions. These functions will
+be used to discribe the IGA.
+
+---------------------------------------------------------
+
+priority(Pi)::POI --> int 
+returns a priority of an POI, which indicates relative 
+importance of a place to visit by the user. priority 1 is 
+greater than priority 2  is greater than priority 3 etc.
+Suggestion: The priorities are obtained from the user.
+	Top priority goes to places/destinations in the 
+	wishlist of the user.
+
+---------------------------------------------------------
+
+hotels(Pi)::POI --> [(Hj,Cj)]
+returns a list of hotels that can be visited from a POI Pi.
+Hj is the hotel name/ID, Cj is the Cost of hotel Hj.
+Note only those hotels can be visited that are open and operating
+normally.
+Suggestion: Hotels can be fetched from a Database
+	or a geodesic filter that suggests hotels based on 
+	some geodesic radius around a POI.
+
+---------------------------------------------------------
+
+isOpen(Pi, D + k)::(POI, date) --> (Bool, Timerange or None)
+where 1 <= k <= K
+	either (True,(Topen, Tclose)) or (False, None)
+
+tells if a POI Pi, is open/available-to-visit
+or not at the time specified by the date.
+D + k is the date for kth-day from D the start date.
+when Bool is True, it returns opening time Topen and closing 
+time Tclose for a POI Pi.
+when Bool in False, the second value is None, in which case, the 
+second value is just ignored.
+
+---------------------------------------------------------
+
+neighbours(Pi)::POI --> [POI]
+
+returns a list of POI that are neighbours of POI.
+neighbours are those POIs that can be visited directly
+from some POI.
+Suggestion: A Graph like datastructure can be maintained 
+	for POIs and Hotels as Nodes and Routes as Edges
+	of the graph.
+
+---------------------------------------------------------
+
+details(Pi)::POI --> (Ci, Ti, Li)
+
+returns a triple (Ci, Ti, Li)
+where Ci is the Cost of Pi, Ti is the time required to 
+visit Pi, and Li is the active-level of Pi.
+Suggestion: These values should be fetched from Database
+	of POIs
+
+---------------------------------------------------------
+
+routes(Pi,Pj)::(POI -> POI) --> [(Rj, Dij, Cij, Tij)]
+
+routes takes a start POI Pi and a target POI Pj and 
+returns a list of routes identified by name/ID Rj.
+Dij is the Dist from Pi to Pj, Cij is the travelling cost
+from Pi to Pj, and Tij is the travelling time.
+Suggestion: These values can be obtained from Google`s 
+	DistanceMatrix API
+
+---------------------------------------------------------
+
+Standards assumed
+
+Currency: specified in ISO-4217, default is INR
+Time: specified in 24 Hour format HH:mm,
+	future improvement is needed to support ISO 8601
+Date: specified in ISO 8601
+Distance: specified in "km" by default.
+	improvement needed to support "mile".
+
+---------------------------------------------------------
+
+The Algorithm:
+
+1. Split the POIs SP into SP1, SP2, SP3 etc according to
+	the "priority" of the POIs. SP1 is priority 1, 
+	SP2 is priority 2 etc.
+
+2. Process SP1 before SP2, SP2 before SP3 etc, so SPs form 
+	a priority queue.
+
+3. Initialize the system with B, H, Ts for Day 1, SLNO 1,
+	IT and other necessary stuff.
+
+4. Define a function ADD(Pi):
+		append Pi to IT,
+		set Ts to Ts + Ti,
+		fill Cost, Level, ID etc
+
+		check for budget limit B and 
+			the time limit H
+
+		if H exceeded then look for hotel to head
+			and increment k , the kth-day
+		if B or K exceeded then stop and 
+			report the generated Itinerary IT 
+
+		increment SLNO, and update other fields of IT
+
+4. Randomly pick a POI Pi from SP1
+
+5. ADD Pi to IT
+
+6. for all Pj in neighbours(Pi) and in SP1,
+   check for the optimal next node optimal(Pj)
+   and the next route optimal(Rij) 
+   using the "heuristic" that considers the 
+   Dij, Cij, Tij from routes(Pi, Pj) and 
+   Cj, Tj, Lj from details(Pj) and 
+   isOpen(Pj,D+k) 
+
+7. ADD Rij and ADD Pi to IT
+
+8. if SP1 is exhausted move to SP2,
+   if SP2 is exhausted move to SP3 etc.
+
+9. Goto step 6 by taking Pj as Pi again
+
+10. To check for hotel to head use hotels(Pi)
+	and routes(Pi,Hj) for the Hotel Hj, and
+	dicide to check in based on Dij, and Cij for
+	Hotel Hj 
+
+		
+---------------------------------------------------------
+
+One of the simple heuristic is to be Greedy.
+That is greedyly choose the next node which 
+is closest or cheapest or least-time-consuming to travel
+etc. That is to optimize on one of Dij, Cij, Tij, Cj, 
+Tj, or Lj. 
+
+More complex heuristic can take a combined effect
+of Xij`s and Xj wher X can be D, C, T, or L.
+Meaning  one of Dij, Cij, Tij, Cj, Tj, or Lj.
+
+There are bunch of advanced options that I have explored 
+	1. Genetic Algorithm, GA 
+	2. Ant Colony Optimization, ACO
+	3. Intelligent Water Drop, IWD
+	4. Markov Chain 
+	5. TSP-solver opt-2 exchange
+	6. Randomized Algorithm
+
+A lot more work has to be done in research here.
+
+---------------------------------------------------------
