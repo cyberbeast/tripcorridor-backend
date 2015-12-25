@@ -15,8 +15,8 @@ class Model2:
 		self.execute(request_json_to_api)
 	"""
 
-	def __init__(self, verbose = False, proxy = False):
-		self.proxy = proxy # if True, then truely access the Neo4jDB
+	def __init__(self, verbose = False, fake_db_access = False):
+		self.fake_db_access = fake_db_access # if True, then truely access the Neo4jDB
 		self.verbose = verbose
 		self.validator = Validator()
 		self.generator = Generator()
@@ -38,7 +38,7 @@ class Model2:
 		if okay and response["generator_json"]["match"] in ["hotel","place"]:
 			query = self.generator.generate(response["generator_json"])
 			print "query: ", query
-			if not self.proxy:
+			if not self.fake_db_access:
 				results = self._execute_cypher_query_directly(query)
 				print "results: "
 				print json.dumps(results, indent = 4)
@@ -47,7 +47,7 @@ class Model2:
 			response["results"] = "Results of DB querying here"
 			return response
 
-		elif okay:
+		elif okay: #must be a "plan a trip query" for condition to be True
 			print "planing a trip with following details"
 			print json.dumps(response["generator_json"], indent = 4)
 			response["plan"] = "Generated Itinerary here"
@@ -58,8 +58,8 @@ class Model2:
 			return response
 
 if __name__ == '__main__':
-	model = Model2(verbose = True, proxy = True)
-	# proxy is to fake DB access
+	model = Model2(verbose = True, fake_db_access = True)
+	# fake_db_access is to fake DB access
 
 
 	# a hotel type request
@@ -74,7 +74,7 @@ if __name__ == '__main__':
 			{"value":{"max":100},"type":"budget"},
 			{"value":"USD","type":"currency"},
 			{"value":"mile","type":"distance_unit"},
-			{"value":4, "type":"num_adults"},
+			{"value":4, "type":"num_adults"}
 		],
 		"others": {"ignored":"ignored"}
 	}
@@ -91,7 +91,7 @@ if __name__ == '__main__':
 			{"value":{"max":100},"type":"budget"},
 			{"value":"USD","type":"currency"},
 			{"value":"mile","type":"distance_unit"},
-			{"value":4, "type":"num_adults"},
+			{"value":4, "type":"num_adults"}
 		],
 		"others": {"ignored":"ignored"}
 	}	
@@ -109,7 +109,7 @@ if __name__ == '__main__':
 			{"value":"USD","type":"currency"},
 			{"value":"mile","type":"distance_unit"},
 			{"value":"relaxed","type":"activity_level"},
-			{"value": 2, "type":"num_adults"},
+			{"value": 2, "type":"num_adults"}
 		],
 		"others": {"ignored":"ignored"}
 	}
@@ -126,7 +126,7 @@ if __name__ == '__main__':
 			{"value":{"max":100},"type":"budget"},
 			{"value":"USD","type":"currency"},
 			{"value":"mile","type":"distance_unit"},
-			{"value":4, "type":"num_adults"},
+			{"value":4, "type":"num_adults"}
 		],
 		"others": {"ignored":"ignored"}
 	}

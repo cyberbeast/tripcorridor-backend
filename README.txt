@@ -1,12 +1,20 @@
 .
+├── API-documentation.txt
 ├── bin
+│   ├── error-query.sh
+│   ├── hotel-query.sh
 │   ├── install-neo4j.sh
 │   ├── install-python-modules.sh
+│   ├── place-query.sh
+│   ├── planing-query.sh
 │   ├── query.sh
-│   └── start-server.sh
+│   ├── start-server.sh
+│   └── tagger_test.txt
 ├── contributors.txt
+├── IGA-documentation.txt
 ├── INSTALL.md
 ├── neo4j-password.txt
+├── proxy.py
 ├── QueryGeneration
 │   ├── api.py
 │   ├── database.py
@@ -14,28 +22,37 @@
 │   ├── entities.json
 │   ├── filtering.py
 │   ├── filtering.pyc
+│   ├── generating2.py
+│   ├── generating2.pyc
 │   ├── generating.py
 │   ├── generating.pyc
 │   ├── __init__.py
+│   ├── Issues.txt
 │   ├── logs
 │   │   ├── selecting_output.txt
 │   │   └── tagger_test.txt
+│   ├── model2.py
+│   ├── model2.pyc
 │   ├── model.py
 │   ├── model.pyc
 │   ├── output.txt
 │   ├── parsing.py
 │   ├── parsing.pyc
+│   ├── planing.py
 │   ├── regex.py
 │   ├── regex.pyc
 │   ├── selecting.py
 │   ├── selecting.pyc
 │   ├── settings.py
 │   ├── settings.pyc
+│   ├── tagger_test.txt
 │   ├── tagging.py
 │   ├── tagging.pyc
 │   ├── test.py
 │   ├── utils.py
-│   └── utils.pyc
+│   ├── utils.pyc
+│   ├── validating.py
+│   └── validating.pyc
 ├── RandomDataHydration
 │   ├── entities.json
 │   ├── Fake
@@ -62,4 +79,4 @@
 ├── README.txt
 └── requirement.txt
 
-7 directories, 55 files
+7 directories, 72 files

@@ -10,7 +10,7 @@ api = Api(app)
 auth = HTTPBasicAuth()
 
 
-model = Model2(verbose = True, proxy = True)
+model = Model2(verbose = True, fake_db_access = True)
 #model = Model(verbose = True)
 
 @auth.get_password
@@ -54,7 +54,13 @@ class NaturalQueryAPI(Resource):
 
     def __init__(self):
         self.parser = reqparse.RequestParser()
-        self.parser.add_argument('request', type=str, required=False,
+        #self.parser.add_argument('request', type=str, required=False,
+        #    location='json')
+        self.parser.add_argument('intent', type=str, required = True,
+            location='json')
+        self.parser.add_argument('entities',type=list, required = True,
+            location='json')
+        self.parser.add_argument('query',type=str, required = True,
             location='json')
 
         super(NaturalQueryAPI, self).__init__()
@@ -67,10 +73,13 @@ class NaturalQueryAPI(Resource):
 
             Return the http response along with 200 OK
         """
-        #parsed_args = self.parser.parse_args()
-        parsed_args = request.get_json()
-        #response = model.execute(parsed_args) 
-        response = {"parsed_args":parsed_args}       
+        parsed_args = self.parser.parse_args()
+        #parsed_args = request.get_json()
+        response = model.execute(parsed_args)
+        #request = parsed_args["request"]
+        #request = "".join([char for char in request if char != "\\"])
+
+        #response = {"parsed_args":parsed_args}       
         return response,200
     
 api.add_resource(NaturalQueryAPI, '/api/naturalquery/execute', endpoint='execute')
