@@ -10,7 +10,7 @@ api = Api(app)
 auth = HTTPBasicAuth()
 
 
-model = Model2(verbose = True, fake_db_access = True)
+model = Model2(verbose = True, fake_db_access = settings.FAKE_DB_ACCESS)
 #model = Model(verbose = True)
 
 @auth.get_password

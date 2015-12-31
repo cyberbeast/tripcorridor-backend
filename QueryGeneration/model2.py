@@ -20,7 +20,8 @@ class Model2:
 		self.verbose = verbose
 		self.validator = Validator()
 		self.generator = Generator()
-		self.neo4jdb = Neo4jDatabase()
+		if not fake_db_access:
+			self.neo4jdb = Neo4jDatabase()
 
 	def _execute_cypher_query_directly(self,query):
 		"""

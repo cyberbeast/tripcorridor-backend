@@ -16,6 +16,9 @@ NEO4J_DB_URL_PORT = "localhost:7474"
 NEO4J_DB_USERNAME = "neo4j"
 NEO4J_DB_PASSWORD = "TRVLR" #"Tr!pC0rr!d0r"
 
+FAKE_DB_ACCESS = True #set this to true, when DB is not yet up and running.
+#use FAKE_DB_ACCESS for testing API only. For Proper operation check
+#that Neo4j DB is running and then this value to False.
 API_USERNAME = "mushtaque"
 API_KEY = "secret"
 
