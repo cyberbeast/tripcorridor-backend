@@ -9,13 +9,7 @@ request='{
 		"query": "... just ignored ...",
 		"entities": [
 			{"value":"Bangalore","type":"place"},
-			{"value":10,"type":"limit"},
-			{"value":5,"type":"class_star_rating"},
-			{"value":100,"type":"distance"},
-			{"value":{"max":100},"type":"budget"},
-			{"value":"USD","type":"currency"},
-			{"value":"mile","type":"distance_unit"},
-			{"value":4, "type":"num_adults"}
+			{"value":10,"type":"limit"}
 		],
 		"others": {"ignored":"ignored"}
 	}'
@@ -25,3 +19,9 @@ request='{
 
 curl -i -u mushtaque:secret -H "Content-Type: application/json" \
 	-X POST -d "$request" http://localhost:6000/api/naturalquery/execute
+			# {"value":5,"type":"class_star_rating"},
+			# {"value":100,"type":"distance"},
+			# {"value":{"max":100},"type":"budget"},
+			# {"value":"USD","type":"currency"},
+			# {"value":"mile","type":"distance_unit"},
+			# {"value":4, "type":"num_adults"}

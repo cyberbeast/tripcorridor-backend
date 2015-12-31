@@ -43,9 +43,10 @@ class Model2:
 				results = self._execute_cypher_query_directly(query)
 				print "results: "
 				print json.dumps(results, indent = 4)
+				response["results"] = results
 			else:
 				print "executed the above query against neo4jdb" 
-			response["results"] = "Results of DB querying here"
+				response["results"] = "Results of DB querying here"
 			return response
 
 		elif okay: #must be a "plan a trip query" for condition to be True

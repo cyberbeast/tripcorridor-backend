@@ -12,7 +12,7 @@ watch('httpstream')
     Sandesh, modify the line below
     authenticate('host:port','username','password')
 """
-authenticate('localhost:7474','neo4j','Tr!pC0rr!d0r')
+authenticate('localhost:7474','neo4j','neo4j123') # FIX ME hardcoded password
 
 graph = Graph()
 graph.delete_all()

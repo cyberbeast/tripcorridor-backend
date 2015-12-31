@@ -94,54 +94,57 @@ class Generator:
   		cos(radians(ber.lat))* haversin(radians(sm.lon - ber.lon)))) AS dist
 		"""
 
-		query = ["MATCH (p:Place), (h:Hotel)"]
+		#query = ["MATCH (p:Place), (h:Hotel)"]
+		query = ["MATCH (h:Hotel)"]
 		query.append("WHERE h.address =~ \".*%s.*\"" % data["place"])
 		
-		if data["class_star_rating"]:
-			query.append("AND h.star_rating = %d" % \
-				data["class_star_rating"])
+		# if data["class_star_rating"]:
+		# 	query.append("AND h.star_rating = %d" % \
+		# 		data["class_star_rating"])
 
-		currency = 1
-		if data["currency"] == "USD":
-			currency = 65 # FIX ME , 1USD ~= 65INR at the time
-						  # writing this line of code
-						  # should also support other ISO 4217 codes
+		# currency = 1
+		# if data["currency"] == "USD":
+		# 	currency = 65 # FIX ME , 1USD ~= 65INR at the time
+		# 				  # writing this line of code
+		# 				  # should also support other ISO 4217 codes
 		
-		if data["budget"]["min"]:
-			minie = data["budget"]["min"] * currency
-			query.append("AND h.cost_per_night >= %d" % minie)
+		# if data["budget"]["min"]:
+		# 	minie = data["budget"]["min"] * currency
+		# 	query.append("AND h.cost_per_night >= %d" % minie)
 
-		if data["budget"]["max"]:
-			maxie = data["budget"]["max"] * currency
-			query.append("AND h.cost_per_night <= %d" % maxie)
+		# if data["budget"]["max"]:
+		# 	maxie = data["budget"]["max"] * currency
+		# 	query.append("AND h.cost_per_night <= %d" % maxie)
 
-		if data["num_adults"]:
-			query.append("AND h.adults_max >= %d" % \
-				data["num_adults"])
+		# if data["num_adults"]:
+		# 	query.append("AND h.adults_max >= %d" % \
+		# 		data["num_adults"])
 
-		if data["num_children"] != 0:
-			query.append("AND h.children_max >=%d" % \
-				data["num_children"])
+		# if data["num_children"] != 0:
+		# 	query.append("AND h.children_max >=%d" % \
+		# 		data["num_children"])
 
-		if data["amenities"]:
-			for amenity in amenities:
-				query.append("AND \"%s\" IN h.amenities" % amenity)
+		# if data["amenities"]:
+		# 	for amenity in amenities:
+		# 		query.append("AND \"%s\" IN h.amenities" % amenity)
 
-		# FIX ME: currently check_in and check_out are ignored
-		# negotiate a way to represent data and time
-		# I suggest ISO 8601 format
+		# # FIX ME: currently check_in and check_out are ignored
+		# # negotiate a way to represent data and time
+		# # I suggest ISO 8601 format
 
-		query.append("AND p.name = \"%s\" " % data["place"])		
+		# query.append("AND p.name = \"%s\" " % data["place"])		
 		
-		distance_factor = 1.0
-		if data["distance_unit"] == "mile":
-			distance_factor = 1.609344
+		# distance_factor = 1.0
+		# if data["distance_unit"] == "mile":
+		# 	distance_factor = 1.609344
 		
 
-		if data["distance"]:
-			distance_condition = """AND 2 * 6371 * asin(sqrt(haversin(radians(h.latitude - p.latitude)) + cos(radians(h.latitude))*cos(radians(p.latitude))* haversin(radians(h.longitude - p.longitude)))) <= %d """ % \
-				int(data['distance'] * distance_factor)
-			query.append(distance_condition)
+		# if data["distance"]:
+		# 	distance_condition = """AND 2 * 6371 * asin(sqrt(haversin(radians(h.latitude - p.latitude)) + cos(radians(h.latitude))*cos(radians(p.latitude))* haversin(radians(h.longitude - p.longitude)))) <= %d """ % \
+		# 		int(data['distance'] * distance_factor)
+		# 	query.append(distance_condition)
+
+
 		query.append("RETURN h")	
 		query.append("LIMIT %d" % data["limit"])
 		return '\n'.join(query)

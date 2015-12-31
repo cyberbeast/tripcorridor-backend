@@ -1,0 +1,70 @@
+Demo-ing hotel query
+HTTP/1.0 200 OK
+Content-Type: application/json
+Content-Length: 1535
+Server: Werkzeug/0.11.3 Python/2.7.6
+Date: Thu, 31 Dec 2015 10:24:07 GMT
+
+{
+    "generator_json": {
+        "amenities": null, 
+        "budget": {
+            "max": 100, 
+            "min": null
+        }, 
+        "check_in": null, 
+        "check_out": null, 
+        "class_star_rating": 5, 
+        "currency": "USD", 
+        "distance": 100, 
+        "distance_unit": "mile", 
+        "limit": 10, 
+        "match": "hotel", 
+        "num_adults": 4, 
+        "num_children": 0, 
+        "num_nights": 1, 
+        "place": "Bangalore"
+    }, 
+    "request_json_to_api": {
+        "entities": [
+            {
+                "type": "place", 
+                "value": "Bangalore"
+            }, 
+            {
+                "type": "limit", 
+                "value": 10
+            }, 
+            {
+                "type": "class_star_rating", 
+                "value": 5
+            }, 
+            {
+                "type": "distance", 
+                "value": 100
+            }, 
+            {
+                "type": "budget", 
+                "value": {
+                    "max": 100
+                }
+            }, 
+            {
+                "type": "currency", 
+                "value": "USD"
+            }, 
+            {
+                "type": "distance_unit", 
+                "value": "mile"
+            }, 
+            {
+                "type": "num_adults", 
+                "value": 4
+            }
+        ], 
+        "intent": "find hotels in a place", 
+        "query": "... just ignored ..."
+    }, 
+    "results": "Results of DB querying here", 
+    "status": "success"
+}

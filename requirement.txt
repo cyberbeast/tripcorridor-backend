@@ -5,3 +5,4 @@ Flask-Limiter==0.8.5
 REfO==0.12
 nltk==3.0.4
 py2neo==2.0.7
+flask-restful
