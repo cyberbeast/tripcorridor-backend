@@ -14,7 +14,7 @@ NEO4J_DB_URI = "http://localhost:7474/db/graph" #deprecated not used anymore
 
 NEO4J_DB_URL_PORT = "localhost:7474"
 NEO4J_DB_USERNAME = "neo4j"
-NEO4J_DB_PASSWORD = "neo4j123"  #"Tr!pC0rr!d0r"
+NEO4J_DB_PASSWORD = "Tr!pC0rr!d0r" # "neo4j123"  #"Tr!pC0rr!d0r"
 
 FAKE_DB_ACCESS = False #set this to true, when DB is not yet up and running.
 #use FAKE_DB_ACCESS for testing API only. For Proper operation check
