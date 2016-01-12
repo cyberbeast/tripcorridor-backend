@@ -567,7 +567,7 @@ for "find hotels in a place" intent,
 		intent = request_json_to_api['intent']
 		entities = request_json_to_api['entities']
 
-		if intent == "find hotels in a place":
+		if intent == "find_hotels_in_a_place": # Fixed
 			okay, response = self._check_hotel_entities(entities)
 		elif intent == "find places in a destination":
 			okay, response = self._check_place_entities(entities)

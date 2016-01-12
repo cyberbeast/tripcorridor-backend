@@ -2,21 +2,23 @@ from flask import Flask, jsonify, abort, make_response
 from flask.ext.restful import Api, Resource, reqparse, fields, marshal
 from flask.ext.httpauth import HTTPBasicAuth
 from model import Model
-import settings, json
-from model2 import Model2
+import settings, json, hashlib, base64
+from model3 import Model3
 
 app = Flask(__name__, static_url_path="")
 api = Api(app)
 auth = HTTPBasicAuth()
 
 
-model = Model2(verbose = True, fake_db_access = settings.FAKE_DB_ACCESS)
+model = Model3()
+#Model2(verbose = True, fake_db_access = settings.FAKE_DB_ACCESS)
 #model = Model(verbose = True)
 
 @auth.get_password
 def get_password(username):
     if username == settings.API_USERNAME:
-        return settings.API_KEY
+        sha1_hash = hashlib.sha1(settings.API_USERNAME).hexdigest()
+        return base64.b64encode(sha1_hash)
     return None
 
 @auth.error_handler
@@ -32,7 +34,7 @@ class NaturalQueryAPI(Resource):
         graph database.
 
         This class is a Flask app the provides a 
-        an api endpoint at localhost:6000/api/naturalquery/execute
+        an api endpoint at 0.0.0.0:5544/api/naturalquery/execute
         with POST method. The data has to be json object of the 
         form {"query":"your natural language query string here"}
 
@@ -42,11 +44,11 @@ class NaturalQueryAPI(Resource):
 
         In another terminal try
         $curl -i \ 
-        -u mushtaque:secret \
+        -u API_USERNAME:API_KEY, \
         -H "Content-Type: application/json" \
         -X POST \
-        -d '{"query": "Hotels in Bangalore"}' \
-        http://localhost:6000/api/naturalquery/execute
+        -d '{"wit_ai_response": <your response from wit.ai> }' \
+        http://localhost:5544/api/naturalquery/execute
 
 
     """ 
@@ -54,13 +56,7 @@ class NaturalQueryAPI(Resource):
 
     def __init__(self):
         self.parser = reqparse.RequestParser()
-        #self.parser.add_argument('request', type=str, required=False,
-        #    location='json')
-        self.parser.add_argument('intent', type=str, required = True,
-            location='json')
-        self.parser.add_argument('entities',type=list, required = True,
-            location='json')
-        self.parser.add_argument('query',type=str, required = True,
+        self.parser.add_argument('wit_ai_response', type=dict, required=True,
             location='json')
 
         super(NaturalQueryAPI, self).__init__()
@@ -74,15 +70,11 @@ class NaturalQueryAPI(Resource):
             Return the http response along with 200 OK
         """
         parsed_args = self.parser.parse_args()
-        #parsed_args = request.get_json()
-        response = model.execute(parsed_args)
-        #request = parsed_args["request"]
-        #request = "".join([char for char in request if char != "\\"])
-
-        #response = {"parsed_args":parsed_args}       
+        response = model.execute(parsed_args)  
         return response,200
     
 api.add_resource(NaturalQueryAPI, '/api/naturalquery/execute', endpoint='execute')
 
 if __name__ == '__main__':
-    app.run(debug=True,port = 6000, host="0.0.0.0")
+    app.run(debug=True,port = settings.API_PORT,
+        host=settings.API_HOST_IP_ADDRESS)

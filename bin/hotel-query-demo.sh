@@ -18,8 +18,9 @@ request='{
 #request='\"a\":\"hello\"'
 
 curl -i -u mushtaque:secret -H "Content-Type: application/json" \
-	-X POST -d "$request"  https://tcapi.localtunnel.me/api/naturalquery/execute
-			# http://localhost:6000/api/naturalquery/execute
+	-X POST -d "$request" https://tcapi.localtunnel.me/api/naturalquery/execute
+	#http://api.tripcorridor.com:6000/api/naturalquery/execute 
+	#http://localhost:6000/api/naturalquery/execute
 			# {"value":5,"type":"class_star_rating"},
 			# {"value":100,"type":"distance"},
 			# {"value":{"max":100},"type":"budget"},
