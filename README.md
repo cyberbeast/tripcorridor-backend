@@ -16,7 +16,6 @@ This restart the **Neo4j Database** and **Flask Server**.
 To call the Natural Query API, use the details below 
 and make a **POST** call as shown below.
 
-------------|-------|--------
 API details | Value | Comment
 ------------|-------|--------
 user name | TripCorridor | 
@@ -24,7 +23,6 @@ key | NjQwNzlkNmI1MWI5YWI3YjVjODM0Yjc2YzFkN2I4YjNlMWI5YmMyYw== | Generated using
 port | 5544 | Don't use 6000 any more
 method | POST |
 ip address | 0.0.0.0 | Or consult your web admin
-------------|-------|--------
 
 Example:
 
