@@ -1,0 +1,1956 @@
+id	roomtype	cost	max_adults	max_children	duration
+0	Standard A/C Room	2093	3	1	24
+0	Suite	31159	2	7	24
+0	Standard Non A/C Room	34523	5	7	24
+1	Suite	18337	3	2	24
+1	Standard Non A/C Room	33313	6	0	24
+2	Deluxe	2122	9	5	24
+3	Deluxe	18833	8	5	24
+3	Suite	20546	4	2	24
+3	Standard A/C Room	18314	10	6	24
+3	Standard Non A/C Room	159	8	5	24
+4	Standard A/C Room	35573	7	10	24
+4	Suite	29855	3	2	24
+4	Deluxe	2216	5	7	24
+4	Standard Non A/C Room	3044	10	4	24
+5	Standard A/C Room	6558	5	7	24
+5	Suite	2092	10	9	24
+6	Standard A/C Room	25396	3	2	24
+6	Deluxe	7664	5	8	24
+6	Standard Non A/C Room	1206	3	9	24
+7	Standard Non A/C Room	22410	3	8	24
+8	Standard A/C Room	12005	6	0	24
+8	Deluxe	17256	8	5	24
+9	Deluxe	12142	2	1	24
+9	Standard Non A/C Room	7073	6	9	24
+9	Standard A/C Room	10086	6	8	24
+10	Deluxe	34574	7	3	24
+11	Standard A/C Room	25559	7	5	24
+12	Deluxe	18660	7	7	24
+12	Suite	21942	9	4	24
+12	Standard A/C Room	18904	3	7	24
+12	Standard Non A/C Room	2361	2	4	24
+13	Suite	21126	10	5	24
+14	Deluxe	34283	9	3	24
+14	Standard Non A/C Room	11771	2	0	24
+14	Suite	37408	4	5	24
+15	Suite	1174	5	5	24
+16	Deluxe	3601	5	9	24
+16	Standard A/C Room	6461	5	6	24
+16	Standard Non A/C Room	21012	7	4	24
+16	Suite	19061	3	3	24
+17	Suite	14390	10	0	24
+17	Standard A/C Room	2175	5	10	24
+17	Standard Non A/C Room	15501	6	6	24
+18	Suite	34251	10	1	24
+18	Standard Non A/C Room	12625	6	0	24
+18	Deluxe	31119	7	0	24
+18	Standard A/C Room	3775	7	4	24
+19	Standard A/C Room	17947	2	7	24
+20	Standard A/C Room	22158	6	6	24
+20	Suite	8550	7	9	24
+21	Suite	22166	2	0	24
+21	Deluxe	21493	7	6	24
+21	Standard Non A/C Room	21568	9	7	24
+22	Standard Non A/C Room	17511	6	10	24
+22	Standard A/C Room	18783	5	0	24
+23	Standard A/C Room	37490	3	9	24
+23	Standard Non A/C Room	35729	5	4	24
+23	Suite	23113	8	2	24
+24	Suite	880	9	3	24
+24	Deluxe	29528	2	1	24
+24	Standard A/C Room	37362	3	5	24
+24	Standard Non A/C Room	37604	7	6	24
+25	Standard Non A/C Room	3736	9	10	24
+25	Deluxe	22303	8	0	24
+25	Suite	2063	10	0	24
+25	Standard A/C Room	22328	6	8	24
+26	Deluxe	11977	3	7	24
+26	Suite	25966	4	6	24
+26	Standard Non A/C Room	6272	8	9	24
+26	Standard A/C Room	16162	4	1	24
+27	Suite	21952	3	4	24
+27	Standard Non A/C Room	7300	5	3	24
+28	Standard Non A/C Room	7084	6	4	24
+29	Suite	17440	3	3	24
+29	Deluxe	18231	6	1	24
+29	Standard Non A/C Room	29998	10	3	24
+29	Standard A/C Room	10501	6	6	24
+30	Suite	21250	3	0	24
+31	Standard Non A/C Room	16518	2	10	24
+31	Standard A/C Room	30759	6	2	24
+32	Standard A/C Room	25667	10	3	24
+32	Deluxe	27492	4	7	24
+33	Standard Non A/C Room	11033	9	2	24
+33	Standard A/C Room	16214	8	3	24
+34	Deluxe	16846	10	2	24
+35	Suite	10921	6	1	24
+35	Deluxe	25718	6	9	24
+35	Standard A/C Room	5466	9	10	24
+35	Standard Non A/C Room	23494	9	2	24
+36	Suite	720	10	5	24
+37	Standard A/C Room	19981	8	1	24
+37	Deluxe	7178	8	5	24
+38	Suite	24294	5	10	24
+38	Standard Non A/C Room	14783	9	10	24
+38	Standard A/C Room	14811	3	1	24
+38	Deluxe	8228	9	9	24
+39	Standard Non A/C Room	31905	5	6	24
+39	Deluxe	26823	5	1	24
+40	Suite	33064	4	6	24
+40	Standard A/C Room	29446	2	6	24
+40	Standard Non A/C Room	19018	5	5	24
+41	Deluxe	6333	4	7	24
+42	Suite	37083	5	8	24
+42	Deluxe	27822	7	10	24
+42	Standard Non A/C Room	3114	5	6	24
+43	Deluxe	17215	10	3	24
+44	Deluxe	133	10	2	24
+44	Suite	31939	8	10	24
+45	Standard A/C Room	28076	7	0	24
+45	Deluxe	26809	4	4	24
+45	Suite	20518	4	5	24
+46	Suite	4056	7	10	24
+46	Standard Non A/C Room	1164	10	3	24
+47	Standard A/C Room	3163	7	5	24
+47	Standard Non A/C Room	10113	6	7	24
+47	Deluxe	15276	4	1	24
+48	Suite	10623	9	7	24
+48	Standard A/C Room	18194	3	2	24
+49	Standard A/C Room	9637	4	0	24
+49	Suite	14936	5	10	24
+50	Standard A/C Room	21974	4	8	24
+50	Standard Non A/C Room	36341	4	4	24
+50	Deluxe	12529	5	9	24
+51	Deluxe	6717	6	3	24
+51	Suite	22448	6	3	24
+51	Standard A/C Room	5483	9	1	24
+51	Standard Non A/C Room	34939	2	9	24
+52	Standard A/C Room	36270	3	3	24
+52	Deluxe	28981	2	10	24
+52	Suite	34650	9	3	24
+52	Standard Non A/C Room	33136	9	9	24
+53	Standard Non A/C Room	4571	6	7	24
+53	Standard A/C Room	16328	8	0	24
+54	Standard A/C Room	15944	7	5	24
+54	Deluxe	26184	9	1	24
+54	Standard Non A/C Room	1826	7	2	24
+55	Standard Non A/C Room	26841	8	2	24
+56	Suite	13511	5	10	24
+56	Standard Non A/C Room	36399	6	2	24
+57	Standard A/C Room	22228	7	10	24
+58	Suite	22845	5	3	24
+58	Deluxe	12482	5	2	24
+58	Standard A/C Room	7975	6	4	24
+58	Standard Non A/C Room	23390	10	4	24
+59	Suite	9771	8	7	24
+60	Standard A/C Room	9395	2	1	24
+60	Suite	29768	10	5	24
+60	Deluxe	1179	5	4	24
+60	Standard Non A/C Room	24285	10	6	24
+61	Standard Non A/C Room	15486	8	6	24
+61	Suite	13673	7	4	24
+62	Standard A/C Room	25288	6	3	24
+62	Standard Non A/C Room	9787	6	4	24
+63	Deluxe	30325	4	1	24
+63	Standard Non A/C Room	13256	8	1	24
+63	Standard A/C Room	27608	2	3	24
+63	Suite	25439	4	9	24
+64	Deluxe	21928	9	9	24
+64	Standard Non A/C Room	13828	10	6	24
+65	Suite	24188	10	0	24
+66	Suite	36142	7	6	24
+67	Standard A/C Room	13260	7	7	24
+67	Suite	14387	4	9	24
+67	Standard Non A/C Room	13384	10	5	24
+68	Suite	33146	4	7	24
+68	Standard A/C Room	18497	5	2	24
+68	Standard Non A/C Room	556	10	1	24
+68	Deluxe	2869	6	7	24
+69	Standard A/C Room	35635	5	1	24
+69	Suite	20172	3	8	24
+69	Standard Non A/C Room	30436	10	7	24
+69	Deluxe	37417	9	3	24
+70	Standard Non A/C Room	6078	7	3	24
+71	Suite	5857	2	6	24
+71	Standard Non A/C Room	4006	10	9	24
+71	Deluxe	26075	7	10	24
+71	Standard A/C Room	33249	7	5	24
+72	Standard A/C Room	2033	10	6	24
+73	Suite	667	8	2	24
+73	Standard A/C Room	24099	10	8	24
+73	Deluxe	30747	4	7	24
+74	Suite	34496	6	5	24
+74	Standard A/C Room	18613	2	3	24
+74	Standard Non A/C Room	17247	5	8	24
+75	Standard Non A/C Room	37111	7	3	24
+76	Suite	2358	2	3	24
+76	Standard A/C Room	13133	3	1	24
+77	Deluxe	19310	10	9	24
+77	Suite	33688	7	2	24
+77	Standard A/C Room	22438	2	3	24
+77	Standard Non A/C Room	27864	5	0	24
+78	Deluxe	6337	2	3	24
+79	Standard Non A/C Room	3938	5	4	24
+79	Suite	35107	4	0	24
+79	Standard A/C Room	163	4	4	24
+80	Deluxe	28004	6	7	24
+80	Standard A/C Room	9229	7	0	24
+81	Deluxe	33048	8	5	24
+81	Suite	4918	2	2	24
+81	Standard Non A/C Room	22244	4	8	24
+81	Standard A/C Room	16040	3	9	24
+82	Suite	35277	3	4	24
+82	Standard A/C Room	13791	2	3	24
+82	Standard Non A/C Room	24944	6	2	24
+82	Deluxe	25249	2	7	24
+83	Standard A/C Room	14825	7	5	24
+83	Suite	30864	7	2	24
+83	Deluxe	31435	8	7	24
+84	Deluxe	18639	9	8	24
+84	Standard A/C Room	19146	9	6	24
+84	Suite	34554	4	8	24
+84	Standard Non A/C Room	19528	4	4	24
+85	Standard A/C Room	34143	8	2	24
+86	Standard Non A/C Room	20850	6	6	24
+86	Standard A/C Room	23689	8	3	24
+86	Suite	28314	10	0	24
+87	Deluxe	33074	2	9	24
+87	Suite	36736	7	7	24
+87	Standard Non A/C Room	583	8	7	24
+88	Deluxe	6339	6	0	24
+88	Standard A/C Room	33678	2	10	24
+89	Standard A/C Room	14657	9	2	24
+89	Suite	8368	6	0	24
+89	Deluxe	23511	10	1	24
+89	Standard Non A/C Room	4006	4	4	24
+90	Standard Non A/C Room	20048	8	3	24
+91	Standard A/C Room	2158	4	9	24
+92	Standard A/C Room	13481	8	3	24
+92	Deluxe	31359	8	6	24
+93	Deluxe	6762	7	1	24
+93	Standard Non A/C Room	17166	5	7	24
+93	Standard A/C Room	3668	9	0	24
+94	Standard A/C Room	22542	7	8	24
+94	Suite	7811	3	10	24
+94	Deluxe	11505	8	0	24
+94	Standard Non A/C Room	19381	3	8	24
+95	Deluxe	10121	10	10	24
+96	Suite	32217	5	6	24
+96	Deluxe	9101	7	10	24
+97	Standard Non A/C Room	36245	3	8	24
+97	Suite	6348	8	2	24
+98	Deluxe	27862	10	3	24
+98	Suite	20813	6	9	24
+98	Standard A/C Room	6242	5	8	24
+98	Standard Non A/C Room	25802	8	10	24
+99	Standard A/C Room	237	8	10	24
+100	Suite	6939	8	8	24
+100	Deluxe	1599	7	0	24
+101	Deluxe	37415	10	8	24
+101	Standard Non A/C Room	17772	5	3	24
+101	Suite	13216	8	1	24
+102	Standard A/C Room	9943	6	10	24
+102	Standard Non A/C Room	12691	3	9	24
+103	Standard A/C Room	11129	2	0	24
+103	Suite	15853	4	7	24
+103	Standard Non A/C Room	30445	9	9	24
+103	Deluxe	4995	8	0	24
+104	Standard A/C Room	23075	4	3	24
+105	Standard A/C Room	6332	9	8	24
+105	Standard Non A/C Room	35758	2	9	24
+106	Standard Non A/C Room	15417	8	4	24
+106	Deluxe	10530	7	7	24
+107	Standard Non A/C Room	23347	9	8	24
+107	Suite	19233	4	0	24
+107	Standard A/C Room	5054	9	10	24
+108	Deluxe	2890	4	1	24
+108	Suite	10140	7	3	24
+108	Standard A/C Room	23280	8	5	24
+108	Standard Non A/C Room	31802	3	10	24
+109	Standard A/C Room	9474	3	7	24
+109	Standard Non A/C Room	22903	6	5	24
+109	Suite	9572	4	7	24
+110	Standard Non A/C Room	15655	10	7	24
+110	Standard A/C Room	9513	5	3	24
+111	Standard Non A/C Room	20333	9	1	24
+112	Standard Non A/C Room	36036	9	3	24
+112	Deluxe	13654	9	7	24
+113	Standard Non A/C Room	3815	10	3	24
+113	Standard A/C Room	12897	4	0	24
+113	Deluxe	27367	3	2	24
+113	Suite	29771	7	3	24
+114	Deluxe	32858	6	4	24
+115	Suite	36988	7	5	24
+116	Deluxe	32651	4	9	24
+117	Suite	8863	10	5	24
+118	Suite	1212	9	2	24
+119	Standard A/C Room	28679	3	4	24
+119	Suite	35876	8	0	24
+119	Standard Non A/C Room	19516	9	8	24
+120	Standard Non A/C Room	29634	3	1	24
+120	Deluxe	37062	9	9	24
+120	Suite	15831	7	10	24
+121	Deluxe	19726	9	5	24
+121	Standard Non A/C Room	31074	4	10	24
+121	Suite	5031	6	7	24
+121	Standard A/C Room	12641	2	10	24
+122	Suite	37276	3	0	24
+122	Deluxe	7462	9	10	24
+122	Standard A/C Room	13536	8	4	24
+123	Standard A/C Room	30376	9	3	24
+123	Standard Non A/C Room	37589	5	2	24
+123	Suite	37448	3	10	24
+123	Deluxe	30038	3	7	24
+124	Standard Non A/C Room	27047	5	5	24
+125	Standard A/C Room	29330	2	9	24
+125	Standard Non A/C Room	6337	6	9	24
+125	Suite	18049	6	0	24
+126	Deluxe	19205	8	3	24
+126	Standard Non A/C Room	36692	2	7	24
+127	Deluxe	28328	10	7	24
+128	Suite	27966	7	5	24
+129	Suite	22296	2	3	24
+129	Deluxe	29404	3	9	24
+129	Standard A/C Room	11032	2	0	24
+129	Standard Non A/C Room	11873	10	10	24
+130	Standard Non A/C Room	22524	9	7	24
+130	Deluxe	23859	8	1	24
+131	Standard A/C Room	28592	7	9	24
+131	Standard Non A/C Room	19567	3	9	24
+131	Deluxe	8407	10	8	24
+132	Standard A/C Room	26589	10	6	24
+132	Suite	12993	10	5	24
+133	Standard A/C Room	11323	2	8	24
+134	Standard A/C Room	11652	8	10	24
+134	Deluxe	26093	10	9	24
+134	Standard Non A/C Room	10914	2	2	24
+135	Standard Non A/C Room	18220	8	7	24
+135	Deluxe	18280	7	8	24
+135	Standard A/C Room	27039	9	9	24
+136	Standard A/C Room	37920	5	8	24
+136	Suite	26210	7	5	24
+136	Deluxe	15647	4	4	24
+136	Standard Non A/C Room	28115	8	6	24
+137	Suite	29528	10	8	24
+137	Deluxe	37572	8	5	24
+138	Deluxe	3375	6	4	24
+138	Standard A/C Room	17189	7	9	24
+138	Suite	4661	8	0	24
+139	Deluxe	23828	2	7	24
+139	Standard A/C Room	12931	3	0	24
+139	Suite	1373	7	1	24
+140	Standard Non A/C Room	21627	8	1	24
+141	Deluxe	7103	3	3	24
+141	Standard A/C Room	23247	6	2	24
+142	Suite	20195	7	7	24
+143	Standard A/C Room	32074	7	4	24
+143	Suite	10132	5	6	24
+144	Standard Non A/C Room	6496	6	4	24
+145	Standard Non A/C Room	8986	4	7	24
+145	Standard A/C Room	21044	9	1	24
+146	Standard A/C Room	7977	9	4	24
+147	Standard A/C Room	22991	8	5	24
+147	Suite	17480	2	10	24
+147	Standard Non A/C Room	13647	3	6	24
+147	Deluxe	30544	8	1	24
+148	Deluxe	20646	3	7	24
+149	Standard Non A/C Room	33016	6	1	24
+149	Suite	7669	9	8	24
+149	Deluxe	6468	5	1	24
+150	Suite	24396	5	9	24
+150	Deluxe	34370	4	7	24
+150	Standard Non A/C Room	2521	5	6	24
+151	Suite	28975	4	10	24
+151	Deluxe	34079	7	1	24
+151	Standard A/C Room	37178	2	3	24
+152	Standard A/C Room	34774	8	1	24
+152	Deluxe	25793	9	8	24
+152	Suite	6717	9	3	24
+152	Standard Non A/C Room	30802	3	2	24
+153	Suite	27658	8	0	24
+153	Standard A/C Room	15934	9	10	24
+153	Deluxe	31456	8	1	24
+154	Deluxe	25523	8	8	24
+154	Suite	23820	2	2	24
+155	Suite	25786	9	1	24
+155	Standard Non A/C Room	9256	3	0	24
+156	Suite	34132	7	3	24
+156	Standard A/C Room	13415	8	2	24
+157	Deluxe	30559	9	1	24
+157	Standard A/C Room	27394	4	8	24
+157	Standard Non A/C Room	33073	6	7	24
+157	Suite	8779	5	6	24
+158	Deluxe	15742	6	7	24
+158	Standard A/C Room	1537	9	3	24
+158	Suite	11902	3	3	24
+158	Standard Non A/C Room	7388	10	10	24
+159	Standard A/C Room	9328	4	2	24
+159	Suite	19042	2	5	24
+160	Suite	20733	9	2	24
+160	Deluxe	36616	5	8	24
+160	Standard A/C Room	19136	9	0	24
+160	Standard Non A/C Room	23828	9	3	24
+161	Deluxe	34062	6	10	24
+161	Standard Non A/C Room	8250	4	10	24
+162	Suite	19510	4	5	24
+162	Deluxe	7515	7	10	24
+162	Standard Non A/C Room	589	6	4	24
+162	Standard A/C Room	37274	10	0	24
+163	Standard A/C Room	27062	8	0	24
+163	Standard Non A/C Room	31727	9	0	24
+163	Suite	4242	9	8	24
+164	Suite	37126	6	2	24
+164	Standard A/C Room	15999	5	2	24
+165	Deluxe	19831	9	0	24
+165	Suite	34424	9	7	24
+165	Standard A/C Room	21891	9	2	24
+166	Standard Non A/C Room	24942	4	3	24
+166	Deluxe	4476	10	8	24
+167	Standard Non A/C Room	17758	2	10	24
+167	Deluxe	9311	4	9	24
+168	Suite	4726	7	5	24
+168	Deluxe	2331	4	5	24
+168	Standard A/C Room	34383	8	2	24
+168	Standard Non A/C Room	1760	9	7	24
+169	Suite	28929	5	9	24
+169	Standard A/C Room	34524	8	1	24
+169	Standard Non A/C Room	37761	10	8	24
+170	Standard Non A/C Room	25487	6	7	24
+170	Suite	8443	9	3	24
+170	Standard A/C Room	14429	7	6	24
+170	Deluxe	5577	10	1	24
+171	Standard Non A/C Room	35155	7	4	24
+171	Deluxe	18420	4	0	24
+171	Standard A/C Room	31636	9	7	24
+171	Suite	11501	3	4	24
+172	Standard A/C Room	658	5	6	24
+173	Standard A/C Room	606	5	10	24
+174	Deluxe	24980	10	5	24
+175	Deluxe	16850	5	8	24
+175	Standard A/C Room	18079	10	4	24
+175	Suite	8129	5	4	24
+176	Suite	4040	3	3	24
+177	Standard A/C Room	36890	3	7	24
+178	Standard Non A/C Room	34165	7	1	24
+178	Suite	30958	5	0	24
+179	Suite	13697	8	5	24
+179	Standard Non A/C Room	2455	5	7	24
+180	Deluxe	9718	10	1	24
+180	Suite	8198	7	3	24
+180	Standard A/C Room	18159	10	6	24
+180	Standard Non A/C Room	23910	5	0	24
+181	Suite	6575	7	6	24
+181	Deluxe	18651	7	0	24
+181	Standard Non A/C Room	18873	6	5	24
+181	Standard A/C Room	233	9	8	24
+182	Standard A/C Room	14130	6	9	24
+183	Deluxe	25881	6	2	24
+184	Deluxe	67	4	3	24
+184	Standard Non A/C Room	10989	8	3	24
+184	Standard A/C Room	26688	5	1	24
+184	Suite	8604	8	6	24
+185	Deluxe	13202	7	9	24
+186	Suite	26550	3	1	24
+186	Deluxe	17419	9	9	24
+186	Standard A/C Room	1661	10	1	24
+187	Suite	12203	10	6	24
+188	Deluxe	27580	3	2	24
+188	Suite	13777	6	7	24
+188	Standard Non A/C Room	21825	10	3	24
+189	Standard A/C Room	28811	9	8	24
+189	Deluxe	33228	8	6	24
+190	Deluxe	23048	8	1	24
+190	Standard A/C Room	7954	5	10	24
+190	Suite	34077	6	4	24
+191	Standard A/C Room	27233	5	7	24
+191	Deluxe	13980	6	6	24
+191	Standard Non A/C Room	35971	2	3	24
+191	Suite	10067	4	2	24
+192	Standard A/C Room	26424	3	1	24
+192	Suite	17323	4	0	24
+192	Deluxe	24980	9	1	24
+193	Standard Non A/C Room	33248	7	4	24
+193	Standard A/C Room	21677	5	0	24
+193	Deluxe	5523	6	10	24
+193	Suite	2472	8	1	24
+194	Standard A/C Room	21365	5	2	24
+194	Standard Non A/C Room	3576	4	8	24
+194	Deluxe	34770	10	3	24
+195	Standard Non A/C Room	29483	10	2	24
+195	Deluxe	10027	6	6	24
+195	Suite	16605	3	9	24
+196	Suite	11246	8	6	24
+196	Deluxe	36298	9	2	24
+197	Suite	7682	5	6	24
+197	Standard A/C Room	10134	5	3	24
+198	Standard A/C Room	2928	7	5	24
+198	Deluxe	33907	6	5	24
+199	Standard A/C Room	35727	6	3	24
+199	Deluxe	9675	3	1	24
+199	Standard Non A/C Room	18501	5	9	24
+200	Standard A/C Room	32118	5	5	24
+200	Deluxe	17341	4	2	24
+200	Standard Non A/C Room	16985	6	6	24
+200	Suite	35388	7	0	24
+201	Suite	7116	3	6	24
+201	Deluxe	31743	4	10	24
+202	Standard Non A/C Room	16915	5	1	24
+202	Suite	19849	4	9	24
+202	Standard A/C Room	17564	4	5	24
+202	Deluxe	37419	5	4	24
+203	Deluxe	10724	4	4	24
+204	Standard A/C Room	28075	7	5	24
+204	Deluxe	10713	4	5	24
+204	Suite	9227	6	3	24
+205	Deluxe	8734	8	6	24
+205	Standard Non A/C Room	19183	3	4	24
+206	Deluxe	8779	2	7	24
+206	Suite	17696	8	8	24
+206	Standard Non A/C Room	15392	5	2	24
+206	Standard A/C Room	25957	10	9	24
+207	Suite	28137	5	0	24
+207	Standard Non A/C Room	4903	3	9	24
+208	Standard Non A/C Room	5071	9	9	24
+209	Standard Non A/C Room	31603	9	10	24
+209	Deluxe	37666	5	10	24
+209	Standard A/C Room	15928	8	4	24
+209	Suite	499	2	7	24
+210	Suite	6014	8	0	24
+210	Standard A/C Room	35540	4	7	24
+210	Standard Non A/C Room	22072	3	8	24
+211	Deluxe	13375	4	2	24
+211	Standard Non A/C Room	34232	4	2	24
+211	Suite	9055	5	3	24
+212	Deluxe	1649	7	0	24
+212	Suite	17022	4	2	24
+213	Standard A/C Room	37914	3	2	24
+213	Deluxe	19405	10	1	24
+214	Deluxe	10740	2	5	24
+214	Standard Non A/C Room	1206	9	3	24
+215	Standard Non A/C Room	19522	9	1	24
+216	Standard Non A/C Room	11349	4	3	24
+216	Standard A/C Room	11054	8	0	24
+216	Deluxe	29064	4	9	24
+216	Suite	34532	10	7	24
+217	Suite	35287	10	2	24
+217	Standard A/C Room	20375	5	7	24
+217	Deluxe	7211	6	3	24
+218	Suite	8498	10	2	24
+218	Standard Non A/C Room	9754	2	4	24
+218	Standard A/C Room	29463	7	9	24
+218	Deluxe	4630	5	0	24
+219	Standard Non A/C Room	28740	7	9	24
+219	Deluxe	8202	4	5	24
+220	Standard Non A/C Room	22177	4	7	24
+220	Deluxe	18226	7	7	24
+220	Standard A/C Room	24867	5	10	24
+220	Suite	10491	7	1	24
+221	Deluxe	21178	6	1	24
+221	Standard A/C Room	9203	2	4	24
+222	Deluxe	31405	10	9	24
+222	Suite	6519	4	7	24
+223	Suite	34034	9	1	24
+224	Standard Non A/C Room	26690	2	2	24
+224	Suite	11195	3	4	24
+224	Standard A/C Room	21620	3	4	24
+225	Standard A/C Room	32500	6	0	24
+226	Standard Non A/C Room	14858	2	3	24
+226	Suite	13721	9	8	24
+226	Standard A/C Room	21902	8	4	24
+226	Deluxe	20774	5	2	24
+227	Deluxe	32598	10	1	24
+227	Suite	8112	5	5	24
+228	Suite	35088	10	5	24
+229	Suite	36712	5	3	24
+229	Standard Non A/C Room	1752	2	6	24
+229	Deluxe	18710	5	4	24
+230	Standard Non A/C Room	1824	2	1	24
+230	Standard A/C Room	27999	9	10	24
+230	Suite	32333	10	2	24
+231	Deluxe	29805	7	7	24
+231	Standard A/C Room	31632	5	5	24
+231	Suite	28244	9	3	24
+232	Deluxe	16479	5	9	24
+232	Suite	29645	9	2	24
+233	Standard Non A/C Room	24565	5	6	24
+233	Suite	19774	3	1	24
+234	Deluxe	25261	3	0	24
+234	Suite	37046	8	9	24
+235	Standard Non A/C Room	4123	9	7	24
+236	Suite	4307	3	6	24
+237	Deluxe	33223	6	4	24
+237	Standard Non A/C Room	14820	2	1	24
+238	Suite	6454	7	1	24
+238	Standard A/C Room	2668	3	3	24
+238	Deluxe	35717	3	2	24
+239	Standard Non A/C Room	11741	10	9	24
+239	Standard A/C Room	19811	6	4	24
+240	Standard Non A/C Room	6789	7	8	24
+240	Standard A/C Room	23211	10	6	24
+241	Standard A/C Room	34350	3	4	24
+241	Suite	28494	4	0	24
+241	Standard Non A/C Room	16559	7	7	24
+241	Deluxe	21615	10	2	24
+242	Standard Non A/C Room	22826	8	3	24
+243	Standard Non A/C Room	5118	5	5	24
+243	Suite	36553	6	3	24
+244	Deluxe	12817	10	10	24
+244	Standard A/C Room	26026	9	7	24
+244	Suite	21731	9	0	24
+244	Standard Non A/C Room	435	10	10	24
+245	Standard A/C Room	14117	9	5	24
+245	Deluxe	28918	4	9	24
+245	Suite	3297	6	9	24
+246	Suite	27859	10	2	24
+246	Deluxe	23527	3	3	24
+246	Standard A/C Room	17858	7	4	24
+246	Standard Non A/C Room	24984	3	6	24
+247	Standard A/C Room	20399	10	5	24
+247	Suite	10896	4	9	24
+247	Standard Non A/C Room	27158	10	1	24
+248	Standard Non A/C Room	1691	10	9	24
+248	Suite	3639	2	7	24
+249	Suite	13984	2	10	24
+249	Standard Non A/C Room	13644	8	1	24
+249	Standard A/C Room	19412	3	5	24
+249	Deluxe	8447	9	1	24
+250	Standard A/C Room	19574	8	2	24
+250	Deluxe	3786	4	7	24
+250	Suite	36307	2	6	24
+250	Standard Non A/C Room	6261	6	10	24
+251	Deluxe	27326	5	7	24
+251	Suite	1376	7	10	24
+251	Standard Non A/C Room	19670	7	2	24
+251	Standard A/C Room	10531	10	0	24
+252	Suite	19926	4	9	24
+253	Suite	27654	9	8	24
+253	Standard A/C Room	12776	7	9	24
+254	Standard Non A/C Room	489	10	8	24
+254	Suite	11332	9	6	24
+254	Standard A/C Room	8601	8	2	24
+254	Deluxe	16821	9	8	24
+255	Deluxe	21440	7	4	24
+255	Standard Non A/C Room	17635	10	5	24
+255	Standard A/C Room	5299	7	7	24
+255	Suite	33159	5	6	24
+256	Suite	2258	2	2	24
+256	Standard Non A/C Room	13611	2	5	24
+256	Standard A/C Room	11514	10	10	24
+257	Deluxe	29250	7	8	24
+257	Standard A/C Room	30495	2	7	24
+257	Standard Non A/C Room	23876	3	3	24
+257	Suite	8326	9	3	24
+258	Standard A/C Room	21408	4	1	24
+258	Suite	12316	5	8	24
+258	Deluxe	17436	3	8	24
+258	Standard Non A/C Room	15306	3	9	24
+259	Deluxe	2352	4	9	24
+259	Standard Non A/C Room	17691	6	9	24
+259	Suite	105	3	4	24
+259	Standard A/C Room	6113	9	6	24
+260	Deluxe	15391	2	3	24
+260	Standard A/C Room	26418	4	3	24
+260	Standard Non A/C Room	13499	2	9	24
+261	Deluxe	14317	8	10	24
+261	Suite	20424	5	7	24
+262	Suite	19700	10	0	24
+262	Standard Non A/C Room	5944	5	7	24
+262	Standard A/C Room	15903	10	3	24
+263	Deluxe	23563	7	9	24
+263	Standard Non A/C Room	4439	10	7	24
+264	Suite	9848	6	7	24
+264	Standard Non A/C Room	302	7	4	24
+264	Deluxe	19721	6	3	24
+265	Deluxe	12855	8	0	24
+265	Standard A/C Room	32895	2	10	24
+266	Standard A/C Room	1827	4	0	24
+266	Suite	17573	9	5	24
+266	Deluxe	209	3	2	24
+267	Standard A/C Room	30935	6	3	24
+267	Deluxe	27634	10	1	24
+268	Standard A/C Room	4591	4	8	24
+268	Suite	32899	9	2	24
+268	Deluxe	9791	9	7	24
+268	Standard Non A/C Room	1296	10	9	24
+269	Standard A/C Room	9421	6	7	24
+269	Deluxe	27071	9	4	24
+269	Standard Non A/C Room	3385	7	8	24
+269	Suite	21066	3	6	24
+270	Standard Non A/C Room	12086	2	8	24
+270	Deluxe	32179	4	3	24
+270	Standard A/C Room	3285	4	5	24
+271	Standard A/C Room	10152	9	8	24
+271	Standard Non A/C Room	8416	2	9	24
+271	Suite	11593	7	3	24
+272	Standard Non A/C Room	25039	10	8	24
+273	Suite	11456	4	3	24
+273	Standard Non A/C Room	27631	5	1	24
+273	Deluxe	28681	3	1	24
+273	Standard A/C Room	15423	7	1	24
+274	Suite	8675	3	10	24
+274	Standard A/C Room	25550	2	2	24
+274	Deluxe	9702	4	3	24
+275	Suite	15639	7	6	24
+275	Standard A/C Room	17821	6	9	24
+275	Deluxe	31726	3	10	24
+276	Standard A/C Room	2141	10	5	24
+276	Deluxe	23939	5	4	24
+277	Standard Non A/C Room	25717	4	4	24
+277	Standard A/C Room	34092	7	10	24
+277	Suite	7235	8	4	24
+277	Deluxe	7751	6	3	24
+278	Deluxe	15668	9	5	24
+279	Standard A/C Room	34022	5	6	24
+279	Suite	36041	5	6	24
+279	Standard Non A/C Room	25107	4	8	24
+280	Standard A/C Room	26465	8	8	24
+280	Deluxe	11672	6	10	24
+280	Suite	28837	2	8	24
+281	Deluxe	12083	6	1	24
+281	Standard A/C Room	5383	8	2	24
+282	Standard Non A/C Room	14000	9	1	24
+282	Standard A/C Room	10183	10	4	24
+282	Deluxe	33694	2	3	24
+282	Suite	34381	6	7	24
+283	Standard Non A/C Room	33460	9	4	24
+284	Deluxe	27575	2	6	24
+284	Standard Non A/C Room	12598	9	6	24
+285	Suite	32119	4	0	24
+285	Standard A/C Room	16466	8	3	24
+285	Standard Non A/C Room	691	3	8	24
+285	Deluxe	28899	10	5	24
+286	Standard A/C Room	14967	4	10	24
+287	Suite	33825	9	8	24
+287	Standard Non A/C Room	25107	8	4	24
+287	Deluxe	24011	4	7	24
+288	Suite	37978	9	10	24
+288	Standard Non A/C Room	16041	8	5	24
+288	Standard A/C Room	23442	9	2	24
+289	Standard A/C Room	29940	9	3	24
+289	Standard Non A/C Room	36751	8	0	24
+290	Deluxe	107	5	7	24
+290	Suite	21720	6	8	24
+290	Standard Non A/C Room	15320	10	2	24
+290	Standard A/C Room	17631	3	5	24
+291	Deluxe	14856	10	0	24
+291	Suite	36710	7	10	24
+291	Standard Non A/C Room	17485	7	4	24
+291	Standard A/C Room	8197	2	3	24
+292	Deluxe	9609	8	5	24
+292	Standard Non A/C Room	18457	10	1	24
+292	Suite	17399	3	3	24
+292	Standard A/C Room	22097	7	7	24
+293	Standard Non A/C Room	36968	9	2	24
+293	Standard A/C Room	36788	8	8	24
+293	Suite	12971	4	0	24
+294	Deluxe	31015	9	6	24
+294	Suite	28620	5	6	24
+294	Standard A/C Room	35674	5	0	24
+295	Standard A/C Room	18549	9	10	24
+295	Deluxe	10690	9	6	24
+295	Suite	18382	7	4	24
+295	Standard Non A/C Room	21597	9	10	24
+296	Suite	8365	5	10	24
+297	Standard Non A/C Room	21797	4	10	24
+297	Suite	1254	4	2	24
+298	Deluxe	9317	8	6	24
+298	Standard A/C Room	16633	3	10	24
+299	Deluxe	299	9	1	24
+300	Suite	8171	9	3	24
+301	Standard Non A/C Room	32238	10	9	24
+301	Deluxe	5252	5	0	24
+301	Standard A/C Room	9028	9	5	24
+301	Suite	35201	2	5	24
+302	Standard Non A/C Room	9491	9	3	24
+303	Suite	7110	8	2	24
+303	Deluxe	36195	8	2	24
+304	Standard Non A/C Room	2910	5	9	24
+304	Standard A/C Room	20753	10	10	24
+304	Deluxe	23129	10	3	24
+304	Suite	35177	9	2	24
+305	Deluxe	22863	2	5	24
+306	Standard A/C Room	11516	6	1	24
+306	Suite	16576	9	1	24
+307	Suite	33024	5	1	24
+307	Standard Non A/C Room	3662	2	0	24
+307	Deluxe	21436	4	5	24
+307	Standard A/C Room	25925	5	10	24
+308	Deluxe	35158	2	3	24
+308	Suite	8452	5	5	24
+309	Suite	22434	9	7	24
+309	Deluxe	2672	6	4	24
+309	Standard Non A/C Room	36890	5	2	24
+309	Standard A/C Room	32160	3	10	24
+310	Standard A/C Room	22650	3	3	24
+311	Standard Non A/C Room	7270	10	9	24
+312	Deluxe	22792	6	10	24
+312	Standard A/C Room	12571	2	6	24
+312	Suite	27148	10	0	24
+312	Standard Non A/C Room	7294	6	9	24
+313	Standard Non A/C Room	21508	2	10	24
+313	Deluxe	13043	9	5	24
+314	Standard A/C Room	26801	9	4	24
+314	Deluxe	9877	7	1	24
+314	Standard Non A/C Room	29184	8	4	24
+314	Suite	30526	2	8	24
+315	Standard Non A/C Room	17909	4	2	24
+316	Standard Non A/C Room	21633	4	3	24
+316	Standard A/C Room	20780	4	9	24
+316	Suite	36508	8	8	24
+316	Deluxe	35284	5	3	24
+317	Standard Non A/C Room	19282	7	1	24
+317	Deluxe	13360	4	6	24
+317	Standard A/C Room	29427	7	10	24
+317	Suite	9371	3	5	24
+318	Standard Non A/C Room	24450	3	4	24
+318	Deluxe	35575	10	4	24
+319	Deluxe	36634	5	6	24
+319	Standard A/C Room	23910	8	5	24
+319	Suite	14473	3	4	24
+320	Standard Non A/C Room	18414	2	7	24
+320	Suite	14341	10	5	24
+321	Standard Non A/C Room	19547	3	10	24
+321	Deluxe	19811	10	8	24
+322	Standard A/C Room	25636	9	9	24
+322	Standard Non A/C Room	170	7	4	24
+322	Suite	12276	10	6	24
+322	Deluxe	34159	7	7	24
+323	Standard Non A/C Room	34452	10	0	24
+324	Standard A/C Room	2748	7	2	24
+325	Suite	25590	10	5	24
+325	Deluxe	37247	10	9	24
+325	Standard Non A/C Room	34925	6	1	24
+326	Standard Non A/C Room	31097	10	2	24
+326	Standard A/C Room	16167	4	9	24
+327	Standard Non A/C Room	19381	6	4	24
+328	Deluxe	23236	7	1	24
+328	Suite	2015	3	10	24
+328	Standard Non A/C Room	35235	8	7	24
+329	Standard A/C Room	2245	3	5	24
+329	Deluxe	32941	6	5	24
+330	Standard Non A/C Room	13823	4	10	24
+330	Deluxe	37385	3	7	24
+330	Standard A/C Room	6336	9	5	24
+330	Suite	32813	6	4	24
+331	Standard Non A/C Room	32785	2	2	24
+332	Standard A/C Room	34648	9	2	24
+332	Suite	17504	3	2	24
+332	Deluxe	19862	9	10	24
+333	Standard Non A/C Room	25478	4	7	24
+333	Deluxe	11672	9	8	24
+334	Suite	27626	9	5	24
+334	Standard A/C Room	28003	10	3	24
+334	Deluxe	34944	4	1	24
+335	Suite	22163	3	8	24
+335	Standard A/C Room	35960	8	7	24
+335	Standard Non A/C Room	14261	6	8	24
+336	Standard Non A/C Room	7345	7	1	24
+336	Suite	37756	9	7	24
+337	Standard Non A/C Room	7705	5	10	24
+338	Standard A/C Room	35117	4	2	24
+338	Suite	4559	4	0	24
+338	Deluxe	23604	5	8	24
+338	Standard Non A/C Room	24262	5	1	24
+339	Deluxe	28434	10	7	24
+339	Suite	37579	3	8	24
+339	Standard Non A/C Room	27115	9	6	24
+339	Standard A/C Room	4978	8	4	24
+340	Standard A/C Room	8488	7	0	24
+340	Standard Non A/C Room	15690	6	4	24
+340	Suite	33094	3	1	24
+341	Standard Non A/C Room	4421	5	9	24
+341	Deluxe	30272	5	10	24
+341	Standard A/C Room	31279	9	3	24
+341	Suite	36874	10	8	24
+342	Deluxe	17617	6	10	24
+342	Suite	3830	8	10	24
+342	Standard Non A/C Room	36923	3	7	24
+342	Standard A/C Room	13987	7	1	24
+343	Standard A/C Room	2627	4	6	24
+343	Standard Non A/C Room	24038	9	1	24
+343	Suite	12127	8	0	24
+344	Standard Non A/C Room	11788	2	1	24
+344	Suite	27989	8	2	24
+344	Standard A/C Room	19289	10	0	24
+344	Deluxe	13573	2	4	24
+345	Deluxe	25353	10	2	24
+345	Standard Non A/C Room	20679	4	7	24
+345	Standard A/C Room	35737	9	1	24
+346	Deluxe	1553	4	0	24
+346	Standard A/C Room	31382	8	3	24
+346	Standard Non A/C Room	10981	9	1	24
+347	Deluxe	26872	10	3	24
+348	Deluxe	3298	6	4	24
+348	Suite	33978	5	3	24
+348	Standard A/C Room	2136	3	1	24
+349	Suite	26672	4	1	24
+349	Standard Non A/C Room	33665	3	2	24
+349	Deluxe	13377	3	1	24
+350	Standard A/C Room	19484	8	0	24
+350	Deluxe	843	2	8	24
+350	Suite	15780	5	6	24
+351	Standard Non A/C Room	36511	7	5	24
+351	Suite	33074	8	5	24
+351	Deluxe	27495	6	10	24
+351	Standard A/C Room	11134	10	7	24
+352	Suite	32111	2	1	24
+352	Standard Non A/C Room	25124	8	1	24
+352	Deluxe	8178	3	9	24
+352	Standard A/C Room	24730	2	0	24
+353	Standard Non A/C Room	22249	7	6	24
+353	Deluxe	24262	5	10	24
+353	Standard A/C Room	286	9	2	24
+354	Standard Non A/C Room	24594	6	9	24
+354	Deluxe	26005	6	0	24
+355	Standard Non A/C Room	1395	7	5	24
+355	Deluxe	28337	4	10	24
+355	Standard A/C Room	31919	2	10	24
+356	Standard Non A/C Room	10255	4	3	24
+356	Standard A/C Room	10090	8	6	24
+356	Deluxe	15148	8	2	24
+356	Suite	32349	3	2	24
+357	Suite	30124	8	9	24
+357	Standard Non A/C Room	6608	10	10	24
+357	Deluxe	24854	5	7	24
+358	Deluxe	16073	4	4	24
+359	Standard Non A/C Room	3361	3	10	24
+359	Standard A/C Room	24716	2	1	24
+359	Suite	3507	5	8	24
+360	Suite	3126	7	7	24
+360	Standard A/C Room	26344	3	3	24
+360	Deluxe	34450	3	5	24
+360	Standard Non A/C Room	33187	5	4	24
+361	Standard A/C Room	17217	7	5	24
+361	Deluxe	2149	3	8	24
+361	Standard Non A/C Room	5624	2	10	24
+362	Standard A/C Room	11197	5	5	24
+362	Deluxe	27698	3	4	24
+363	Deluxe	23801	9	1	24
+363	Standard A/C Room	21272	5	8	24
+364	Suite	13991	6	5	24
+364	Standard Non A/C Room	8396	2	10	24
+364	Standard A/C Room	32547	9	8	24
+365	Standard Non A/C Room	33644	7	0	24
+366	Deluxe	32174	2	7	24
+367	Suite	27906	3	5	24
+367	Standard Non A/C Room	32377	2	10	24
+367	Deluxe	34329	5	7	24
+367	Standard A/C Room	32639	5	5	24
+368	Suite	118	10	8	24
+369	Standard Non A/C Room	24899	9	6	24
+370	Deluxe	13063	4	1	24
+370	Suite	16872	8	8	24
+370	Standard Non A/C Room	27787	9	8	24
+371	Standard Non A/C Room	30086	2	1	24
+372	Standard A/C Room	3374	3	7	24
+372	Standard Non A/C Room	32109	10	10	24
+372	Deluxe	11682	9	7	24
+372	Suite	35727	6	1	24
+373	Suite	21448	4	3	24
+374	Deluxe	1111	6	5	24
+374	Standard A/C Room	28893	2	9	24
+374	Standard Non A/C Room	16886	8	8	24
+374	Suite	22608	10	10	24
+375	Suite	6542	9	8	24
+376	Suite	6642	8	6	24
+376	Standard Non A/C Room	11178	2	7	24
+376	Deluxe	4735	7	8	24
+376	Standard A/C Room	35227	10	5	24
+377	Standard Non A/C Room	35788	3	4	24
+377	Deluxe	11123	3	5	24
+378	Standard A/C Room	925	7	7	24
+378	Deluxe	10060	9	9	24
+378	Suite	12854	10	7	24
+379	Deluxe	20101	4	3	24
+379	Standard A/C Room	25782	2	7	24
+379	Standard Non A/C Room	3807	10	4	24
+379	Suite	15098	6	8	24
+380	Deluxe	31977	10	10	24
+380	Standard A/C Room	23652	4	7	24
+380	Standard Non A/C Room	29184	6	10	24
+380	Suite	16084	3	0	24
+381	Deluxe	13815	9	8	24
+381	Suite	9893	7	0	24
+382	Deluxe	1539	5	9	24
+382	Standard A/C Room	30593	10	2	24
+383	Suite	18153	2	6	24
+383	Standard Non A/C Room	15213	7	5	24
+383	Standard A/C Room	7565	9	0	24
+384	Standard A/C Room	23814	10	1	24
+384	Deluxe	7299	3	9	24
+384	Standard Non A/C Room	30362	2	4	24
+384	Suite	35770	10	7	24
+385	Standard A/C Room	16705	7	7	24
+385	Suite	7266	2	5	24
+385	Deluxe	7361	5	3	24
+385	Standard Non A/C Room	5298	5	6	24
+386	Deluxe	15781	7	3	24
+387	Standard Non A/C Room	8304	7	10	24
+387	Suite	35548	4	3	24
+387	Standard A/C Room	36408	4	5	24
+387	Deluxe	29497	7	5	24
+388	Standard A/C Room	3955	3	0	24
+388	Standard Non A/C Room	31248	8	7	24
+388	Suite	4260	7	5	24
+388	Deluxe	28961	2	10	24
+389	Standard A/C Room	18949	2	1	24
+389	Deluxe	26731	3	8	24
+389	Suite	32047	10	7	24
+390	Suite	10721	7	1	24
+390	Standard Non A/C Room	10329	9	2	24
+390	Standard A/C Room	27222	8	0	24
+391	Suite	2144	2	3	24
+391	Standard Non A/C Room	8884	3	1	24
+391	Deluxe	19941	2	4	24
+392	Standard A/C Room	22776	9	9	24
+392	Deluxe	19023	7	6	24
+392	Standard Non A/C Room	35084	2	2	24
+392	Suite	10104	8	6	24
+393	Standard A/C Room	37570	7	9	24
+393	Deluxe	25105	4	1	24
+394	Deluxe	2755	8	6	24
+394	Standard Non A/C Room	9623	2	8	24
+394	Suite	20460	5	2	24
+395	Standard A/C Room	33300	7	10	24
+395	Suite	15473	4	3	24
+396	Standard A/C Room	35873	6	2	24
+396	Deluxe	36710	10	1	24
+396	Suite	10927	2	4	24
+396	Standard Non A/C Room	14724	10	0	24
+397	Standard A/C Room	15599	5	8	24
+397	Deluxe	2388	9	9	24
+397	Suite	9617	5	0	24
+398	Standard Non A/C Room	18342	10	9	24
+398	Deluxe	11731	2	4	24
+398	Suite	147	10	8	24
+398	Standard A/C Room	3648	3	1	24
+399	Standard Non A/C Room	22772	5	2	24
+399	Suite	13766	3	0	24
+399	Deluxe	36555	3	5	24
+400	Suite	16575	7	6	24
+400	Standard Non A/C Room	2986	8	0	24
+400	Standard A/C Room	5746	4	10	24
+401	Standard Non A/C Room	20387	7	7	24
+401	Standard A/C Room	25602	7	10	24
+401	Suite	5240	9	1	24
+402	Standard Non A/C Room	17126	10	2	24
+403	Standard A/C Room	26379	6	7	24
+404	Standard A/C Room	25040	10	1	24
+405	Standard A/C Room	14940	2	4	24
+405	Deluxe	21074	5	10	24
+405	Standard Non A/C Room	27975	8	0	24
+405	Suite	35634	7	2	24
+406	Standard A/C Room	11834	2	8	24
+406	Suite	19424	5	7	24
+406	Deluxe	7948	2	0	24
+407	Standard A/C Room	30619	4	1	24
+407	Standard Non A/C Room	31105	3	1	24
+407	Deluxe	21159	7	7	24
+407	Suite	27789	4	1	24
+408	Suite	5269	10	0	24
+408	Deluxe	28403	9	6	24
+409	Standard A/C Room	10740	6	0	24
+409	Standard Non A/C Room	6874	3	3	24
+410	Standard A/C Room	7668	8	7	24
+410	Deluxe	19969	2	2	24
+411	Deluxe	29139	3	2	24
+412	Deluxe	11316	5	5	24
+412	Standard A/C Room	7794	9	10	24
+412	Standard Non A/C Room	7945	4	1	24
+413	Standard A/C Room	37360	7	0	24
+413	Deluxe	32453	9	2	24
+414	Deluxe	15147	4	8	24
+414	Standard Non A/C Room	31726	2	7	24
+415	Deluxe	4280	5	7	24
+416	Deluxe	34762	6	5	24
+416	Standard A/C Room	4879	5	8	24
+417	Standard A/C Room	35479	8	9	24
+417	Suite	7266	8	8	24
+418	Deluxe	4867	10	0	24
+418	Standard A/C Room	2357	8	6	24
+418	Standard Non A/C Room	13828	2	9	24
+418	Suite	1818	10	0	24
+419	Standard Non A/C Room	31856	2	5	24
+419	Suite	32957	7	2	24
+420	Standard A/C Room	24860	6	2	24
+420	Standard Non A/C Room	26015	10	2	24
+420	Suite	34611	2	6	24
+420	Deluxe	32183	4	0	24
+421	Suite	17367	3	6	24
+422	Standard Non A/C Room	31277	2	7	24
+422	Deluxe	141	2	4	24
+422	Suite	11871	2	10	24
+422	Standard A/C Room	31912	6	1	24
+423	Suite	36102	2	0	24
+423	Standard Non A/C Room	33653	9	7	24
+423	Deluxe	33939	10	10	24
+423	Standard A/C Room	18412	10	6	24
+424	Suite	24736	4	5	24
+424	Standard A/C Room	9846	8	1	24
+425	Standard Non A/C Room	17470	10	6	24
+425	Suite	9160	2	6	24
+425	Standard A/C Room	921	3	6	24
+426	Deluxe	26348	9	6	24
+426	Standard A/C Room	35040	4	6	24
+427	Standard A/C Room	8685	5	1	24
+428	Standard A/C Room	12186	9	10	24
+428	Deluxe	14286	6	5	24
+428	Standard Non A/C Room	35676	7	10	24
+429	Standard A/C Room	1083	9	0	24
+429	Standard Non A/C Room	7008	10	10	24
+429	Suite	11589	9	0	24
+429	Deluxe	18177	8	9	24
+430	Suite	6500	8	10	24
+431	Suite	7515	5	6	24
+432	Deluxe	18785	10	2	24
+432	Suite	25825	5	9	24
+432	Standard Non A/C Room	36298	3	0	24
+433	Suite	7819	8	4	24
+433	Deluxe	18185	4	0	24
+434	Standard Non A/C Room	19400	5	1	24
+435	Standard A/C Room	31337	5	10	24
+435	Suite	28813	2	3	24
+435	Deluxe	1983	6	1	24
+435	Standard Non A/C Room	29373	5	2	24
+436	Deluxe	21858	10	8	24
+436	Suite	12838	10	0	24
+436	Standard A/C Room	6367	6	3	24
+437	Suite	6185	3	9	24
+437	Standard Non A/C Room	31853	7	0	24
+438	Deluxe	28465	3	0	24
+438	Standard A/C Room	37005	4	0	24
+438	Suite	3708	2	4	24
+438	Standard Non A/C Room	4204	7	5	24
+439	Standard A/C Room	19592	7	3	24
+440	Suite	22565	10	9	24
+440	Standard Non A/C Room	26914	8	0	24
+440	Standard A/C Room	9213	10	3	24
+441	Standard A/C Room	15053	6	2	24
+441	Standard Non A/C Room	8451	5	7	24
+441	Deluxe	18780	6	2	24
+441	Suite	20603	8	5	24
+442	Suite	23707	5	0	24
+442	Deluxe	17879	7	2	24
+443	Deluxe	36274	7	2	24
+443	Standard A/C Room	32833	9	3	24
+444	Standard Non A/C Room	25052	10	8	24
+444	Deluxe	2968	3	5	24
+445	Standard A/C Room	10612	10	2	24
+445	Standard Non A/C Room	8516	6	0	24
+445	Suite	19527	6	10	24
+446	Standard A/C Room	3636	3	5	24
+447	Standard Non A/C Room	28358	5	2	24
+447	Deluxe	28133	3	6	24
+447	Standard A/C Room	17334	5	2	24
+447	Suite	9118	5	6	24
+448	Standard Non A/C Room	29908	6	2	24
+449	Deluxe	28728	4	10	24
+449	Standard A/C Room	24044	10	4	24
+450	Suite	11708	9	1	24
+451	Standard Non A/C Room	35078	5	6	24
+452	Standard A/C Room	16235	9	1	24
+452	Standard Non A/C Room	36072	4	3	24
+453	Standard A/C Room	15703	3	0	24
+453	Deluxe	18227	8	5	24
+454	Suite	28086	9	1	24
+454	Standard Non A/C Room	17595	3	3	24
+455	Standard Non A/C Room	4330	8	6	24
+456	Standard Non A/C Room	36795	10	5	24
+457	Deluxe	23691	9	5	24
+457	Standard A/C Room	37303	7	9	24
+457	Suite	6759	8	8	24
+457	Standard Non A/C Room	6115	7	10	24
+458	Standard Non A/C Room	20195	7	0	24
+458	Standard A/C Room	6217	5	1	24
+459	Suite	37960	10	1	24
+459	Standard Non A/C Room	904	7	7	24
+459	Standard A/C Room	11777	2	6	24
+460	Standard Non A/C Room	19177	5	2	24
+461	Standard A/C Room	16351	6	6	24
+461	Suite	28543	6	1	24
+461	Deluxe	35959	2	8	24
+461	Standard Non A/C Room	11477	7	10	24
+462	Suite	6779	8	5	24
+462	Deluxe	34560	3	2	24
+462	Standard Non A/C Room	35448	8	6	24
+462	Standard A/C Room	19586	5	1	24
+463	Suite	24294	10	3	24
+463	Deluxe	37036	2	8	24
+463	Standard Non A/C Room	14968	10	9	24
+463	Standard A/C Room	25504	3	0	24
+464	Standard A/C Room	20458	10	0	24
+464	Standard Non A/C Room	18022	10	0	24
+464	Deluxe	10746	7	0	24
+464	Suite	24002	2	7	24
+465	Suite	25299	3	4	24
+465	Standard Non A/C Room	23139	6	8	24
+465	Deluxe	15347	3	5	24
+465	Standard A/C Room	14237	8	7	24
+466	Standard A/C Room	12417	7	5	24
+467	Standard Non A/C Room	18533	10	9	24
+467	Deluxe	11915	4	6	24
+468	Suite	28412	3	6	24
+468	Standard A/C Room	23813	9	10	24
+468	Deluxe	20446	2	1	24
+468	Standard Non A/C Room	28018	7	9	24
+469	Standard A/C Room	3463	10	10	24
+469	Standard Non A/C Room	3166	10	0	24
+469	Suite	20679	9	9	24
+470	Suite	31551	5	6	24
+470	Standard A/C Room	3318	6	1	24
+470	Standard Non A/C Room	37523	8	8	24
+471	Standard Non A/C Room	5647	6	10	24
+472	Deluxe	12865	10	3	24
+473	Standard A/C Room	11545	9	0	24
+473	Deluxe	31621	7	5	24
+473	Standard Non A/C Room	30091	9	1	24
+473	Suite	23184	10	5	24
+474	Deluxe	37914	5	10	24
+474	Standard Non A/C Room	19509	6	2	24
+474	Suite	628	10	5	24
+474	Standard A/C Room	33897	8	6	24
+475	Suite	26842	3	7	24
+475	Standard A/C Room	23969	5	9	24
+475	Deluxe	5977	3	1	24
+475	Standard Non A/C Room	17708	2	5	24
+476	Suite	17721	10	0	24
+477	Deluxe	36546	6	0	24
+478	Standard A/C Room	3214	4	6	24
+478	Deluxe	24294	5	9	24
+478	Suite	24304	5	3	24
+478	Standard Non A/C Room	35280	5	5	24
+479	Deluxe	3499	4	10	24
+480	Standard A/C Room	11624	5	5	24
+480	Deluxe	32259	3	7	24
+480	Suite	22806	3	6	24
+480	Standard Non A/C Room	16884	10	4	24
+481	Standard Non A/C Room	18086	9	2	24
+481	Suite	11532	5	9	24
+482	Standard Non A/C Room	26896	9	6	24
+482	Standard A/C Room	18412	10	1	24
+482	Deluxe	35354	6	1	24
+483	Deluxe	23996	2	2	24
+483	Standard A/C Room	31116	6	0	24
+483	Suite	32871	6	8	24
+484	Suite	36615	4	6	24
+484	Standard A/C Room	8927	2	0	24
+484	Standard Non A/C Room	9207	7	1	24
+485	Deluxe	12460	7	0	24
+485	Standard Non A/C Room	28412	10	0	24
+486	Deluxe	35984	5	8	24
+486	Standard A/C Room	35116	8	3	24
+487	Standard Non A/C Room	25461	5	1	24
+488	Suite	2136	8	4	24
+489	Deluxe	28469	10	4	24
+489	Standard A/C Room	13681	10	5	24
+490	Standard A/C Room	6695	9	5	24
+491	Deluxe	9581	5	7	24
+491	Standard A/C Room	15608	7	4	24
+492	Standard Non A/C Room	35082	7	9	24
+493	Standard A/C Room	18744	3	1	24
+493	Suite	15886	8	3	24
+493	Standard Non A/C Room	12350	9	1	24
+494	Standard Non A/C Room	21612	5	1	24
+495	Standard Non A/C Room	35175	8	10	24
+496	Standard A/C Room	28128	10	9	24
+496	Standard Non A/C Room	28938	2	4	24
+497	Standard A/C Room	20361	10	10	24
+498	Deluxe	417	3	3	24
+499	Standard A/C Room	13003	4	0	24
+499	Suite	36588	8	9	24
+500	Deluxe	21884	6	7	24
+500	Standard Non A/C Room	5201	3	2	24
+500	Standard A/C Room	7234	10	5	24
+500	Suite	14461	5	0	24
+501	Suite	11515	6	8	24
+501	Deluxe	29590	4	9	24
+501	Standard Non A/C Room	14696	5	10	24
+502	Standard Non A/C Room	33571	3	8	24
+502	Standard A/C Room	29898	3	7	24
+503	Standard A/C Room	20279	3	3	24
+503	Standard Non A/C Room	22691	6	4	24
+503	Suite	12414	2	0	24
+504	Suite	27360	5	7	24
+504	Deluxe	20379	8	2	24
+505	Suite	7846	3	4	24
+505	Standard Non A/C Room	12922	6	9	24
+506	Suite	19602	3	9	24
+506	Standard Non A/C Room	16729	4	5	24
+506	Standard A/C Room	24063	9	9	24
+506	Deluxe	26174	8	0	24
+507	Standard A/C Room	4962	5	5	24
+507	Suite	25580	7	8	24
+507	Standard Non A/C Room	30427	8	6	24
+507	Deluxe	15030	2	2	24
+508	Deluxe	677	10	10	24
+508	Standard A/C Room	8607	6	0	24
+509	Deluxe	35654	5	8	24
+510	Suite	30710	9	5	24
+511	Suite	25545	2	2	24
+511	Deluxe	1044	9	1	24
+511	Standard A/C Room	4055	7	5	24
+511	Standard Non A/C Room	729	3	6	24
+512	Deluxe	18051	2	6	24
+512	Standard Non A/C Room	19423	8	0	24
+512	Suite	28609	7	8	24
+513	Standard Non A/C Room	17365	4	2	24
+513	Standard A/C Room	30304	10	5	24
+513	Suite	37518	10	4	24
+514	Standard Non A/C Room	27940	10	2	24
+514	Standard A/C Room	28211	9	8	24
+514	Suite	23496	3	2	24
+514	Deluxe	31199	3	8	24
+515	Standard A/C Room	28828	2	10	24
+516	Standard A/C Room	37516	2	1	24
+516	Suite	26990	7	7	24
+517	Standard Non A/C Room	20618	3	1	24
+517	Deluxe	15244	4	4	24
+517	Standard A/C Room	19664	2	6	24
+517	Suite	35327	6	5	24
+518	Deluxe	9694	9	6	24
+518	Suite	32968	8	8	24
+518	Standard Non A/C Room	1785	8	10	24
+519	Standard Non A/C Room	23906	4	2	24
+520	Standard A/C Room	9256	9	7	24
+520	Standard Non A/C Room	21399	3	6	24
+520	Deluxe	12752	2	4	24
+521	Standard A/C Room	11381	2	4	24
+522	Suite	10944	10	5	24
+522	Standard Non A/C Room	14815	7	0	24
+522	Standard A/C Room	209	10	4	24
+523	Standard Non A/C Room	1171	7	8	24
+523	Standard A/C Room	20001	6	5	24
+523	Deluxe	17664	4	9	24
+523	Suite	4621	5	1	24
+524	Standard Non A/C Room	11687	6	0	24
+524	Suite	9852	3	4	24
+524	Standard A/C Room	18526	3	4	24
+525	Suite	37347	10	4	24
+525	Deluxe	719	10	10	24
+525	Standard A/C Room	31541	3	6	24
+526	Deluxe	22978	6	3	24
+526	Standard Non A/C Room	36766	8	4	24
+526	Standard A/C Room	6794	3	3	24
+527	Standard A/C Room	18344	4	9	24
+527	Deluxe	3035	5	10	24
+527	Standard Non A/C Room	20688	9	2	24
+527	Suite	28791	9	0	24
+528	Deluxe	14486	2	0	24
+529	Suite	20624	7	10	24
+529	Standard A/C Room	11697	10	6	24
+530	Standard Non A/C Room	439	6	6	24
+531	Standard A/C Room	25373	9	0	24
+531	Deluxe	28160	7	3	24
+531	Standard Non A/C Room	8485	6	10	24
+531	Suite	3074	6	10	24
+532	Deluxe	10495	3	9	24
+532	Standard Non A/C Room	33448	7	1	24
+532	Standard A/C Room	14225	10	6	24
+532	Suite	10454	6	10	24
+533	Standard A/C Room	22343	10	8	24
+533	Deluxe	3696	9	6	24
+533	Suite	31770	6	5	24
+534	Deluxe	7794	8	9	24
+535	Suite	1050	4	9	24
+535	Deluxe	7050	2	9	24
+535	Standard Non A/C Room	18655	2	2	24
+536	Suite	3068	7	7	24
+536	Deluxe	24170	4	10	24
+537	Standard Non A/C Room	2958	9	0	24
+537	Suite	2994	6	6	24
+538	Standard Non A/C Room	34850	8	0	24
+538	Standard A/C Room	11149	3	1	24
+538	Deluxe	10727	5	3	24
+538	Suite	34869	3	7	24
+539	Standard Non A/C Room	33191	7	0	24
+539	Suite	1265	10	9	24
+539	Standard A/C Room	17600	5	4	24
+539	Deluxe	16221	6	5	24
+540	Suite	5332	7	9	24
+540	Standard A/C Room	14873	10	4	24
+540	Deluxe	20889	10	5	24
+541	Standard A/C Room	32846	3	2	24
+541	Suite	9715	3	7	24
+541	Standard Non A/C Room	28748	4	8	24
+541	Deluxe	22357	5	10	24
+542	Standard A/C Room	37590	4	0	24
+542	Standard Non A/C Room	25899	5	9	24
+542	Suite	36198	4	6	24
+542	Deluxe	19962	7	6	24
+543	Standard A/C Room	26885	8	4	24
+543	Standard Non A/C Room	5178	6	0	24
+544	Standard Non A/C Room	16939	9	3	24
+544	Deluxe	19919	4	10	24
+544	Suite	32704	2	10	24
+544	Standard A/C Room	11261	7	9	24
+545	Deluxe	24003	3	0	24
+545	Suite	15702	3	2	24
+546	Standard A/C Room	22747	9	2	24
+546	Deluxe	22416	8	2	24
+546	Standard Non A/C Room	24719	6	9	24
+547	Standard Non A/C Room	7102	10	0	24
+548	Standard A/C Room	16039	9	5	24
+549	Standard A/C Room	20166	9	6	24
+549	Standard Non A/C Room	33711	4	1	24
+549	Deluxe	19008	2	4	24
+549	Suite	4463	10	2	24
+550	Standard Non A/C Room	3466	5	5	24
+550	Suite	7195	6	6	24
+550	Standard A/C Room	28129	10	1	24
+551	Standard A/C Room	5181	6	2	24
+551	Standard Non A/C Room	11537	2	9	24
+552	Deluxe	195	6	1	24
+552	Standard Non A/C Room	35584	7	10	24
+552	Standard A/C Room	35773	9	9	24
+553	Suite	10780	10	7	24
+554	Deluxe	37341	8	6	24
+554	Standard Non A/C Room	26355	3	8	24
+554	Suite	8009	5	6	24
+555	Suite	1599	10	4	24
+556	Standard A/C Room	29166	9	9	24
+557	Standard A/C Room	37475	3	10	24
+558	Standard Non A/C Room	4166	9	0	24
+558	Deluxe	11403	8	8	24
+558	Standard A/C Room	24190	5	6	24
+559	Standard Non A/C Room	13048	9	8	24
+559	Standard A/C Room	4152	2	2	24
+560	Suite	2715	2	8	24
+560	Deluxe	27738	4	5	24
+560	Standard A/C Room	36952	3	4	24
+560	Standard Non A/C Room	8698	9	8	24
+561	Deluxe	9863	2	2	24
+561	Standard A/C Room	3081	5	6	24
+561	Suite	27161	2	8	24
+561	Standard Non A/C Room	19694	4	10	24
+562	Standard A/C Room	11264	10	3	24
+562	Deluxe	5351	9	7	24
+563	Standard A/C Room	30220	6	2	24
+564	Standard Non A/C Room	19638	2	9	24
+565	Deluxe	23386	5	2	24
+565	Standard A/C Room	36087	3	7	24
+565	Standard Non A/C Room	9494	2	7	24
+565	Suite	19086	10	2	24
+566	Suite	11229	9	3	24
+566	Standard A/C Room	34358	4	5	24
+566	Deluxe	15087	6	6	24
+567	Standard Non A/C Room	36392	9	1	24
+567	Standard A/C Room	7675	7	3	24
+568	Deluxe	6260	8	4	24
+569	Deluxe	37691	6	10	24
+569	Suite	13188	3	10	24
+569	Standard Non A/C Room	26153	6	2	24
+569	Standard A/C Room	22352	9	7	24
+570	Deluxe	7136	7	2	24
+571	Suite	29968	2	10	24
+572	Deluxe	12481	3	7	24
+572	Standard A/C Room	24438	10	6	24
+573	Suite	30884	4	8	24
+573	Deluxe	28089	7	4	24
+573	Standard Non A/C Room	11785	9	0	24
+574	Standard Non A/C Room	8807	10	5	24
+575	Standard A/C Room	3329	10	3	24
+575	Deluxe	3337	3	8	24
+576	Standard A/C Room	7464	8	7	24
+576	Deluxe	19030	5	2	24
+576	Standard Non A/C Room	10404	4	1	24
+577	Deluxe	36231	2	1	24
+577	Standard A/C Room	3985	5	9	24
+577	Standard Non A/C Room	25523	7	0	24
+578	Standard A/C Room	29873	6	8	24
+578	Deluxe	32051	5	0	24
+578	Suite	25531	8	0	24
+578	Standard Non A/C Room	27841	8	1	24
+579	Suite	35507	3	4	24
+579	Deluxe	3553	4	2	24
+580	Standard Non A/C Room	18528	4	9	24
+580	Suite	28830	3	3	24
+580	Deluxe	267	8	9	24
+580	Standard A/C Room	26806	5	8	24
+581	Standard A/C Room	31364	4	2	24
+581	Standard Non A/C Room	35543	8	7	24
+581	Suite	25261	7	7	24
+582	Suite	4624	3	2	24
+582	Deluxe	28147	6	5	24
+583	Standard Non A/C Room	33018	6	6	24
+583	Suite	24685	7	1	24
+584	Standard Non A/C Room	22499	9	4	24
+585	Suite	3438	9	5	24
+585	Standard Non A/C Room	12100	5	4	24
+585	Deluxe	31855	4	2	24
+586	Suite	33908	2	9	24
+587	Standard Non A/C Room	25075	5	2	24
+587	Deluxe	22816	10	9	24
+588	Standard A/C Room	31634	8	9	24
+589	Suite	12094	3	7	24
+589	Deluxe	9791	3	5	24
+590	Standard Non A/C Room	27630	10	6	24
+590	Deluxe	16097	5	2	24
+590	Standard A/C Room	31951	10	10	24
+590	Suite	15637	9	0	24
+591	Standard A/C Room	22005	3	5	24
+591	Deluxe	18208	4	9	24
+591	Suite	34921	10	9	24
+592	Standard Non A/C Room	21924	10	10	24
+593	Standard A/C Room	3918	7	7	24
+593	Standard Non A/C Room	36091	9	10	24
+594	Suite	382	8	8	24
+594	Deluxe	4260	8	10	24
+594	Standard Non A/C Room	8562	6	10	24
+595	Standard Non A/C Room	31060	5	7	24
+595	Standard A/C Room	5298	8	4	24
+595	Deluxe	14094	6	10	24
+596	Standard A/C Room	28298	7	6	24
+596	Standard Non A/C Room	33306	5	10	24
+597	Suite	35523	4	7	24
+597	Deluxe	36817	5	1	24
+597	Standard Non A/C Room	32276	3	2	24
+598	Standard A/C Room	4808	5	7	24
+598	Standard Non A/C Room	14673	2	2	24
+599	Deluxe	19826	10	8	24
+599	Standard A/C Room	34754	5	6	24
+599	Suite	8987	4	3	24
+600	Standard A/C Room	33092	6	0	24
+600	Suite	6450	7	6	24
+600	Standard Non A/C Room	5315	5	3	24
+601	Suite	33677	4	8	24
+601	Standard Non A/C Room	12893	10	6	24
+601	Deluxe	12494	5	3	24
+602	Suite	11756	6	4	24
+602	Standard Non A/C Room	12160	2	0	24
+602	Standard A/C Room	9352	4	9	24
+602	Deluxe	14176	3	0	24
+603	Deluxe	25069	5	1	24
+603	Standard Non A/C Room	4003	7	2	24
+604	Standard A/C Room	24857	2	3	24
+605	Standard A/C Room	7072	10	3	24
+605	Standard Non A/C Room	31049	9	6	24
+605	Deluxe	17122	4	3	24
+606	Deluxe	32759	7	3	24
+607	Standard A/C Room	13530	9	7	24
+608	Suite	2728	6	3	24
+608	Standard Non A/C Room	8599	3	0	24
+609	Deluxe	10071	7	8	24
+610	Deluxe	6248	4	0	24
+610	Standard A/C Room	11215	7	7	24
+611	Standard Non A/C Room	2248	2	6	24
+611	Suite	11288	10	10	24
+611	Standard A/C Room	30488	3	8	24
+612	Suite	11882	5	6	24
+612	Standard Non A/C Room	37049	6	5	24
+612	Standard A/C Room	22857	6	2	24
+613	Deluxe	2151	8	6	24
+613	Suite	27	5	9	24
+613	Standard A/C Room	35878	4	2	24
+613	Standard Non A/C Room	3783	8	10	24
+614	Suite	6323	9	3	24
+614	Standard A/C Room	18528	5	6	24
+614	Deluxe	37995	10	3	24
+614	Standard Non A/C Room	31313	9	10	24
+615	Standard Non A/C Room	32804	2	5	24
+615	Deluxe	5770	5	0	24
+615	Standard A/C Room	5448	6	2	24
+615	Suite	36049	7	0	24
+616	Deluxe	37042	5	1	24
+617	Standard Non A/C Room	9292	10	10	24
+617	Deluxe	18616	4	10	24
+617	Standard A/C Room	37931	9	5	24
+618	Standard A/C Room	33002	3	7	24
+618	Deluxe	35095	7	9	24
+619	Standard Non A/C Room	32375	2	9	24
+619	Deluxe	31522	4	3	24
+620	Deluxe	37458	7	3	24
+620	Standard Non A/C Room	33206	6	6	24
+620	Standard A/C Room	5231	10	6	24
+621	Standard A/C Room	14649	7	9	24
+621	Suite	8055	6	6	24
+621	Deluxe	33768	6	7	24
+621	Standard Non A/C Room	462	3	8	24
+622	Standard A/C Room	13697	4	4	24
+622	Standard Non A/C Room	6584	10	8	24
+622	Suite	5600	6	10	24
+623	Standard A/C Room	17576	9	9	24
+623	Suite	34605	4	7	24
+623	Deluxe	20352	6	9	24
+624	Suite	12861	6	5	24
+625	Standard A/C Room	21996	6	0	24
+626	Deluxe	34691	3	1	24
+626	Standard A/C Room	26558	9	5	24
+626	Suite	20695	2	1	24
+626	Standard Non A/C Room	24730	6	6	24
+627	Standard A/C Room	33108	3	9	24
+627	Suite	5764	2	8	24
+627	Deluxe	19195	10	7	24
+627	Standard Non A/C Room	25099	4	9	24
+628	Standard A/C Room	22393	5	3	24
+628	Suite	22613	4	5	24
+628	Standard Non A/C Room	21717	6	6	24
+628	Deluxe	34531	9	0	24
+629	Deluxe	8912	10	0	24
+629	Standard Non A/C Room	14089	6	3	24
+629	Suite	21933	8	0	24
+629	Standard A/C Room	33191	3	4	24
+630	Standard A/C Room	37697	5	7	24
+631	Standard Non A/C Room	28491	10	5	24
+632	Standard Non A/C Room	9253	5	2	24
+632	Deluxe	18943	9	0	24
+633	Suite	5603	3	5	24
+633	Deluxe	3288	8	2	24
+633	Standard A/C Room	29055	8	3	24
+634	Deluxe	5849	4	6	24
+634	Suite	31678	9	9	24
+635	Suite	20536	5	6	24
+635	Standard Non A/C Room	18545	7	9	24
+636	Suite	27530	2	10	24
+636	Deluxe	10866	10	4	24
+636	Standard A/C Room	2638	4	8	24
+637	Standard Non A/C Room	37095	9	3	24
+637	Standard A/C Room	8801	9	6	24
+637	Suite	36084	6	1	24
+638	Deluxe	34870	3	4	24
+638	Suite	3115	3	8	24
+638	Standard Non A/C Room	19036	3	5	24
+639	Deluxe	11861	8	2	24
+639	Standard A/C Room	29788	6	1	24
+639	Suite	31108	5	9	24
+639	Standard Non A/C Room	33272	5	2	24
+640	Deluxe	32387	6	8	24
+640	Suite	10904	10	6	24
+641	Deluxe	16800	9	7	24
+642	Suite	32696	5	3	24
+642	Standard Non A/C Room	24180	8	2	24
+643	Suite	29995	10	3	24
+643	Standard Non A/C Room	23707	8	10	24
+643	Standard A/C Room	1728	3	2	24
+644	Suite	31608	8	7	24
+645	Deluxe	14891	3	9	24
+646	Standard A/C Room	6379	3	10	24
+646	Deluxe	20286	5	8	24
+647	Suite	19303	2	7	24
+647	Standard A/C Room	33203	2	8	24
+647	Standard Non A/C Room	35361	4	6	24
+647	Deluxe	15956	2	2	24
+648	Standard A/C Room	18514	6	5	24
+648	Deluxe	32544	9	5	24
+648	Suite	37354	5	3	24
+648	Standard Non A/C Room	17104	8	7	24
+649	Deluxe	5969	6	6	24
+649	Standard A/C Room	20972	8	1	24
+649	Suite	6067	5	10	24
+649	Standard Non A/C Room	29987	4	0	24
+650	Suite	9655	2	7	24
+650	Standard Non A/C Room	6920	2	8	24
+650	Deluxe	16387	8	0	24
+650	Standard A/C Room	36973	5	5	24
+651	Suite	11071	4	7	24
+651	Standard A/C Room	14741	9	7	24
+651	Standard Non A/C Room	12306	10	3	24
+652	Standard A/C Room	30651	2	8	24
+652	Deluxe	21259	3	8	24
+652	Standard Non A/C Room	18502	10	0	24
+653	Deluxe	1916	3	5	24
+653	Standard Non A/C Room	2358	5	2	24
+653	Suite	15483	6	3	24
+654	Deluxe	654	4	3	24
+654	Suite	10635	8	3	24
+654	Standard Non A/C Room	15670	5	5	24
+655	Standard A/C Room	9160	4	9	24
+655	Standard Non A/C Room	23872	2	1	24
+655	Deluxe	36908	10	10	24
+656	Deluxe	35535	5	3	24
+656	Suite	9855	5	6	24
+657	Deluxe	29075	8	1	24
+657	Suite	28688	7	6	24
+657	Standard A/C Room	2744	7	0	24
+658	Suite	22743	10	1	24
+658	Standard Non A/C Room	24790	8	10	24
+658	Deluxe	35554	9	10	24
+659	Suite	13145	5	10	24
+660	Deluxe	24046	6	1	24
+660	Suite	29580	4	6	24
+661	Standard Non A/C Room	23359	8	4	24
+662	Standard Non A/C Room	13848	5	8	24
+663	Standard A/C Room	18248	6	4	24
+663	Suite	14797	7	5	24
+664	Standard Non A/C Room	1142	4	4	24
+665	Standard A/C Room	1870	4	10	24
+665	Suite	31130	2	3	24
+666	Deluxe	7080	6	10	24
+666	Standard Non A/C Room	693	5	9	24
+667	Deluxe	36481	2	2	24
+667	Suite	17036	4	1	24
+668	Suite	16484	10	0	24
+668	Standard A/C Room	26573	2	6	24
+669	Standard A/C Room	25521	9	4	24
+670	Suite	27724	7	10	24
+670	Deluxe	15373	7	8	24
+670	Standard Non A/C Room	4885	4	1	24
+670	Standard A/C Room	27433	8	4	24
+671	Standard Non A/C Room	30546	3	5	24
+671	Deluxe	27680	9	2	24
+672	Standard Non A/C Room	33958	3	1	24
+672	Suite	31101	7	9	24
+672	Deluxe	10623	3	10	24
+672	Standard A/C Room	474	3	10	24
+673	Standard Non A/C Room	35269	5	1	24
+673	Standard A/C Room	16879	5	2	24
+674	Suite	32344	8	6	24
+674	Deluxe	12603	4	7	24
+675	Suite	23323	10	2	24
+676	Suite	869	3	6	24
+677	Suite	36428	6	7	24
+678	Standard Non A/C Room	25232	4	8	24
+678	Suite	13699	5	2	24
+679	Standard Non A/C Room	29324	8	4	24
+679	Suite	20244	3	2	24
+679	Deluxe	24438	10	3	24
+680	Standard A/C Room	11135	5	1	24
+681	Standard A/C Room	17935	5	7	24
+681	Suite	8692	9	3	24
+681	Deluxe	4411	4	3	24
+681	Standard Non A/C Room	33500	2	0	24
+682	Deluxe	32740	7	7	24
+682	Suite	30619	4	2	24
+682	Standard A/C Room	11545	5	0	24
+682	Standard Non A/C Room	7180	3	2	24
+683	Suite	33519	4	5	24
+683	Deluxe	17822	7	4	24
+683	Standard A/C Room	8885	3	3	24
+683	Standard Non A/C Room	28836	4	1	24
+684	Deluxe	31157	7	8	24
+684	Suite	4573	8	6	24
+684	Standard A/C Room	4915	2	1	24
+684	Standard Non A/C Room	21080	3	5	24
+685	Suite	31164	9	6	24
+685	Standard Non A/C Room	32178	2	8	24
+686	Standard Non A/C Room	2465	6	10	24
+686	Suite	20555	4	3	24
+686	Standard A/C Room	32753	4	7	24
+687	Standard A/C Room	28271	10	9	24
+687	Deluxe	6214	10	2	24
+688	Standard Non A/C Room	4798	3	2	24
+688	Suite	21444	9	1	24
+689	Suite	16147	9	1	24
+689	Deluxe	16160	3	4	24
+690	Deluxe	28770	2	6	24
+690	Standard Non A/C Room	11581	10	8	24
+690	Suite	21229	2	3	24
+691	Standard A/C Room	9964	8	4	24
+691	Deluxe	9244	4	1	24
+692	Suite	5172	9	2	24
+693	Standard Non A/C Room	9795	5	2	24
+693	Standard A/C Room	35589	5	6	24
+693	Deluxe	30309	3	5	24
+694	Deluxe	7775	5	2	24
+694	Standard A/C Room	2915	3	9	24
+694	Standard Non A/C Room	3523	3	0	24
+694	Suite	4888	6	7	24
+695	Deluxe	5288	5	0	24
+695	Suite	11321	6	10	24
+695	Standard A/C Room	2461	3	5	24
+695	Standard Non A/C Room	3934	6	6	24
+696	Deluxe	4007	2	7	24
+696	Standard Non A/C Room	23996	7	7	24
+696	Suite	12955	5	10	24
+696	Standard A/C Room	16426	3	0	24
+697	Standard A/C Room	34495	2	3	24
+697	Deluxe	2549	7	10	24
+697	Suite	33215	10	2	24
+697	Standard Non A/C Room	19396	9	4	24
+698	Standard Non A/C Room	7486	3	10	24
+699	Standard Non A/C Room	14136	6	6	24
+700	Suite	4013	6	8	24
+700	Standard Non A/C Room	14380	8	7	24
+701	Standard A/C Room	20196	9	10	24
+701	Standard Non A/C Room	37293	6	2	24
+701	Deluxe	1438	4	4	24
+701	Suite	36612	3	3	24
+702	Deluxe	4176	4	3	24
+702	Suite	6973	7	9	24
+703	Suite	27813	10	10	24
+704	Standard Non A/C Room	29800	5	7	24
+704	Standard A/C Room	19808	10	1	24
+705	Standard Non A/C Room	18839	2	5	24
+705	Standard A/C Room	23855	7	7	24
+705	Suite	22245	7	9	24
+706	Suite	35630	2	9	24
+706	Deluxe	3295	7	2	24
+706	Standard Non A/C Room	16620	3	7	24
+707	Standard Non A/C Room	7504	2	5	24
+707	Suite	15544	5	10	24
+708	Standard A/C Room	15481	3	7	24
+709	Standard Non A/C Room	16864	6	8	24
+709	Standard A/C Room	22175	2	7	24
+709	Deluxe	11434	8	1	24
+709	Suite	36005	5	5	24
+710	Deluxe	29954	4	2	24
+711	Deluxe	16589	9	7	24
+711	Standard Non A/C Room	37086	7	4	24
+711	Standard A/C Room	17695	10	9	24
+711	Suite	13777	5	1	24
+712	Standard A/C Room	9307	8	10	24
+713	Standard Non A/C Room	30215	5	5	24
+713	Deluxe	21148	7	4	24
+713	Suite	8517	5	10	24
+713	Standard A/C Room	33403	6	4	24
+714	Deluxe	29904	2	10	24
+714	Suite	34386	10	5	24
+714	Standard Non A/C Room	26689	4	8	24
+715	Deluxe	19964	7	6	24
+715	Standard Non A/C Room	10449	4	8	24
+716	Suite	25359	10	0	24
+716	Deluxe	2652	2	9	24
+717	Suite	14567	3	6	24
+717	Standard A/C Room	35098	10	0	24
+718	Deluxe	18515	2	7	24
+718	Standard A/C Room	8942	9	6	24
+718	Suite	22770	4	8	24
+718	Standard Non A/C Room	17526	2	7	24
+719	Deluxe	12516	10	0	24
+719	Standard A/C Room	35772	10	5	24
+719	Standard Non A/C Room	18293	2	1	24
+719	Suite	36886	10	9	24
+720	Deluxe	5172	4	3	24
+720	Standard A/C Room	26939	2	7	24
+720	Standard Non A/C Room	31163	3	4	24
+721	Standard Non A/C Room	18746	3	6	24
+721	Deluxe	25932	8	7	24
+721	Standard A/C Room	2003	6	6	24
+722	Suite	8321	4	4	24
+723	Standard Non A/C Room	4451	3	2	24
+723	Standard A/C Room	23494	9	5	24
+724	Standard Non A/C Room	22793	7	0	24
+724	Standard A/C Room	21422	6	2	24
+724	Deluxe	21856	7	1	24
+725	Suite	28148	10	1	24
+726	Suite	12015	6	4	24
+727	Standard Non A/C Room	6578	7	7	24
+727	Deluxe	18362	9	6	24
+727	Suite	22977	10	2	24
+728	Standard A/C Room	25232	10	4	24
+728	Deluxe	8983	5	8	24
+728	Standard Non A/C Room	32602	4	3	24
+728	Suite	1983	8	7	24
+729	Standard Non A/C Room	8584	5	7	24
+730	Standard A/C Room	26359	6	9	24
+731	Standard Non A/C Room	3476	4	5	24
+731	Standard A/C Room	29115	7	3	24
+731	Suite	3795	6	8	24
+731	Deluxe	32462	6	6	24
+732	Suite	36554	7	4	24
+732	Standard Non A/C Room	36270	4	4	24
+732	Standard A/C Room	17173	2	9	24
+732	Deluxe	30477	9	8	24
+733	Deluxe	32567	5	0	24
+733	Standard Non A/C Room	7270	4	8	24
+734	Standard A/C Room	11024	8	6	24
+734	Suite	18482	6	0	24
+735	Deluxe	13840	8	2	24
+735	Suite	1881	9	4	24
+736	Deluxe	15668	3	1	24
+736	Suite	3718	2	3	24
+737	Standard A/C Room	24771	8	1	24
+737	Suite	5091	10	1	24
+738	Standard A/C Room	22931	2	10	24
+739	Suite	15890	9	3	24
+739	Standard Non A/C Room	6030	7	4	24
+739	Deluxe	4098	2	8	24
+739	Standard A/C Room	37111	6	8	24
+740	Standard A/C Room	17874	4	8	24
+740	Standard Non A/C Room	7861	2	9	24
+740	Suite	22499	3	0	24
+740	Deluxe	7420	2	7	24
+741	Deluxe	21465	8	8	24
+741	Suite	17794	8	5	24
+742	Deluxe	28423	2	0	24
+743	Deluxe	30549	5	7	24
+744	Standard Non A/C Room	36743	3	10	24
+744	Suite	35388	8	9	24
+745	Standard Non A/C Room	9674	3	3	24
+746	Standard A/C Room	21618	10	10	24
+746	Suite	29818	9	7	24
+747	Standard Non A/C Room	35969	3	7	24
+748	Standard A/C Room	23634	3	9	24
+748	Deluxe	7135	8	10	24
+749	Standard A/C Room	9482	8	9	24
+749	Deluxe	3502	4	9	24
+749	Standard Non A/C Room	33467	6	8	24
+750	Standard A/C Room	21234	5	3	24
+750	Standard Non A/C Room	17424	3	10	24
+750	Suite	3532	5	8	24
+750	Deluxe	16002	4	2	24
+751	Deluxe	30166	4	8	24
+751	Suite	31435	10	10	24
+751	Standard Non A/C Room	24945	7	10	24
+751	Standard A/C Room	23326	6	6	24
+752	Suite	17630	4	8	24
+752	Standard A/C Room	22995	6	6	24
+752	Standard Non A/C Room	11731	10	0	24
+753	Deluxe	8480	10	3	24
+753	Suite	20481	5	1	24
+753	Standard A/C Room	29814	2	10	24
+754	Deluxe	36076	9	7	24
+754	Standard A/C Room	347	7	10	24
+754	Suite	7815	7	0	24
+755	Standard A/C Room	30520	9	8	24
+755	Suite	20817	7	8	24
+756	Deluxe	1072	9	6	24
+756	Standard Non A/C Room	15936	10	9	24
+756	Standard A/C Room	14274	8	6	24
+756	Suite	34320	7	9	24
+757	Suite	35478	5	7	24
+757	Standard A/C Room	32345	2	8	24
+757	Deluxe	37130	9	4	24
+757	Standard Non A/C Room	29356	9	6	24
+758	Standard A/C Room	32690	8	5	24
+758	Deluxe	4005	5	5	24
+758	Suite	9194	10	7	24
+759	Standard A/C Room	20164	7	5	24
+760	Standard Non A/C Room	27981	6	1	24
+760	Standard A/C Room	36169	10	5	24
+761	Suite	37665	5	2	24
+761	Standard Non A/C Room	19561	5	1	24
+762	Suite	33764	5	2	24
+763	Suite	37424	2	7	24
+763	Standard A/C Room	32322	7	10	24
+763	Deluxe	12357	4	7	24
+763	Standard Non A/C Room	23468	3	8	24
+764	Deluxe	37184	4	4	24
+764	Standard Non A/C Room	34352	5	8	24
+764	Suite	25159	7	2	24
+765	Deluxe	29266	7	0	24
+766	Standard Non A/C Room	26018	9	0	24
+766	Standard A/C Room	5140	3	0	24
+766	Deluxe	35180	8	7	24
+767	Standard A/C Room	18804	2	8	24
+767	Standard Non A/C Room	26718	7	5	24
+767	Deluxe	36969	10	2	24
+768	Suite	29832	4	0	24
+768	Standard A/C Room	4148	4	9	24
+768	Standard Non A/C Room	9103	5	5	24
+768	Deluxe	3782	6	4	24
+769	Deluxe	7817	7	9	24
+770	Suite	23678	10	10	24
+770	Standard Non A/C Room	34603	3	8	24
+771	Standard Non A/C Room	26408	9	10	24
+772	Standard Non A/C Room	24969	5	9	24
+772	Deluxe	37341	8	0	24
+773	Suite	19521	8	10	24
+773	Standard Non A/C Room	7855	7	10	24
+773	Deluxe	31531	5	4	24
+774	Deluxe	8046	7	5	24
+775	Standard Non A/C Room	30227	7	8	24
+776	Standard Non A/C Room	25826	5	6	24
+776	Suite	16215	6	9	24
+776	Deluxe	34445	2	3	24
+776	Standard A/C Room	16075	5	5	24
+777	Suite	7813	4	2	24
+777	Standard Non A/C Room	12241	7	4	24
+777	Standard A/C Room	15249	10	4	24
+777	Deluxe	19328	10	10	24
+778	Suite	16918	5	10	24
+778	Deluxe	34753	5	2	24
+778	Standard A/C Room	26929	10	10	24
+778	Standard Non A/C Room	18056	7	2	24
+779	Deluxe	21333	4	4	24
+780	Standard Non A/C Room	15702	2	7	24

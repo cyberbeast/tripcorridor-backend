@@ -1,0 +1,782 @@
+id	name	district	rating
+0	Dasharath	Udupi	3
+1	Shri Ramakrishna	Bagalkot	5
+2	Anand Vihar	Uttara Kannada	5
+3	Elegant Guest House	Uttara Kannada	7
+4	Hindustan	Gadag	5
+5	UG Royal	Dakshina Kannada	5
+6	UG Deluxe	Dharwad	5
+7	UG Grand	Chikkaballapur	5
+8	Blue Moon Residency	Kolar	4
+9	State Lodge, Dandeli	Tumkur	4
+10	Bombay Tiffanys	Udupi	3
+11	Green Land Guest House Gokarna	Yadgir	5
+12	Honnagiri Residency	Kodagu	3
+13	UG Classic	Dharwad	5
+14	UG Regal	Chamarajnagar	3
+15	Telehaus International	Ramanagara	3
+16	Lucky Inn	Gadag	3
+17	Shrusti Residency	Chikkaballapur	7
+18	Kaveri Palace	Uttara Kannada	3
+19	Anugriha Womens Stay	Dakshina Kannada	3
+20	Shine	Raichur	3
+21	NewJanpath	Chamarajnagar	7
+22	Golden Guest House	Davanagere	3
+23	Navratna Palace	Bangalore Rural	4
+24	Rathna Mahal Residency	Gulbarga	7
+25	Century Residency	Kolar	3
+26	Parkway	Gulbarga	5
+27	Navya Residency	Gadag	7
+28	Shri Kamal	Vijayapura	3
+29	Swadesh Heritage	Kolar	7
+30	Surya	Mysore	3
+31	Chandra Palace	Vijayapura	4
+32	Vittal Regency Bangalore	Uttara Kannada	3
+33	TAP Paradise	Bangalore Urban	4
+34	Akshara Regency	Tumkur	4
+35	The Libra	Haveri	3
+36	King Regency	Bagalkot	3
+37	The National Residency	Haveri	4
+38	Kodagu Plaza	Shimoga	5
+39	Pratham Inn Resorts	Bidar	3
+40	Mahalakshmi Residency	Kolar	7
+41	Rocky Guesthouse	Bangalore Rural	5
+42	Maruthi Palace	Bellary	3
+43	Executive Comforts	Tumkur	3
+44	Golden Residency	Chitradurga	3
+45	M.T.R. Residency	Shimoga	3
+46	Mayflower	Haveri	3
+47	Rukmini Residency	Koppal	4
+48	Vt Orchid	Chikkamagaluru	3
+49	Lalit International	Chamarajnagar	3
+50	Keerthana International	Chamarajnagar	3
+51	Kodagu Residency	Bidar	3
+52	Hilltown	Ramanagara	5
+53	Sheltron	Ramanagara	3
+54	Sharada International	Tumkur	4
+55	Jade Empire	Kolar	5
+56	Sonchiraiya	Chitradurga	3
+57	Oyo Rooms Jc Road	Uttara Kannada	3
+58	Caveri	Vijayapura	5
+59	NewMB International	Mysore	5
+60	Red Mount	Kolar	3
+61	Snt Comfort	Hassan	3
+62	Rajathadri	Uttara Kannada	3
+63	Summer Park	Tumkur	5
+64	Sujatha Residency	Hassan	3
+65	Sky Palace	Mandya	3
+66	Sk Residency	Hassan	3
+67	Karthik	Ramanagara	3
+68	TAP Gold Crest	Haveri	4
+69	O.l.v Palace	Koppal	5
+70	Hospitality Inn	Chitradurga	3
+71	NewThe Signature Inn	Dakshina Kannada	3
+72	Bhuvan Palace	Bangalore Urban	5
+73	Kamat's Mayura 	Shimoga	5
+74	Oyo Rooms Koramangala Forum Mall	Ramanagara	5
+75	Century Nester	Koppal	4
+76	Shree Guru Residency	Bagalkot	5
+77	Kumar's International	Dakshina Kannada	3
+78	Suhashini Palace	Chikkaballapur	4
+79	Megha Residency	Haveri	3
+80	Janardana	Hassan	7
+81	Sreeya Comforts	Koppal	3
+82	Vasantha Mahal	Mandya	4
+83	Amm Residency	Bangalore Rural	3
+84	Sriram Residency	Yadgir	5
+85	Sshringar Intercontinental Mysore	Kodagu	4
+86	Nalapad Residency	Dharwad	5
+87	Vt Residency	Chamarajnagar	3
+88	Guptha	Gulbarga	5
+89	Manasa Paradise	Ramanagara	5
+90	Woodside	Bangalore Rural	3
+91	AAA Luxury Stay	Tumkur	4
+92	Mahalakshmi Comforts	Bidar	3
+93	Thilak Home Stay	Haveri	3
+94	Everest Comforts	Bagalkot	5
+95	Sunil Residency	Dharwad	5
+96	Gallery View 	Bidar	5
+97	Asha Regent	Mysore	5
+98	The Orange	Raichur	7
+99	Mangalore International	Raichur	4
+100	Dhammanagi Comforts	Bagalkot	7
+101	Paramount Tourist Home	Mysore	5
+102	Comfort Inn Vyshak	Bagalkot	3
+103	Aishwarya Residency	Haveri	3
+104	Gowri Resort	Tumkur	3
+105	Kanishka	Haveri	5
+106	Nava Nidhi 	Hassan	4
+107	Sai Suraj International	Chamarajnagar	7
+108	Kavery Riverside Homestay	Chitradurga	3
+109	Udupi Park Inn	Yadgir	5
+110	Sunshine	Mysore	5
+111	Nandhini Minerva Circle	Gulbarga	3
+112	Atlaantic Inn	Kolar	5
+113	Chinna's Residency 	Chikkaballapur	5
+114	Aishwarya Duites	Davanagere	4
+115	Sk Presidency	Uttara Kannada	3
+116	Prakaash Palace	Gadag	7
+117	Royal Comfort Park	Bangalore Rural	7
+118	Pearl Inn	Bangalore Urban	3
+119	Chetan International Bangalore	Uttara Kannada	5
+120	Vega Residency	Hassan	5
+121	The Koramangala Residency	Uttara Kannada	3
+122	Ujjwala International	Chamarajnagar	3
+123	Purple Inn Boutique	Shimoga	3
+124	Sheetal Residency	Gadag	5
+125	Sri Krishna Residency	Kolar	5
+126	31 South Park	Chitradurga	3
+127	TAP Silver Square	Belgaum	3
+128	Oyo Rooms Indiranagar 210	Raichur	3
+129	Venu Guest House	Bagalkot	3
+130	Pranam	Bidar	5
+131	Gopi Guest House	Bagalkot	5
+132	Archana Guest House	Mandya	4
+133	The Blue Mountains Estate Stay	Kolar	7
+134	Deva Residency	Bangalore Urban	3
+135	Narayana Comforts	Bidar	3
+136	The Diva Boutique	Bagalkot	3
+137	Kannika International	Belgaum	5
+138	Kings Kastle	Bidar	4
+139	Green Haven	Tumkur	3
+140	Airlines	Tumkur	5
+141	Abs International	Bidar	5
+142	Oyo Rooms-Indiranagar	Belgaum	3
+143	City Centaur	Gulbarga	3
+144	The Woodbridge	Koppal	3
+145	Sabharwal Viceroy	Chitradurga	3
+146	Pavana Residency 	Gadag	3
+147	Nandhini Jayanagar	Bellary	3
+148	Catalyst Suites Service Apartment Bannergatta	Koppal	3
+149	Barons Inn	Gulbarga	5
+150	Shanbhag Towers International	Chikkaballapur	3
+151	Ganesh Mahal	Shimoga	3
+152	Hotel Enzo International	Chikkaballapur	4
+153	Jade Emperor	Bidar	3
+154	The Grand Inn Mysore	Koppal	5
+155	Highton	Dharwad	3
+156	Southern Residency	Koppal	3
+157	Champakadhama Residency	Raichur	3
+158	Raj Residency	Chikkamagaluru	5
+159	Holiday Home	Kodagu	3
+160	Leisure Vacations Westend Resort	Haveri	3
+161	Comfort	Ramanagara	3
+162	Sahara Residency	Bangalore Rural	3
+163	The Grand Meridien	Chikkaballapur	3
+164	Oyo Rooms Bannerghatta Road	Bangalore Urban	5
+165	Oyo Rooms Kalyan Nagar	Mandya	3
+166	Grand Lotus Boutique	Chitradurga	5
+167	Golden Gates	Chamarajnagar	3
+168	Abhishek	Bellary	3
+169	The Prestige - Tg	Kodagu	5
+170	Geo	Udupi	3
+171	Rainbow Residency	Bidar	3
+172	S K Regency	Shimoga	5
+173	Maya International	Haveri	5
+174	The Goyal Residency	Ramanagara	3
+175	PC Residency	Gadag	3
+176	White Parrot	Kodagu	5
+177	Skanda Shelters	Haveri	4
+178	Palace Guest House	Mysore	4
+179	Golf Inn	Gadag	5
+180	Rajdarshan	Gadag	5
+181	The Redlotus Suites	Chikkaballapur	5
+182	Bhagini Residency	Bangalore Urban	3
+183	Hotel Royal Residency	Chitradurga	3
+184	Sk Continental - Tg	Tumkur	3
+185	M.T.R Yatrinivas lodge	Ramanagara	3
+186	Mtr Deluxe Lodge	Bidar	3
+187	Chalukya	Ramanagara	5
+188	Suvarna Regency	Mandya	3
+189	Richmond Residency	Shimoga	7
+190	Btc Comforts	Chikkaballapur	3
+191	Prasidhi Stay Inn	Shimoga	4
+192	Merivian Lets	Bangalore Urban	5
+193	Kalyani	Hassan	5
+194	Oyo Rooms K R Puram	Mysore	3
+195	Oyo Rooms Marathahalli	Kolar	4
+196	Oyo Rooms Victoria Layout	Chikkaballapur	3
+197	Oyo Rooms Yeshwanthpur	Chitradurga	4
+198	Adhi Manor	Tumkur	5
+199	Sairam Residency Boutique	Bangalore Rural	3
+200	Hill View	Kolar	5
+201	The Nest Residency	Chikkamagaluru	3
+202	Oyo Rooms-Mg Road	Haveri	5
+203	Empire	Kolar	3
+204	Ritz	Tumkur	5
+205	Orange Tree Inn	Belgaum	3
+206	Maya International	Dharwad	5
+207	Cynosure Boutique Suites	Kolar	4
+208	The Viceroy	Kodagu	3
+209	Coorg Regency	Udupi	3
+210	Ganga Sagar	Chikkamagaluru	3
+211	Nandhana Comforts	Kolar	5
+212	Royal Challet	Koppal	4
+213	Capitol Village	Chikkaballapur	7
+214	Nandhana Martahalli	Raichur	3
+215	Rock Regency	Bidar	3
+216	Palace Plaza	Bagalkot	5
+217	Nalapad Residency Mysore	Bagalkot	5
+218	Maple Inn Budget	Bangalore Rural	3
+219	Swagath	Chikkamagaluru	3
+220	Srinidhi Residency	Chamarajnagar	3
+221	Maday Holidays	Mandya	3
+222	Sri Trupthi Comforts	Yadgir	3
+223	Oyo Rooms-Brigade Road, Bangalore	Chitradurga	3
+224	Chalet Suites Bangalore	Kolar	3
+225	City Living	Chikkaballapur	3
+226	The New Casablanca	Bangalore Rural	4
+227	Yogamaya Comforts	Bellary	4
+228	Minerva Residency	Kodagu	4
+229	The Grand Continent	Mysore	3
+230	Vr Royal Residency	Udupi	3
+231	jSTa The Residence Indiranagar	Chikkaballapur	4
+232	Oyo Rooms Manyata Tech Park	Haveri	5
+233	Oyo Rooms Whitefield Main Road	Bangalore Rural	5
+234	Oyo Rooms Indiranagar 12Th Main	Mandya	3
+235	Oyo Rooms Bannerghatta Road 2	Gadag	7
+236	Oyo Rooms Electronic City	Ramanagara	3
+237	Shelton Grand	Chikkamagaluru	3
+238	The Corporate Comforts	Dakshina Kannada	3
+239	White Orchid	Mysore	3
+240	Aditya	Gadag	5
+241	Suraksha Regency	Mandya	3
+242	Emporium	Uttara Kannada	3
+243	Daffodil Hospitality Brookefield Road	Bellary	3
+244	Nandhini, Domlur	Bellary	3
+245	Akasa Mysore	Belgaum	3
+246	Karishma Residency	Koppal	5
+247	Maurya Residency	Chikkamagaluru	3
+248	Chairman's Resort	Gulbarga	3
+249	Compact Greenview Homes	Bellary	7
+250	Sairam Residency	Raichur	5
+251	Shoba Suites	Chikkaballapur	5
+252	Kamats  Lalbagh	Vijayapura	3
+253	Kingston Palace	Dharwad	5
+254	Paddy Valley	Shimoga	3
+255	Cats Den Homestay	Vijayapura	3
+256	Empire International	Shimoga	5
+257	Roopa	Udupi	4
+258	Madikeri Heritage	Davanagere	3
+259	Oyo Rooms Inner Ring Road	Dharwad	7
+260	Oyo Rooms Koramangala 5Th Block	Udupi	5
+261	Oyo Rooms Kasturinagar	Davanagere	3
+262	Lakshmi Heritage Tourist Home	Chikkaballapur	3
+263	Coffee Valley Club & Cafe	Raichur	3
+264	Padma Guesthouse	Bellary	5
+265	Ekaa	Mysore	5
+266	Umerkot Residency	Kolar	4
+267	Sharada	Davanagere	5
+268	Shreyas Residency	Bidar	3
+269	Shoba Inn	Hassan	7
+270	Nandhini JP Nagar	Bangalore Urban	3
+271	Amshi International Inn	Chikkamagaluru	5
+272	Classic Comfort - Tg	Chamarajnagar	3
+273	Royal Suites Apartments	Mandya	3
+274	Nandhini - R.T.Nagar	Mysore	3
+275	Mysore Complex	Raichur	5
+276	Shree Comforts	Udupi	3
+277	Nile Residency	Chamarajnagar	3
+278	Poonja International	Dakshina Kannada	4
+279	Peearl	Davanagere	3
+280	Air View Court Serviced Apartments	Bellary	3
+281	The Chettinad	Davanagere	5
+282	Shamrock Groove Boutique Inn	Ramanagara	3
+283	Oyo Rooms Indiranagar Cmh Road	Udupi	7
+284	Oyo Rooms Jp Nagar	Chikkamagaluru	4
+285	Pleasant Stay Inn	Mandya	3
+286	Hare Krishna Residency	Mandya	4
+287	Temple Suites	Hassan	3
+288	Inchara	Kolar	3
+289	Balkis Home Stay	Uttara Kannada	3
+290	Honeydew Habitat	Chikkamagaluru	3
+291	Sri Sai Comforts	Vijayapura	7
+292	NewOlive Residency	Vijayapura	4
+293	Tourist Lodge	Raichur	7
+294	Manasa Guest House	Shimoga	3
+295	Suvarna Residency	Kodagu	3
+296	Golden Sands Bangalore	Bangalore Rural	3
+297	Priyanka Residency	Gulbarga	5
+298	Mayur Suites Inn	Ramanagara	7
+299	Airport Residency	Kodagu	7
+300	Planters Inn	Bidar	3
+301	Vishranth Service Apartment	Raichur	3
+302	Gangothri	Gulbarga	3
+303	New Rainbow Business	Mandya	7
+304	Stay Inn	Chikkaballapur	5
+305	Urban Retreat	Bidar	3
+306	Grand Adigas - Phg	Mysore	4
+307	El-Shaddai Homes	Davanagere	7
+308	Hampi International	Vijayapura	3
+309	Emirates Suites	Vijayapura	3
+310	Maurya	Belgaum	3
+311	Dass Suites	Raichur	3
+312	Dasaprakash Paradise	Chikkaballapur	3
+313	Sharq Residency	Raichur	5
+314	Oyo Rooms Mg Road	Hassan	3
+315	Oyo Rooms Indiranagar 100 Ft Road	Davanagere	7
+316	Rest Inn	Chamarajnagar	5
+317	NewVarsha Enclave Service Apartment	Koppal	3
+318	Udupi Residency	Chamarajnagar	3
+319	Elite Marigold House	Chitradurga	3
+320	The Casiita	Chitradurga	7
+321	Cosmos Guest Homes	Bangalore Rural	5
+322	Varsha Enclave- White House	Chamarajnagar	3
+323	Boulevard Riviera Apartment	Gadag	3
+324	Vijayshree Heritage Village	Koppal	7
+325	Arama Suites	Gadag	3
+326	Sai Renaissance	Chikkamagaluru	3
+327	Sandhya Residency	Gadag	5
+328	Nandu Associates Marathhahalli	Gulbarga	5
+329	Infantry Court	Bellary	5
+330	Nandu Associates Koramangla	Dharwad	5
+331	Woodstock Express	Chamarajnagar	5
+332	Empire International Koramangala	Vijayapura	3
+333	Siddharta Mysore	Bangalore Urban	5
+334	Alpen Glow	Yadgir	3
+335	Serenity Inn	Haveri	3
+336	Yedamakky Cottage	Belgaum	3
+337	Annora	Bellary	3
+338	Nisarga Drive Inn	Ramanagara	3
+339	Nandhini St Marks Road	Bidar	7
+340	Sandesh Kingston	Chamarajnagar	7
+341	Park Inn Hospitality	Haveri	7
+342	Oyo Rooms Jayanagar Ashoka Pillar	Tumkur	3
+343	Magic Inn	Shimoga	3
+344	Oyo Rooms Majestic	Belgaum	3
+345	Oyo Rooms Rt Nagar	Gulbarga	5
+346	Nandhini - White Field	Hassan	5
+347	Raj Comfort Boutique	Shimoga	5
+348	Thyme The Transit	Bidar	3
+349	Royal Opera	Gulbarga	3
+350	NewThe Dawn	Chikkamagaluru	5
+351	Atithi Grand	Chitradurga	3
+352	4 Seasons Homestay	Davanagere	5
+353	Carlin Serviced Apartments	Gulbarga	5
+354	Mallikha Residency	Dharwad	5
+355	Edassery Davis Let	Kodagu	3
+356	Vaishnavi Residency	Kodagu	3
+357	Silicon Hearth	Tumkur	3
+358	Melody Inn	Bidar	7
+359	Mel's Regency	Mandya	7
+360	NewMayura International	Kodagu	4
+361	Basant Residency	Bellary	7
+362	Melrose Serviced Apartment - Shanti Nagar	Bellary	5
+363	Raj	Mandya	7
+364	Aarti Home Stay	Vijayapura	3
+365	Apollo Sindoori	Bangalore Rural	5
+366	R B Hospitality	Bagalkot	5
+367	Shreenath Palace Jhansi	Bangalore Rural	3
+368	Star Studio	Kolar	3
+369	Country Club Mysore	Chitradurga	3
+370	Grand Bee	Chikkaballapur	5
+371	Taura Comfort	Haveri	5
+372	Urs Regency	Dharwad	3
+373	Hotel Kenzo Inn	Belgaum	5
+374	Akshaya Residency	Gulbarga	5
+375	Royal Shades	Gulbarga	3
+376	Ayush International	Yadgir	3
+377	Parklane	Chikkaballapur	3
+378	Safina Bangalore	Haveri	7
+379	Bulande Hospitality Services	Davanagere	3
+380	The Crocus	Gadag	3
+381	Sk Elegance	Uttara Kannada	3
+382	Oyster Inn	Mandya	3
+383	Pleasant Moments Whitefield 	Hassan	5
+384	Pai Vaibhav	Chitradurga	5
+385	Surya Residency	Gadag	3
+386	Vellara	Koppal	3
+387	Corporate Stay	Yadgir	3
+388	9 Marks Inn Indranagar	Chikkamagaluru	7
+389	Woodlands	Mysore	3
+390	Grand Krishna Rooms	Kolar	4
+391	The Sslr	Bellary	3
+392	Ruby Corporate Services	Mysore	5
+393	Sunflower  Bangalore	Dharwad	3
+394	Airport Gateway	Udupi	3
+395	Magaji Orchid	Hassan	5
+396	Crystal Paark Inn	Udupi	5
+397	Mallige Residency	Tumkur	3
+398	Akash Inn	Bangalore Rural	3
+399	Grand Inn	Vijayapura	3
+400	Hayz Boutique	Kodagu	3
+401	The Viceroy Comforts	Chamarajnagar	3
+402	Stay Simple Brindavan	Yadgir	3
+403	Blue Chip Korais Inn	Dakshina Kannada	7
+404	Aga West Park	Haveri	5
+405	Grand Maurya Resort	Dakshina Kannada	3
+406	Arafa Inn	Udupi	5
+407	Komfort Terraces	Belgaum	4
+408	Royal Inn	Chamarajnagar	5
+409	Pigeon International	Udupi	7
+410	Natasha Inn	Chamarajnagar	5
+411	The Elite	Mandya	5
+412	Sri Krishna Suites	Udupi	3
+413	Kedige Home	Mandya	3
+414	Prajwal Hometel By Mango S	Yadgir	3
+415	HoppersStop Jakkur	Bidar	5
+416	Maple Green Deluxe	Kodagu	5
+417	Metro Plaza	Kolar	3
+418	Casa Meridian	Chitradurga	7
+419	The Essence Suites	Dharwad	7
+420	Mels Service Apartments	Bidar	5
+421	City Home Service Appartment Ii	Bangalore Rural	3
+422	Green View Boutique	Udupi	7
+423	The Bouvice	Bangalore Rural	3
+424	Dr Rajkumar International	Chikkaballapur	5
+425	Orange Stay	Ramanagara	3
+426	Ocea International	Bidar	3
+427	NewRajmahal Inn	Bidar	3
+428	AJ International	Bellary	5
+429	Bluechip Korai'S Inn	Dharwad	3
+430	Akshaya Lakshmi Comfort	Bagalkot	5
+431	CRN Canary Sapphire	Yadgir	3
+432	Suman Residency	Chikkamagaluru	3
+433	Holiday Village	Chikkamagaluru	7
+434	Mysore Dasprakash	Raichur	5
+435	Transit Living Jayanagar	Bidar	7
+436	White Woods	Chikkaballapur	3
+437	Check Inn	Chikkamagaluru	7
+438	Iwe Suites	Mandya	7
+439	Classic Homes Serviced Apartments	Bangalore Rural	3
+440	Lotus Park	Uttara Kannada	7
+441	Dreamland Homestay	Haveri	5
+442	Central Inn	Koppal	3
+443	Euro Valley Home Stay	Tumkur	3
+444	NewSunray	Hassan	5
+445	Maratha Palace	Chamarajnagar	3
+446	Caveri Residency	Hassan	4
+447	GMR 18 Grand	Bangalore Rural	5
+448	NewOrange Suites Airport Transit Stay	Hassan	7
+449	Simon Comfort	Gadag	5
+450	Sambhram Roost The	Bellary	5
+451	Sunflower	Chamarajnagar	3
+452	Nandu Associates - Near Manyata Tech Park	Shimoga	4
+453	Maple Green	Chikkaballapur	3
+454	Radiant Resort	Tumkur	3
+455	The Mayer Whitefield	Bidar	3
+456	Pearl Suites	Hassan	7
+457	Shrinath Palace	Koppal	3
+458	Veenu International	Kolar	3
+459	Oyo Rooms Indiranagar Old Airport Road	Tumkur	3
+460	Vits Allum	Gadag	4
+461	Tiara	Dharwad	3
+462	MayFlower The Business	Bagalkot	3
+463	Luxlivon	Kodagu	3
+464	Inland Avenue Service Apartment	Chikkaballapur	5
+465	Krishna Palace	Mandya	3
+466	Pleasant Moments Koramangla	Chitradurga	3
+467	Nandhana Hometel	Shimoga	3
+468	The Krishna Nibbana	Dakshina Kannada	5
+469	Leisure Vacations Tarang Resorts	Tumkur	5
+470	Crystal Castle	Kodagu	3
+471	Savoury Sea Shell Residency	Chamarajnagar	5
+472	Mapple Express Bangalore	Dharwad	3
+473	Om Residency Serviced Apartments	Haveri	3
+474	Om Residency Prestige Shanti Niketan Serviced Apartments	Tumkur	3
+475	Kadamba Guestline	Udupi	4
+476	The Park Residency	Kodagu	5
+477	National Residency	Chikkamagaluru	3
+478	Rns Apartment	Mysore	3
+479	Samrudhi Park	Chitradurga	3
+480	Thalassa Suites	Davanagere	4
+481	The Prestige	Chikkamagaluru	3
+482	Castle International Premium	Vijayapura	5
+483	Roerich Grand  (A Unit Of Roerich S Pvt Ltd)	Kodagu	7
+484	KVC International	Udupi	5
+485	The Mayer Indiranagar	Bangalore Urban	3
+486	The Belair	Dakshina Kannada	5
+487	Real Stay Inn	Belgaum	5
+488	Malligi	Raichur	5
+489	Veerabhoomi Tourist Village	Bellary	3
+490	Veera Bhoomi Tourist Village	Uttara Kannada	5
+491	Hrudays D3	Hassan	3
+492	Paraag	Bagalkot	3
+493	Stopovers Hebbal	Chikkamagaluru	7
+494	Service Inn Apartments	Yadgir	5
+495	Meenal	Mysore	3
+496	Travel Inn	Uttara Kannada	3
+497	Vande Matharam	Davanagere	5
+498	The Park Bangalore	Hassan	5
+499	D'Habitat	Chitradurga	5
+500	Iris	Kodagu	5
+501	The Taj West End	Mysore	3
+502	LaLiT Ashok Bangalore	Bangalore Rural	3
+503	Le Meridien Bangalore	Shimoga	3
+504	Abhimaani Vasathi	Bidar	3
+505	The Gateway Lakeside	Tumkur	3
+506	The Leela Palace	Chitradurga	7
+507	Mvenpick & Spa Bangalore	Tumkur	3
+508	NewRamada Encore Bangalore Domlur	Hassan	4
+509	TheTamara Coorg	Bidar	3
+510	Fortune Jp Palace	Bagalkot	3
+511	NewHoward Johnson Bangalore Hebbal	Chamarajnagar	5
+512	Lemon Tree Premier Ulsoor Lake	Koppal	5
+513	ITC Windsor	Bangalore Urban	3
+514	NewIbis Bangalore City Centre	Bidar	5
+515	Hyatt Bangalore	Chikkaballapur	5
+516	Orange County Kabini	Dharwad	7
+517	MK Fairmont	Mysore	4
+518	Vivanta By Taj - Yeshwantpur	Bangalore Urban	5
+519	NewThe Ritz-Carlton Bangalore	Dharwad	3
+520	Citadines Richmond Bangalore	Belgaum	4
+521	Fortune Select JP Cosmos	Mandya	3
+522	Stamford Residency Bangalore	Gulbarga	5
+523	Vivanta by Taj - M G Road	Mandya	5
+524	The Quorum	Chikkaballapur	3
+525	Vivanta By Taj Madikeri	Raichur	3
+526	jSTa The Residence MG Road	Hassan	3
+527	Royal Orchid Central Kireeti	Belgaum	3
+528	Crowne Plaza Bangalore Electronics City	Davanagere	3
+529	Oakwood Residence Whitefield Bangalore	Hassan	4
+530	The Elanza	Yadgir	5
+531	NewCountry Inn & Suites By Carlson	Udupi	3
+532	ITC Royal Gardenia	Gulbarga	5
+533	The Oberoi Bangalore	Uttara Kannada	5
+534	Ginger Hotel 	Chikkaballapur	3
+535	Panchvati Comforts	Bangalore Rural	3
+536	Aloft Bangalore Whitefield	Bagalkot	3
+537	Chalet Citadel	Chamarajnagar	3
+538	NewFairfield by Marriott Bangalore Rajajinagar	Gulbarga	3
+539	Curzon Suites	Bangalore Rural	4
+540	Svenska Bangalore	Gulbarga	4
+541	Mango Suites - Bravo I	Dharwad	3
+542	The Chancery	Koppal	5
+543	Mango Suites - Bravo II	Gulbarga	3
+544	Davanam Sarovar Portico Suites	Mandya	3
+545	The Chancery Pavillion	Dharwad	4
+546	Lemon Tree Whitefield	Chikkaballapur	3
+547	Nagarjuna Suites	Kodagu	7
+548	Tristar 	Dakshina Kannada	3
+549	The Paul Bangalore	Ramanagara	3
+550	Sheraton Bangalore at Brigade Gateway	Hassan	5
+551	The Solitaire	Bagalkot	5
+552	The Gateway KM Road Chikmagalur	Belgaum	5
+553	Evoma Bangalore	Chamarajnagar	4
+554	St. Mark's	Mysore	3
+555	Royal Orchid	Kodagu	4
+556	Goldfinch Mangalore	Chikkaballapur	3
+557	Oakwood Premier Prestige Bangalore	Mysore	3
+558	Grand Mercure Bangalore	Gulbarga	4
+559	Fortune Select Trinity	Chikkaballapur	3
+560	Royal Orchid Metropole	Davanagere	4
+561	Sarovar Radha Hometel	Davanagere	3
+562	Airavatam Boutique	Raichur	5
+563	Taj The Gateway Residency Road Bangalore	Bellary	7
+564	NewAloft Bangalore Cessna Business Park	Chamarajnagar	5
+565	Shilton Residence	Kodagu	3
+566	Nahar's Heritage	Bangalore Urban	3
+567	Bangalore Gate	Kodagu	5
+568	Goldfinch	Bidar	3
+569	Alila Bangalore	Kodagu	3
+570	Highgates	Chikkamagaluru	3
+571	Elmas	Uttara Kannada	5
+572	The Chevron Orchards	Chikkaballapur	5
+573	Royal Orchid Central Bangalore	Yadgir	3
+574	The Pride Bangalore	Dharwad	5
+575	Shilton Royale	Udupi	5
+576	The Waves Serviced Apartments	Yadgir	3
+577	City Centre Residency	Chikkaballapur	3
+578	Ginger Mysore	Uttara Kannada	5
+579	Turtle Bay On Sea, A Justa Resort	Mysore	3
+580	NewSRT Alpines	Tumkur	3
+581	Country Club Lakeside	Mysore	3
+582	Jade Garden	Davanagere	3
+583	Ramanashree California Resort Yelahanka	Uttara Kannada	4
+584	Ginger Bangalore	Kodagu	5
+585	Shilton Suites	Shimoga	3
+586	Regaalis	Bangalore Urban	3
+587	United 21 ex Ramanashree Mysore	Tumkur	5
+588	Pai Vista Mysore	Raichur	7
+589	Ramada Bangalore	Vijayapura	5
+590	Casa De Bangalore	Bangalore Rural	5
+591	Sterling Suites Marathahalli	Kodagu	5
+592	The Orchard Suites -Sarjapur Road	Bagalkot	3
+593	Orchid	Bellary	5
+594	Ibis Bangalore Techpark	Koppal	5
+595	9 Marks Inn - City Centre	Bellary	4
+596	Kishkinda Heritage Resort	Mysore	3
+597	Confident Amoon The Glamour Spa And Resort	Udupi	3
+598	Lemon Tree Hotel	Yadgir	5
+599	The Urban	Kodagu	7
+600	Springs  Hotel and Spa	Udupi	7
+601	Comfort Inn Vijay Residency	Shimoga	5
+602	Citrus Bangalore	Tumkur	3
+603	Goldfinch Retreat	Shimoga	3
+604	Casa Piccola Cottage	Udupi	3
+605	The Monarch Luxur	Hassan	3
+606	Trinity Isle	Vijayapura	5
+607	Maple Suites Serviced Apartments	Chikkaballapur	5
+608	Moti Mahal	Gadag	3
+609	NewDoubleTree Suites by Hilton Bangalore	Davanagere	3
+610	Krishinton	Bidar	5
+611	The Windflower Resorts & Spa Mysore	Mysore	5
+612	Crest Executive	Koppal	3
+613	Fortune Inn Valley View	Shimoga	7
+614	The HHI Select Bangalore	Chamarajnagar	7
+615	Liwa	Bangalore Urban	4
+616	Savannah Sarovar Premiere	Bangalore Rural	4
+617	The Bride Corporate Suites	Ramanagara	3
+618	Brigade Homestead - Jayanagar	Chikkaballapur	3
+619	Vishwaratna	Chitradurga	3
+620	Wild Woods	Bangalore Rural	5
+621	The Iris By Bhagini	Dharwad	5
+622	Jsta Off MG Road	Dharwad	3
+623	Grand Magrath	Koppal	5
+624	The Ocean Pearl	Gulbarga	3
+625	Regaalis Bangalore	Gulbarga	7
+626	Club Mahindra Kodagu Valley	Gulbarga	3
+627	Clarks Inn Airport Hubli	Chamarajnagar	5
+628	JP Cordial	Chikkaballapur	5
+629	HM Suites & Studios	Gadag	5
+630	Coral Tree  	Dharwad	3
+631	The President	Shimoga	3
+632	Classic Inn Boutique	Vijayapura	5
+633	Our Native Village	Mandya	3
+634	Ramanashree Richmond Circle	Kolar	3
+635	Bangalore Marriott Whitefield	Kodagu	3
+636	Pai Viceroy	Raichur	5
+637	Pai Viceroy Jayanagar	Gadag	3
+638	Hassan Ashok	Chamarajnagar	7
+639	Zip by Spree at Woodrose Club	Haveri	5
+640	Sandesh The Prince	Chikkaballapur	4
+641	NewMark's Grandeur	Tumkur	3
+642	i 145	Hassan	4
+643	Ramee Guestline	Yadgir	7
+644	Ramanashree Brunton Road	Haveri	5
+645	Pai Comforts	Kodagu	3
+646	The Basil Ikon	Mandya	3
+647	Vivanta By Taj - Whitefield	Ramanagara	3
+648	Amanvana Eight Island Resort	Koppal	7
+649	Best Western Premier La Marvella	Raichur	3
+650	Golden Palms and Spa	Bangalore Rural	5
+651	Escape & Spa	Uttara Kannada	3
+652	Citrus Cunningham Road	Belgaum	3
+653	Sterlings Mac Hotel	Koppal	5
+654	Paradise Isle Beach Resort	Vijayapura	3
+655	Hilton Bangalore Residences	Kolar	3
+656	MGM Mark Whitefield	Gulbarga	3
+657	Empire Suites-Luxury Apartments	Mysore	3
+658	Coorg Jungle Camp	Dakshina Kannada	3
+659	Coorg County Resorts	Mandya	3
+660	Parumpara	Vijayapura	3
+661	Cross Roads Inn	Tumkur	3
+662	Sai Vishram Beach Resort	Dharwad	4
+663	The Orchard Suites Sankey Road	Gulbarga	4
+664	Heritage Resort Coorg	Dakshina Kannada	4
+665	Fortune Park JP Celestial	Chikkaballapur	4
+666	NewThe Atrium Boutique	Kodagu	7
+667	Jayamahal Palace	Chikkamagaluru	5
+668	Ambatty Greens	Chikkaballapur	7
+669	NewFormule1 Bangalore Whitefield	Bangalore Rural	3
+670	The Serai Resorts Kabini	Belgaum	5
+671	The Old Kent Estates	Kodagu	3
+672	Deepa Comforts	Chamarajnagar	5
+673	Royal Orchid Brindavan Garden	Gadag	3
+674	Red Earth Kabini	Udupi	3
+675	The Monarch on Brigade Road	Ramanagara	3
+676	Mathyoo	Uttara Kannada	3
+677	Gardeenia Comfortes Suites	Haveri	4
+678	Manipal County	Vijayapura	3
+679	Golden Landmark Resort	Shimoga	5
+680	Dew Drops	Davanagere	7
+681	Mlange Bangalore	Tumkur	3
+682	The Silver Oak	Dharwad	3
+683	Komfort Suites	Bangalore Urban	5
+684	Silicrest	Gadag	3
+685	Grand Pavilion	Dharwad	3
+686	Parijatha Gateway 	Chikkaballapur	3
+687	Palm Meadows Club	Bagalkot	3
+688	Indus Valley Ayurvedic Centre	Bagalkot	3
+689	The Citrine	Dharwad	4
+690	Silent Shores Resort & Spa	Uttara Kannada	3
+691	Park Plaza Bangalore	Udupi	3
+692	Coorg International	Dakshina Kannada	3
+693	Wonderla Resort	Kolar	5
+694	Kings Kourt	Raichur	4
+695	Lords Plaza - Electronic City	Shimoga	7
+696	Royal Orchid Suites Bangalore	Vijayapura	3
+697	CCI Arte Boutique	Raichur	4
+698	Shree Adiga Residency	Mysore	5
+699	Ginger Mangalore	Hassan	3
+700	Hill View	Kodagu	5
+701	Temple Tree 	Ramanagara	3
+702	Misty Woods	Bellary	7
+703	The Royale Senate	Gadag	3
+704	Ibis Bangalore Hosur Road	Belgaum	5
+705	Summer Sands Beach Resort	Chikkaballapur	7
+706	The President	Bangalore Urban	3
+707	Nandhana Grand	Uttara Kannada	3
+708	Keys Hosur Road	Chikkaballapur	3
+709	The Fern Citadel	Ramanagara	5
+710	St Marks Inn	Chikkamagaluru	3
+711	The Capitol	Koppal	3
+712	Trinity Suites	Dharwad	5
+713	Lake Habitat 	Bellary	7
+714	La Classic	Bagalkot	5
+715	The Gateway Old Port Road	Gadag	3
+716	Premier Inn Bangalore Whitefield	Dakshina Kannada	5
+717	Halcyon Condominiums	Ramanagara	5
+718	Maia Beacon Residences	Chikkaballapur	7
+719	Sterling Suites  Langford Town	Dakshina Kannada	3
+720	Sovereign	Yadgir	5
+721	The Hans	Bangalore Urban	7
+722	The Sai Leela	Kolar	7
+723	Royal Inn	Chikkaballapur	4
+724	Shreyas Yoga Retreat	Mandya	3
+725	Stay Simple Greenline	Yadgir	5
+726	The Cute A Village Resort & Spa	Chikkaballapur	4
+727	Eagle Ridge Resort	Uttara Kannada	5
+728	Aurick	Belgaum	5
+729	The Sanctum Suites	Dharwad	5
+730	Royal Orchid Resort ex Doddis Resort	Davanagere	3
+731	12th Avenue	Belgaum	3
+732	KandiTree	Dharwad	7
+733	37th Crescent	Mysore	3
+734	Ballal Residency	Chamarajnagar	5
+735	The Green	Chikkaballapur	3
+736	Laika Boutique Stay	Chitradurga	3
+737	Tata Coffee Plantation Trails	Kolar	7
+738	The Saffron Boutique	Udupi	5
+739	Novotel Bangalore Techpark	Kodagu	3
+740	The Olive	Dharwad	3
+741	24 Tech	Haveri	3
+742	Tulip Home	Udupi	5
+743	Blupetal	Raichur	4
+744	Museum Inn	Raichur	3
+745	Crystal Court	Mysore	4
+746	Purple Lotus Boutique Suites	Haveri	3
+747	Sanman Deluxe	Chikkaballapur	5
+748	Brunton Aster	Chikkaballapur	5
+749	Guhantara	Davanagere	3
+750	Terrace Gardens	Dakshina Kannada	5
+751	S hotel	Dharwad	3
+752	Chitravana Resorts	Vijayapura	4
+753	SFO	Kolar	3
+754	Brunton Heights	Vijayapura	3
+755	AyurvedaGram Heritage Wellness Centre	Kolar	3
+756	Elim Resorts	Tumkur	5
+757	The Chevron Infantry	Mandya	3
+758	Ashraya International	Tumkur	4
+759	Bird Of Paradise	Davanagere	3
+760	The Curzon Court	Chitradurga	3
+761	JW Marriott Bangalore	Belgaum	3
+762	Magnolia	Udupi	5
+763	Victorian Verandaz	Kolar	3
+764	Confident Propus	Bangalore Rural	3
+765	Silver Brook Estate	Ramanagara	3
+766	Adarsh Hamilton	Chikkamagaluru	7
+767	Oleander Serviced Apartments	Tumkur	3
+768	The Zuri Whitefield	Chamarajnagar	7
+769	Keys Whitefield Bangalore	Chikkaballapur	4
+770	Roerich	Yadgir	3
+771	Royal Orchid Central Shimoga	Raichur	5
+772	Radha Regent	Mysore	4
+773	Coorg Hallimane	Tumkur	7
+774	Sterling Holidays Emerald Bay	Haveri	4
+775	La Villa	Davanagere	4
+776	Urban Oasis Serviced Apartment	Vijayapura	5
+777	Satkar Paradise	Chitradurga	3
+778	Denissons	Shimoga	7
+779	My Fortune Bangalore	Haveri	3
+780	Radisson Blu Plaza  Mysore	Dharwad	5

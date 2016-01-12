@@ -1,0 +1,3833 @@
+id	amenity
+0	Gym
+0	WiFi
+0	Business Center
+0	Bar
+1	Cafe
+1	Room Service
+1	Restaurant
+1	Gym
+1	Air Conditioned
+1	Swimming Pool
+2	Internet
+2	Cafe
+2	Business Center
+2	Bar
+2	WiFi
+2	Restaurant
+2	Room Service
+2	Air Conditioned
+2	Swimming Pool
+2	Gym
+3	Internet
+3	Cafe
+3	WiFi
+3	Room Service
+4	Bar
+4	Swimming Pool
+4	Restaurant
+4	WiFi
+4	Gym
+4	Air Conditioned
+4	Business Center
+5	Business Center
+5	Air Conditioned
+5	Room Service
+5	Cafe
+5	Internet
+5	Restaurant
+5	Gym
+6	Room Service
+6	Business Center
+6	WiFi
+6	Internet
+6	Restaurant
+6	Gym
+7	Gym
+7	Cafe
+8	Business Center
+8	Room Service
+8	Air Conditioned
+8	Restaurant
+8	Cafe
+8	Swimming Pool
+8	Internet
+8	WiFi
+9	Internet
+9	Gym
+10	Swimming Pool
+10	WiFi
+10	Internet
+10	Business Center
+10	Air Conditioned
+10	Restaurant
+10	Cafe
+10	Gym
+11	Air Conditioned
+11	Cafe
+11	Swimming Pool
+12	WiFi
+13	Business Center
+13	Internet
+13	Room Service
+15	Swimming Pool
+15	Business Center
+15	Restaurant
+15	Cafe
+15	WiFi
+15	Bar
+15	Air Conditioned
+16	Business Center
+16	Internet
+16	Air Conditioned
+16	Room Service
+16	Cafe
+16	Bar
+17	Room Service
+17	Bar
+17	Internet
+17	Cafe
+17	Gym
+18	Bar
+18	Cafe
+18	Room Service
+18	Internet
+18	Air Conditioned
+20	Air Conditioned
+20	WiFi
+20	Business Center
+20	Bar
+20	Internet
+20	Cafe
+20	Gym
+20	Swimming Pool
+20	Restaurant
+20	Room Service
+21	Internet
+21	Gym
+21	Cafe
+21	Business Center
+21	Bar
+21	Restaurant
+22	Swimming Pool
+22	Cafe
+22	Air Conditioned
+22	Gym
+22	Business Center
+22	Internet
+22	WiFi
+22	Restaurant
+22	Room Service
+23	Business Center
+23	Cafe
+23	Air Conditioned
+23	Bar
+23	Restaurant
+23	Internet
+23	Room Service
+23	Swimming Pool
+24	Air Conditioned
+24	Gym
+24	Business Center
+24	WiFi
+24	Bar
+24	Swimming Pool
+24	Internet
+24	Cafe
+24	Restaurant
+25	Air Conditioned
+25	Gym
+25	Bar
+25	Restaurant
+25	Internet
+25	Room Service
+25	Swimming Pool
+25	WiFi
+26	Internet
+26	Air Conditioned
+26	WiFi
+26	Restaurant
+26	Business Center
+26	Cafe
+26	Room Service
+26	Gym
+27	Bar
+27	WiFi
+27	Gym
+27	Restaurant
+27	Internet
+27	Room Service
+27	Air Conditioned
+27	Cafe
+27	Business Center
+28	WiFi
+28	Internet
+28	Bar
+28	Room Service
+28	Restaurant
+28	Swimming Pool
+28	Air Conditioned
+28	Gym
+28	Business Center
+28	Cafe
+29	Air Conditioned
+31	Bar
+31	Internet
+31	Room Service
+31	WiFi
+31	Business Center
+31	Air Conditioned
+31	Cafe
+32	Cafe
+32	Business Center
+32	Room Service
+33	WiFi
+33	Swimming Pool
+33	Internet
+33	Air Conditioned
+33	Business Center
+33	Gym
+33	Restaurant
+33	Room Service
+34	Gym
+34	Cafe
+37	Bar
+37	Internet
+37	Air Conditioned
+38	Room Service
+39	Swimming Pool
+39	Cafe
+39	Room Service
+39	Business Center
+40	Room Service
+40	Bar
+40	Restaurant
+40	Cafe
+40	Swimming Pool
+40	Internet
+41	Restaurant
+41	Business Center
+41	Room Service
+41	Cafe
+41	Air Conditioned
+41	WiFi
+41	Internet
+41	Bar
+41	Gym
+41	Swimming Pool
+42	Business Center
+42	Cafe
+42	Gym
+42	Restaurant
+42	Room Service
+42	Air Conditioned
+42	WiFi
+42	Bar
+42	Swimming Pool
+42	Internet
+43	Restaurant
+43	Gym
+44	Business Center
+44	WiFi
+44	Gym
+44	Bar
+44	Swimming Pool
+44	Air Conditioned
+44	Room Service
+44	Internet
+44	Cafe
+44	Restaurant
+46	Swimming Pool
+46	Internet
+46	Bar
+46	Air Conditioned
+47	Internet
+47	Air Conditioned
+47	Room Service
+47	Cafe
+48	Cafe
+49	Air Conditioned
+49	Cafe
+49	Gym
+49	WiFi
+49	Swimming Pool
+49	Restaurant
+49	Bar
+49	Business Center
+49	Internet
+49	Room Service
+50	Business Center
+51	WiFi
+51	Bar
+51	Room Service
+51	Internet
+51	Swimming Pool
+51	Cafe
+51	Business Center
+51	Restaurant
+51	Gym
+51	Air Conditioned
+52	Gym
+52	Internet
+52	Business Center
+52	WiFi
+52	Air Conditioned
+52	Cafe
+52	Swimming Pool
+52	Room Service
+52	Bar
+52	Restaurant
+53	Internet
+53	Gym
+53	Business Center
+53	Swimming Pool
+53	WiFi
+53	Bar
+53	Restaurant
+54	Air Conditioned
+54	Room Service
+54	Bar
+54	Gym
+54	Swimming Pool
+54	Restaurant
+54	Internet
+55	Room Service
+55	Business Center
+55	Air Conditioned
+55	Bar
+55	WiFi
+55	Swimming Pool
+56	Gym
+57	Air Conditioned
+57	Internet
+57	Gym
+57	Room Service
+59	Swimming Pool
+59	WiFi
+59	Cafe
+59	Gym
+59	Air Conditioned
+59	Room Service
+60	Restaurant
+60	Internet
+60	Bar
+60	Room Service
+60	Business Center
+60	Swimming Pool
+61	Gym
+61	Air Conditioned
+61	Room Service
+61	Cafe
+61	Swimming Pool
+61	Business Center
+61	WiFi
+61	Bar
+61	Internet
+61	Restaurant
+62	Cafe
+62	Swimming Pool
+62	Air Conditioned
+62	Business Center
+62	Internet
+63	Cafe
+63	Swimming Pool
+63	WiFi
+63	Room Service
+63	Restaurant
+63	Internet
+63	Air Conditioned
+63	Bar
+63	Gym
+63	Business Center
+64	Air Conditioned
+64	Bar
+65	Bar
+65	Internet
+65	Room Service
+65	Restaurant
+65	WiFi
+65	Gym
+65	Cafe
+65	Swimming Pool
+66	Restaurant
+66	WiFi
+66	Business Center
+66	Swimming Pool
+66	Room Service
+67	Internet
+67	WiFi
+67	Restaurant
+67	Gym
+68	Air Conditioned
+68	Cafe
+68	Restaurant
+68	WiFi
+68	Business Center
+68	Room Service
+69	Bar
+69	Swimming Pool
+69	WiFi
+69	Cafe
+69	Room Service
+69	Restaurant
+71	Room Service
+71	Business Center
+71	Gym
+71	Air Conditioned
+71	Bar
+71	Swimming Pool
+71	WiFi
+71	Restaurant
+71	Cafe
+71	Internet
+72	Room Service
+72	Business Center
+72	Air Conditioned
+73	Bar
+73	Swimming Pool
+73	Restaurant
+74	Bar
+74	Swimming Pool
+74	Cafe
+75	Bar
+75	Restaurant
+75	Room Service
+75	Cafe
+75	WiFi
+75	Business Center
+75	Internet
+75	Swimming Pool
+75	Air Conditioned
+75	Gym
+76	Gym
+76	Air Conditioned
+76	Cafe
+76	Room Service
+76	Business Center
+76	WiFi
+76	Bar
+76	Swimming Pool
+76	Restaurant
+76	Internet
+77	Internet
+77	Gym
+77	Restaurant
+77	Business Center
+77	Air Conditioned
+77	Bar
+77	WiFi
+77	Room Service
+77	Swimming Pool
+78	Swimming Pool
+78	Air Conditioned
+78	Business Center
+79	Air Conditioned
+79	Restaurant
+79	Business Center
+80	Business Center
+80	Air Conditioned
+80	Cafe
+80	Room Service
+80	Swimming Pool
+80	Restaurant
+80	Internet
+80	Gym
+82	Air Conditioned
+82	Bar
+82	WiFi
+82	Gym
+82	Restaurant
+83	Air Conditioned
+83	Bar
+83	Cafe
+83	Room Service
+83	Business Center
+83	Internet
+84	Room Service
+84	Swimming Pool
+84	Bar
+85	Air Conditioned
+85	Restaurant
+86	Internet
+86	Air Conditioned
+86	Swimming Pool
+86	Room Service
+86	WiFi
+86	Restaurant
+87	Cafe
+87	Internet
+87	Swimming Pool
+87	Bar
+87	Business Center
+87	Room Service
+87	Restaurant
+87	WiFi
+87	Gym
+88	Room Service
+88	Air Conditioned
+88	Swimming Pool
+88	Gym
+88	Cafe
+89	Swimming Pool
+89	Cafe
+89	WiFi
+89	Business Center
+89	Air Conditioned
+89	Restaurant
+89	Bar
+89	Internet
+89	Room Service
+91	WiFi
+91	Cafe
+91	Gym
+91	Bar
+91	Room Service
+91	Internet
+91	Swimming Pool
+92	Restaurant
+92	Air Conditioned
+92	Internet
+92	Cafe
+92	Business Center
+92	Gym
+92	Room Service
+92	Swimming Pool
+92	WiFi
+94	Gym
+94	Business Center
+94	Internet
+95	WiFi
+95	Cafe
+95	Gym
+95	Bar
+95	Internet
+95	Swimming Pool
+96	Business Center
+96	Bar
+96	WiFi
+96	Cafe
+96	Swimming Pool
+96	Air Conditioned
+96	Internet
+96	Room Service
+96	Gym
+96	Restaurant
+98	Bar
+99	WiFi
+99	Business Center
+99	Internet
+99	Gym
+99	Restaurant
+99	Air Conditioned
+99	Bar
+99	Swimming Pool
+100	Business Center
+100	WiFi
+100	Gym
+100	Air Conditioned
+100	Bar
+100	Room Service
+101	Gym
+101	Business Center
+101	Restaurant
+101	Air Conditioned
+102	Swimming Pool
+102	Internet
+102	Air Conditioned
+103	Swimming Pool
+103	Air Conditioned
+103	Bar
+103	Internet
+103	Room Service
+103	Business Center
+103	Cafe
+103	Restaurant
+103	Gym
+103	WiFi
+104	WiFi
+104	Room Service
+104	Gym
+105	Cafe
+106	WiFi
+106	Restaurant
+106	Room Service
+106	Air Conditioned
+106	Cafe
+106	Bar
+106	Internet
+106	Swimming Pool
+106	Gym
+106	Business Center
+108	Room Service
+108	WiFi
+108	Bar
+108	Swimming Pool
+108	Gym
+109	Business Center
+110	Room Service
+111	Internet
+111	Room Service
+111	Cafe
+111	Restaurant
+113	Internet
+113	Bar
+113	Cafe
+113	Gym
+114	Gym
+114	Swimming Pool
+114	Room Service
+114	Air Conditioned
+114	Cafe
+114	WiFi
+114	Restaurant
+115	Cafe
+115	Gym
+115	Swimming Pool
+115	WiFi
+115	Room Service
+115	Air Conditioned
+115	Business Center
+115	Bar
+115	Internet
+116	Cafe
+116	WiFi
+116	Room Service
+117	Gym
+117	Cafe
+117	Room Service
+117	Air Conditioned
+117	Internet
+117	WiFi
+117	Business Center
+118	Bar
+118	Gym
+118	Restaurant
+118	Business Center
+118	Internet
+121	Internet
+121	Bar
+121	Room Service
+121	Cafe
+121	Business Center
+121	Gym
+121	WiFi
+122	Bar
+122	Gym
+122	WiFi
+122	Room Service
+122	Business Center
+122	Air Conditioned
+122	Restaurant
+122	Cafe
+123	Swimming Pool
+123	Bar
+123	Room Service
+123	Business Center
+123	WiFi
+123	Gym
+123	Cafe
+124	Air Conditioned
+124	Internet
+124	Business Center
+124	Cafe
+124	WiFi
+124	Swimming Pool
+124	Room Service
+124	Restaurant
+125	Restaurant
+125	Cafe
+125	Bar
+125	Room Service
+125	Gym
+125	Internet
+126	Bar
+126	Cafe
+126	Air Conditioned
+130	Air Conditioned
+130	Room Service
+130	Internet
+130	Bar
+130	Restaurant
+130	WiFi
+130	Cafe
+131	Swimming Pool
+131	WiFi
+131	Room Service
+131	Bar
+131	Air Conditioned
+131	Restaurant
+132	Air Conditioned
+132	WiFi
+132	Gym
+133	Business Center
+133	Room Service
+133	Restaurant
+133	Air Conditioned
+133	Cafe
+134	Swimming Pool
+134	Room Service
+134	Business Center
+134	Gym
+134	Restaurant
+134	WiFi
+134	Air Conditioned
+135	Air Conditioned
+135	Swimming Pool
+135	Gym
+135	Internet
+135	Cafe
+135	WiFi
+135	Bar
+135	Restaurant
+135	Business Center
+136	Internet
+136	Cafe
+136	Business Center
+136	Restaurant
+136	Bar
+136	Room Service
+137	Internet
+138	WiFi
+138	Internet
+138	Room Service
+138	Gym
+138	Swimming Pool
+138	Restaurant
+139	Bar
+139	Cafe
+141	Swimming Pool
+141	Bar
+141	Room Service
+141	Gym
+142	Gym
+142	Air Conditioned
+142	Swimming Pool
+142	Bar
+142	Restaurant
+142	Internet
+142	Business Center
+143	Internet
+143	WiFi
+144	Business Center
+144	Air Conditioned
+144	Restaurant
+145	Room Service
+145	Swimming Pool
+145	Business Center
+145	Restaurant
+145	WiFi
+145	Gym
+145	Internet
+146	Restaurant
+146	Room Service
+146	Internet
+146	WiFi
+148	Cafe
+148	Restaurant
+148	Gym
+148	WiFi
+148	Business Center
+148	Internet
+149	Air Conditioned
+149	Room Service
+149	Internet
+149	Business Center
+149	Restaurant
+149	Gym
+149	Cafe
+149	WiFi
+149	Bar
+149	Swimming Pool
+150	WiFi
+150	Swimming Pool
+150	Restaurant
+150	Business Center
+150	Air Conditioned
+151	Bar
+151	Business Center
+152	Cafe
+152	Restaurant
+152	Bar
+152	Room Service
+152	Swimming Pool
+152	Internet
+153	Bar
+153	Air Conditioned
+153	Business Center
+153	Internet
+153	Swimming Pool
+153	WiFi
+153	Cafe
+153	Gym
+154	Bar
+154	WiFi
+154	Air Conditioned
+154	Internet
+155	Restaurant
+155	Business Center
+155	Bar
+155	Cafe
+156	WiFi
+156	Cafe
+156	Gym
+156	Bar
+156	Room Service
+156	Business Center
+156	Internet
+156	Restaurant
+157	Bar
+157	WiFi
+157	Air Conditioned
+159	Swimming Pool
+160	Air Conditioned
+160	Internet
+161	Air Conditioned
+161	Swimming Pool
+161	Gym
+161	Room Service
+161	Bar
+161	Restaurant
+162	Business Center
+162	Internet
+162	Gym
+162	Restaurant
+162	Bar
+163	Business Center
+163	Bar
+163	Gym
+163	Swimming Pool
+163	Internet
+163	Cafe
+164	Internet
+164	Restaurant
+164	Swimming Pool
+164	Gym
+164	Bar
+164	WiFi
+164	Cafe
+164	Room Service
+164	Business Center
+165	Swimming Pool
+165	Gym
+165	Internet
+165	Cafe
+165	Air Conditioned
+165	WiFi
+165	Bar
+165	Restaurant
+166	Gym
+166	WiFi
+166	Room Service
+166	Restaurant
+166	Internet
+166	Cafe
+166	Air Conditioned
+169	Bar
+169	Internet
+169	WiFi
+169	Cafe
+169	Room Service
+169	Swimming Pool
+169	Business Center
+169	Gym
+169	Air Conditioned
+170	Restaurant
+170	Air Conditioned
+170	Bar
+171	WiFi
+171	Air Conditioned
+171	Bar
+171	Cafe
+171	Swimming Pool
+172	Business Center
+172	Cafe
+172	Room Service
+172	Air Conditioned
+172	Gym
+172	Internet
+172	Bar
+172	WiFi
+172	Restaurant
+172	Swimming Pool
+173	Restaurant
+173	Business Center
+173	WiFi
+174	Restaurant
+174	Swimming Pool
+175	Air Conditioned
+175	Internet
+175	WiFi
+175	Cafe
+175	Restaurant
+175	Swimming Pool
+175	Business Center
+176	Restaurant
+176	Swimming Pool
+176	Gym
+176	WiFi
+176	Bar
+177	Internet
+177	Cafe
+177	Restaurant
+177	Room Service
+178	Gym
+178	Cafe
+178	Restaurant
+178	Bar
+178	Swimming Pool
+178	Air Conditioned
+179	Restaurant
+179	Air Conditioned
+179	WiFi
+179	Business Center
+179	Bar
+179	Swimming Pool
+179	Cafe
+179	Internet
+179	Room Service
+180	Air Conditioned
+180	Internet
+180	Swimming Pool
+180	Bar
+180	WiFi
+180	Restaurant
+180	Gym
+180	Room Service
+180	Cafe
+180	Business Center
+181	Room Service
+181	Air Conditioned
+181	Cafe
+182	Business Center
+182	Internet
+182	WiFi
+182	Cafe
+182	Air Conditioned
+182	Room Service
+182	Gym
+183	Room Service
+183	Bar
+183	Air Conditioned
+183	Internet
+183	Business Center
+183	Gym
+183	Cafe
+183	Restaurant
+183	WiFi
+184	Gym
+184	Restaurant
+184	Business Center
+184	Room Service
+184	WiFi
+184	Swimming Pool
+184	Internet
+185	Air Conditioned
+185	Restaurant
+186	Internet
+186	Business Center
+186	Bar
+187	Internet
+187	Gym
+187	Cafe
+187	WiFi
+187	Bar
+188	Bar
+188	Internet
+188	Restaurant
+188	Gym
+188	Cafe
+188	Business Center
+189	Business Center
+189	Swimming Pool
+189	Internet
+189	Restaurant
+189	WiFi
+189	Cafe
+189	Air Conditioned
+190	Bar
+190	Cafe
+190	WiFi
+190	Gym
+190	Swimming Pool
+190	Restaurant
+190	Internet
+190	Room Service
+190	Business Center
+190	Air Conditioned
+191	Internet
+191	Swimming Pool
+191	Business Center
+191	Restaurant
+191	Air Conditioned
+191	Room Service
+191	Gym
+193	Swimming Pool
+193	Business Center
+193	Bar
+193	Gym
+193	Air Conditioned
+193	Restaurant
+194	WiFi
+194	Cafe
+194	Business Center
+194	Gym
+194	Air Conditioned
+195	Business Center
+195	Cafe
+196	Restaurant
+196	Air Conditioned
+197	Cafe
+197	Bar
+197	Gym
+197	Air Conditioned
+197	Business Center
+197	Internet
+197	Room Service
+197	Restaurant
+197	Swimming Pool
+197	WiFi
+198	Room Service
+198	Internet
+198	Business Center
+198	WiFi
+199	Gym
+199	Swimming Pool
+199	Restaurant
+199	Air Conditioned
+199	Internet
+200	Business Center
+200	Air Conditioned
+200	Restaurant
+200	Room Service
+200	Internet
+200	WiFi
+200	Swimming Pool
+201	Air Conditioned
+201	Swimming Pool
+201	Bar
+201	WiFi
+201	Cafe
+202	WiFi
+202	Bar
+202	Gym
+202	Air Conditioned
+202	Swimming Pool
+202	Restaurant
+203	Gym
+203	Restaurant
+203	Swimming Pool
+203	Internet
+203	WiFi
+203	Business Center
+203	Room Service
+203	Bar
+205	Air Conditioned
+205	Bar
+205	Cafe
+205	Swimming Pool
+205	WiFi
+205	Gym
+205	Internet
+205	Room Service
+206	Gym
+206	Restaurant
+206	Cafe
+206	Swimming Pool
+206	Internet
+207	Internet
+207	Business Center
+207	WiFi
+207	Gym
+207	Room Service
+207	Bar
+207	Cafe
+207	Restaurant
+207	Swimming Pool
+209	Gym
+209	Internet
+209	Air Conditioned
+209	Restaurant
+209	Bar
+209	Cafe
+209	Swimming Pool
+209	Room Service
+209	Business Center
+209	WiFi
+210	WiFi
+210	Air Conditioned
+210	Bar
+210	Internet
+210	Room Service
+210	Restaurant
+210	Business Center
+210	Cafe
+211	Internet
+211	WiFi
+212	WiFi
+213	WiFi
+213	Air Conditioned
+213	Bar
+213	Business Center
+213	Swimming Pool
+213	Internet
+213	Gym
+213	Room Service
+213	Cafe
+214	Swimming Pool
+214	Gym
+214	Bar
+215	Swimming Pool
+216	Gym
+216	Business Center
+218	WiFi
+218	Internet
+218	Air Conditioned
+218	Cafe
+218	Business Center
+218	Gym
+219	Internet
+219	Cafe
+219	Restaurant
+219	Bar
+219	Business Center
+219	Room Service
+219	WiFi
+219	Gym
+220	Air Conditioned
+220	Room Service
+221	Gym
+221	Business Center
+221	WiFi
+221	Bar
+221	Room Service
+221	Air Conditioned
+221	Swimming Pool
+222	Gym
+222	Cafe
+222	Air Conditioned
+222	Internet
+222	WiFi
+222	Restaurant
+222	Business Center
+222	Room Service
+222	Bar
+223	Bar
+223	Cafe
+223	Gym
+223	Air Conditioned
+224	Internet
+224	Restaurant
+224	Swimming Pool
+224	Gym
+225	Business Center
+225	Internet
+225	Cafe
+225	Room Service
+225	Gym
+225	WiFi
+225	Bar
+225	Air Conditioned
+225	Restaurant
+226	Restaurant
+226	Business Center
+226	Internet
+226	Swimming Pool
+226	Cafe
+226	Room Service
+227	Restaurant
+227	WiFi
+227	Bar
+227	Cafe
+228	Gym
+228	Air Conditioned
+228	Swimming Pool
+229	Restaurant
+229	WiFi
+229	Swimming Pool
+229	Room Service
+229	Business Center
+229	Cafe
+229	Gym
+229	Bar
+229	Air Conditioned
+230	Room Service
+230	Gym
+230	WiFi
+231	Gym
+231	Bar
+231	Restaurant
+231	Business Center
+231	WiFi
+231	Air Conditioned
+231	Room Service
+231	Cafe
+232	Internet
+232	Room Service
+232	Gym
+232	Restaurant
+233	Internet
+233	Restaurant
+234	Restaurant
+234	Business Center
+234	Swimming Pool
+234	Air Conditioned
+234	Room Service
+236	Business Center
+236	Internet
+236	Air Conditioned
+236	Room Service
+236	WiFi
+236	Bar
+236	Swimming Pool
+237	Business Center
+237	Bar
+238	Cafe
+238	Internet
+238	Swimming Pool
+238	Bar
+238	Air Conditioned
+238	WiFi
+238	Restaurant
+239	Swimming Pool
+239	Room Service
+239	Bar
+239	Business Center
+239	Cafe
+239	Restaurant
+239	Gym
+239	Air Conditioned
+240	Internet
+240	Gym
+240	Room Service
+240	WiFi
+240	Bar
+240	Cafe
+240	Restaurant
+240	Business Center
+242	Cafe
+242	Bar
+242	Gym
+242	Air Conditioned
+242	Restaurant
+242	Swimming Pool
+243	Internet
+243	Swimming Pool
+243	Gym
+243	Cafe
+243	Air Conditioned
+243	Business Center
+243	WiFi
+244	Swimming Pool
+244	Cafe
+244	Internet
+244	Room Service
+244	Business Center
+244	Restaurant
+244	Gym
+244	Bar
+245	Swimming Pool
+245	Restaurant
+246	Cafe
+246	Room Service
+246	Gym
+246	Bar
+246	Restaurant
+246	Internet
+246	Business Center
+246	WiFi
+246	Swimming Pool
+246	Air Conditioned
+247	WiFi
+247	Gym
+247	Air Conditioned
+247	Room Service
+247	Business Center
+248	Cafe
+248	Swimming Pool
+249	Air Conditioned
+249	Bar
+249	WiFi
+250	Swimming Pool
+250	Air Conditioned
+250	Cafe
+251	Restaurant
+251	Bar
+251	Internet
+251	Room Service
+251	Business Center
+251	Swimming Pool
+251	WiFi
+251	Air Conditioned
+252	Internet
+252	Business Center
+252	Cafe
+252	Swimming Pool
+252	Restaurant
+252	WiFi
+253	Restaurant
+253	Swimming Pool
+254	Cafe
+254	Room Service
+254	Internet
+254	Gym
+254	Restaurant
+256	Cafe
+256	Swimming Pool
+256	Bar
+257	Air Conditioned
+257	Business Center
+257	WiFi
+257	Internet
+257	Cafe
+257	Bar
+257	Restaurant
+258	Gym
+258	WiFi
+258	Internet
+258	Business Center
+259	Room Service
+259	Restaurant
+259	Bar
+259	Swimming Pool
+259	Air Conditioned
+259	WiFi
+259	Cafe
+260	WiFi
+261	Room Service
+261	Restaurant
+261	Air Conditioned
+262	Room Service
+262	WiFi
+263	Swimming Pool
+263	Cafe
+263	Gym
+263	Bar
+263	Room Service
+263	Restaurant
+263	Business Center
+263	Air Conditioned
+263	Internet
+265	Cafe
+265	Bar
+265	Internet
+265	WiFi
+266	Gym
+267	Air Conditioned
+268	Room Service
+268	Air Conditioned
+268	Bar
+268	Gym
+268	WiFi
+268	Cafe
+268	Business Center
+268	Swimming Pool
+269	Business Center
+269	Room Service
+270	Business Center
+270	Bar
+270	Swimming Pool
+270	Cafe
+270	Gym
+270	Air Conditioned
+270	Internet
+270	WiFi
+270	Room Service
+270	Restaurant
+271	Cafe
+271	Business Center
+271	Gym
+271	Swimming Pool
+271	Restaurant
+271	WiFi
+271	Bar
+271	Room Service
+271	Air Conditioned
+272	Room Service
+272	Swimming Pool
+273	Bar
+273	Internet
+273	Business Center
+273	WiFi
+273	Swimming Pool
+273	Restaurant
+274	Business Center
+274	Cafe
+274	WiFi
+274	Internet
+275	Bar
+277	Business Center
+277	Restaurant
+277	Air Conditioned
+277	Bar
+277	Swimming Pool
+277	Room Service
+279	Cafe
+279	Air Conditioned
+279	Gym
+279	Restaurant
+279	Bar
+279	WiFi
+280	Gym
+280	Cafe
+280	Business Center
+280	Bar
+281	Bar
+281	Internet
+281	Cafe
+281	Air Conditioned
+282	Gym
+283	Cafe
+283	WiFi
+283	Gym
+283	Bar
+284	Cafe
+285	Bar
+285	Swimming Pool
+285	Restaurant
+285	WiFi
+285	Cafe
+285	Internet
+285	Room Service
+285	Gym
+285	Business Center
+285	Air Conditioned
+286	Restaurant
+287	Bar
+287	Restaurant
+287	Cafe
+287	WiFi
+287	Business Center
+287	Swimming Pool
+287	Internet
+288	Business Center
+288	WiFi
+289	Bar
+289	Business Center
+289	WiFi
+289	Room Service
+289	Internet
+289	Restaurant
+290	Gym
+290	Restaurant
+290	WiFi
+290	Business Center
+293	Room Service
+294	Room Service
+294	Gym
+294	Swimming Pool
+295	Cafe
+295	Swimming Pool
+295	Gym
+295	Room Service
+295	Air Conditioned
+295	Internet
+295	Restaurant
+296	Swimming Pool
+296	WiFi
+296	Gym
+296	Bar
+296	Restaurant
+296	Room Service
+296	Cafe
+296	Internet
+296	Air Conditioned
+296	Business Center
+297	WiFi
+297	Business Center
+297	Room Service
+297	Gym
+297	Air Conditioned
+297	Swimming Pool
+297	Restaurant
+297	Internet
+298	Gym
+298	Swimming Pool
+298	Room Service
+298	Business Center
+298	Cafe
+298	WiFi
+298	Bar
+298	Air Conditioned
+298	Restaurant
+299	Swimming Pool
+299	Bar
+299	Air Conditioned
+299	Business Center
+299	Internet
+299	Restaurant
+299	Gym
+299	Room Service
+300	Bar
+300	Room Service
+300	Air Conditioned
+300	WiFi
+301	Air Conditioned
+301	Restaurant
+302	Bar
+302	Internet
+302	Air Conditioned
+302	Restaurant
+302	Room Service
+303	Room Service
+303	Business Center
+304	Business Center
+304	Gym
+304	Bar
+304	Swimming Pool
+304	Restaurant
+304	Air Conditioned
+304	WiFi
+304	Internet
+304	Room Service
+304	Cafe
+305	Air Conditioned
+305	Internet
+305	Restaurant
+305	Business Center
+305	Bar
+306	Business Center
+306	Bar
+306	Internet
+306	Room Service
+306	Cafe
+306	WiFi
+307	Room Service
+307	Business Center
+307	Gym
+307	Bar
+307	Swimming Pool
+307	Air Conditioned
+307	Internet
+308	Gym
+308	Swimming Pool
+308	Cafe
+308	Restaurant
+308	Air Conditioned
+308	Room Service
+308	Bar
+309	Air Conditioned
+309	Cafe
+309	Gym
+309	Swimming Pool
+309	WiFi
+309	Internet
+309	Bar
+309	Business Center
+309	Restaurant
+309	Room Service
+311	Restaurant
+311	Swimming Pool
+312	Cafe
+312	Internet
+312	Business Center
+312	WiFi
+312	Bar
+312	Gym
+312	Swimming Pool
+313	WiFi
+313	Bar
+313	Swimming Pool
+313	Cafe
+313	Business Center
+313	Gym
+313	Restaurant
+315	Gym
+315	Swimming Pool
+315	Restaurant
+315	Room Service
+315	WiFi
+315	Bar
+315	Business Center
+315	Air Conditioned
+315	Internet
+316	WiFi
+316	Cafe
+316	Restaurant
+316	Bar
+316	Swimming Pool
+316	Room Service
+316	Internet
+316	Business Center
+317	Room Service
+317	Restaurant
+317	Internet
+317	Cafe
+317	WiFi
+318	WiFi
+318	Business Center
+318	Bar
+318	Internet
+318	Air Conditioned
+318	Room Service
+318	Restaurant
+318	Cafe
+318	Gym
+318	Swimming Pool
+319	Room Service
+319	Bar
+319	Swimming Pool
+319	Cafe
+319	Gym
+319	Restaurant
+319	Internet
+319	WiFi
+319	Air Conditioned
+320	Business Center
+320	Internet
+321	Business Center
+321	Air Conditioned
+321	Internet
+321	Room Service
+322	WiFi
+322	Restaurant
+322	Swimming Pool
+322	Gym
+322	Air Conditioned
+322	Cafe
+322	Bar
+322	Business Center
+323	Restaurant
+323	Gym
+324	WiFi
+324	Cafe
+324	Internet
+324	Bar
+324	Restaurant
+324	Swimming Pool
+324	Air Conditioned
+325	Internet
+325	Gym
+325	Bar
+325	Restaurant
+325	Business Center
+325	WiFi
+325	Air Conditioned
+326	Air Conditioned
+327	Air Conditioned
+327	Swimming Pool
+327	WiFi
+327	Bar
+327	Gym
+327	Cafe
+327	Restaurant
+327	Internet
+327	Room Service
+327	Business Center
+328	Internet
+328	Gym
+328	Swimming Pool
+328	Room Service
+328	Bar
+328	Cafe
+328	WiFi
+328	Restaurant
+330	Air Conditioned
+330	Cafe
+330	Business Center
+330	Room Service
+330	Internet
+330	Swimming Pool
+331	Room Service
+331	Cafe
+331	Bar
+331	Swimming Pool
+331	Restaurant
+331	Business Center
+331	WiFi
+331	Air Conditioned
+332	WiFi
+332	Swimming Pool
+335	Bar
+335	Swimming Pool
+335	Room Service
+335	Restaurant
+335	Cafe
+337	Restaurant
+337	Internet
+337	WiFi
+337	Business Center
+337	Room Service
+337	Swimming Pool
+337	Air Conditioned
+337	Gym
+337	Cafe
+338	Swimming Pool
+339	Internet
+339	Cafe
+340	Swimming Pool
+340	Bar
+340	Room Service
+340	Cafe
+340	Internet
+340	Gym
+340	WiFi
+340	Air Conditioned
+341	Bar
+341	Business Center
+341	Restaurant
+341	Internet
+342	Cafe
+342	Gym
+342	Swimming Pool
+342	Room Service
+342	Bar
+343	Gym
+343	Room Service
+343	Cafe
+343	WiFi
+343	Swimming Pool
+343	Internet
+343	Restaurant
+343	Bar
+343	Business Center
+343	Air Conditioned
+344	Business Center
+344	Cafe
+344	WiFi
+344	Internet
+344	Swimming Pool
+345	Cafe
+345	WiFi
+345	Air Conditioned
+345	Internet
+345	Restaurant
+345	Bar
+345	Business Center
+345	Swimming Pool
+345	Gym
+345	Room Service
+346	Bar
+346	Internet
+346	Restaurant
+347	Swimming Pool
+347	Restaurant
+347	Gym
+347	Bar
+347	Business Center
+347	Air Conditioned
+347	WiFi
+347	Room Service
+348	Gym
+348	Bar
+348	Room Service
+348	Internet
+348	Business Center
+348	Swimming Pool
+348	Restaurant
+348	Air Conditioned
+348	WiFi
+348	Cafe
+349	WiFi
+349	Restaurant
+349	Bar
+349	Room Service
+349	Business Center
+350	Cafe
+350	Swimming Pool
+350	Internet
+350	Business Center
+350	Gym
+350	WiFi
+350	Bar
+351	Cafe
+351	Business Center
+352	Room Service
+352	Business Center
+353	Internet
+353	Bar
+353	Restaurant
+353	Air Conditioned
+353	Room Service
+353	Business Center
+353	WiFi
+353	Gym
+354	Cafe
+354	Air Conditioned
+354	Bar
+355	Air Conditioned
+355	Swimming Pool
+355	Room Service
+355	Business Center
+355	Bar
+355	Restaurant
+356	Air Conditioned
+356	Cafe
+357	Bar
+357	Internet
+358	Internet
+359	Room Service
+359	Swimming Pool
+359	Restaurant
+359	Internet
+359	Cafe
+360	Business Center
+360	WiFi
+360	Room Service
+360	Restaurant
+360	Air Conditioned
+360	Gym
+360	Internet
+360	Swimming Pool
+362	WiFi
+362	Bar
+362	Room Service
+362	Gym
+362	Business Center
+362	Swimming Pool
+362	Restaurant
+363	Air Conditioned
+363	WiFi
+363	Business Center
+363	Room Service
+363	Internet
+363	Cafe
+363	Swimming Pool
+363	Restaurant
+363	Gym
+364	Cafe
+365	Gym
+365	Bar
+365	WiFi
+365	Restaurant
+365	Room Service
+365	Swimming Pool
+365	Cafe
+365	Air Conditioned
+365	Internet
+366	Air Conditioned
+366	Room Service
+366	Gym
+367	Air Conditioned
+367	Swimming Pool
+367	Internet
+367	WiFi
+367	Business Center
+368	Bar
+368	Gym
+368	Restaurant
+369	Air Conditioned
+369	Swimming Pool
+370	Restaurant
+370	Gym
+370	Bar
+370	Cafe
+370	Internet
+370	Swimming Pool
+370	Business Center
+370	Air Conditioned
+372	Room Service
+372	Internet
+372	Gym
+372	Cafe
+372	WiFi
+373	Room Service
+373	Business Center
+374	Restaurant
+374	Gym
+374	Internet
+374	Swimming Pool
+374	Bar
+374	Cafe
+374	Air Conditioned
+375	Bar
+375	Room Service
+375	Business Center
+375	Internet
+375	WiFi
+375	Swimming Pool
+375	Restaurant
+375	Cafe
+376	Swimming Pool
+376	Business Center
+376	WiFi
+376	Air Conditioned
+376	Cafe
+376	Internet
+376	Bar
+376	Room Service
+377	Bar
+377	Gym
+377	WiFi
+377	Cafe
+377	Business Center
+378	Internet
+378	Air Conditioned
+379	Restaurant
+379	Bar
+380	WiFi
+381	Swimming Pool
+381	Cafe
+381	Restaurant
+381	WiFi
+381	Room Service
+381	Business Center
+382	Gym
+382	Bar
+382	Cafe
+382	Air Conditioned
+382	WiFi
+382	Restaurant
+382	Internet
+384	Internet
+384	Restaurant
+384	Business Center
+384	WiFi
+385	Air Conditioned
+385	WiFi
+385	Restaurant
+385	Bar
+385	Room Service
+387	Restaurant
+387	Bar
+387	Gym
+387	Cafe
+388	Bar
+388	Internet
+388	Restaurant
+388	Cafe
+388	WiFi
+388	Business Center
+389	Gym
+389	Swimming Pool
+389	WiFi
+389	Restaurant
+389	Room Service
+389	Cafe
+389	Internet
+389	Bar
+389	Air Conditioned
+389	Business Center
+390	WiFi
+390	Bar
+390	Business Center
+390	Internet
+390	Air Conditioned
+390	Swimming Pool
+390	Cafe
+390	Restaurant
+390	Room Service
+391	Business Center
+391	WiFi
+391	Bar
+391	Room Service
+392	Business Center
+392	Cafe
+392	Bar
+392	Gym
+392	WiFi
+392	Swimming Pool
+392	Restaurant
+392	Air Conditioned
+392	Internet
+392	Room Service
+393	Restaurant
+393	WiFi
+393	Cafe
+393	Gym
+394	Swimming Pool
+394	Business Center
+394	Cafe
+394	WiFi
+395	Swimming Pool
+395	Internet
+395	Cafe
+395	Restaurant
+395	Gym
+395	Air Conditioned
+395	Room Service
+395	Bar
+395	WiFi
+395	Business Center
+396	Internet
+396	Air Conditioned
+396	Restaurant
+397	Room Service
+397	Cafe
+397	Air Conditioned
+397	Restaurant
+397	WiFi
+398	Swimming Pool
+398	WiFi
+399	Cafe
+399	Room Service
+399	Gym
+399	Swimming Pool
+399	Air Conditioned
+399	WiFi
+399	Internet
+399	Restaurant
+399	Business Center
+399	Bar
+400	Cafe
+400	Swimming Pool
+401	Gym
+401	Restaurant
+401	Air Conditioned
+401	Swimming Pool
+401	Room Service
+401	Bar
+401	WiFi
+401	Cafe
+402	Cafe
+402	Business Center
+402	Air Conditioned
+402	WiFi
+402	Swimming Pool
+402	Internet
+403	Room Service
+404	Internet
+404	Restaurant
+404	Air Conditioned
+404	Gym
+404	Swimming Pool
+404	Business Center
+404	WiFi
+404	Cafe
+404	Bar
+406	Cafe
+406	Air Conditioned
+406	Business Center
+406	WiFi
+406	Room Service
+406	Gym
+406	Restaurant
+407	Room Service
+407	WiFi
+407	Restaurant
+408	Business Center
+408	Internet
+408	Cafe
+408	Air Conditioned
+408	Restaurant
+409	Internet
+409	Bar
+409	Room Service
+409	WiFi
+409	Business Center
+409	Cafe
+409	Restaurant
+409	Gym
+409	Air Conditioned
+411	Air Conditioned
+411	Business Center
+411	Cafe
+411	Swimming Pool
+411	Restaurant
+411	Bar
+411	Room Service
+411	Gym
+413	Air Conditioned
+413	Internet
+413	Cafe
+413	Gym
+413	Business Center
+413	Bar
+414	Business Center
+414	Swimming Pool
+414	Air Conditioned
+414	Cafe
+414	Restaurant
+414	WiFi
+415	WiFi
+415	Restaurant
+415	Gym
+415	Swimming Pool
+415	Business Center
+415	Internet
+415	Room Service
+416	Room Service
+418	Cafe
+418	Business Center
+418	Room Service
+418	Swimming Pool
+419	Restaurant
+419	Swimming Pool
+419	Internet
+419	Air Conditioned
+419	WiFi
+419	Room Service
+420	WiFi
+420	Swimming Pool
+420	Air Conditioned
+420	Gym
+420	Cafe
+420	Bar
+421	Cafe
+421	Bar
+422	Air Conditioned
+422	Swimming Pool
+422	Business Center
+422	WiFi
+422	Restaurant
+422	Room Service
+422	Bar
+422	Gym
+424	Cafe
+424	Internet
+424	Restaurant
+425	Room Service
+425	Cafe
+426	Air Conditioned
+426	Bar
+426	WiFi
+426	Internet
+426	Cafe
+426	Restaurant
+427	Room Service
+427	Cafe
+427	Internet
+427	Restaurant
+427	Business Center
+427	Bar
+427	WiFi
+427	Gym
+427	Air Conditioned
+428	Cafe
+428	WiFi
+428	Bar
+429	Business Center
+429	Bar
+429	Cafe
+429	WiFi
+429	Gym
+429	Room Service
+430	Cafe
+430	Restaurant
+430	Internet
+430	Gym
+430	Room Service
+430	Swimming Pool
+430	Business Center
+430	WiFi
+431	Swimming Pool
+431	Bar
+431	Cafe
+432	Gym
+432	Restaurant
+432	Cafe
+433	WiFi
+433	Room Service
+433	Swimming Pool
+433	Bar
+433	Restaurant
+433	Cafe
+433	Business Center
+433	Air Conditioned
+433	Internet
+434	Air Conditioned
+434	Restaurant
+434	Gym
+434	Internet
+434	Bar
+435	Business Center
+435	Bar
+435	Internet
+436	Air Conditioned
+436	Gym
+436	Business Center
+437	WiFi
+437	Restaurant
+437	Cafe
+437	Business Center
+437	Gym
+437	Air Conditioned
+437	Bar
+437	Room Service
+437	Internet
+438	Business Center
+439	Restaurant
+440	Room Service
+440	Air Conditioned
+440	Restaurant
+440	Bar
+440	Gym
+440	WiFi
+440	Cafe
+440	Business Center
+440	Internet
+441	Swimming Pool
+441	WiFi
+441	Room Service
+441	Internet
+441	Air Conditioned
+441	Restaurant
+442	Swimming Pool
+442	Air Conditioned
+442	Restaurant
+442	Bar
+442	Cafe
+442	Internet
+443	Swimming Pool
+443	Gym
+443	Restaurant
+443	Bar
+444	Room Service
+444	Restaurant
+444	Gym
+444	Air Conditioned
+444	Swimming Pool
+444	Internet
+444	Business Center
+444	WiFi
+444	Bar
+444	Cafe
+445	Gym
+445	Bar
+445	Room Service
+445	Swimming Pool
+446	Gym
+446	Cafe
+446	Room Service
+446	Internet
+446	Bar
+446	Restaurant
+446	WiFi
+446	Swimming Pool
+446	Air Conditioned
+447	Air Conditioned
+447	Business Center
+447	Room Service
+447	Restaurant
+447	Gym
+447	Bar
+447	Internet
+447	WiFi
+447	Cafe
+447	Swimming Pool
+448	Bar
+448	WiFi
+448	Restaurant
+449	Bar
+449	Gym
+449	WiFi
+449	Business Center
+449	Room Service
+449	Swimming Pool
+449	Cafe
+450	WiFi
+450	Restaurant
+450	Internet
+450	Gym
+450	Air Conditioned
+450	Business Center
+450	Bar
+451	Internet
+451	WiFi
+451	Bar
+451	Air Conditioned
+451	Swimming Pool
+451	Business Center
+452	WiFi
+452	Room Service
+452	Cafe
+452	Business Center
+452	Restaurant
+452	Bar
+453	WiFi
+453	Air Conditioned
+454	Gym
+454	Swimming Pool
+454	Room Service
+454	Restaurant
+454	Internet
+454	Air Conditioned
+454	WiFi
+455	Room Service
+455	Restaurant
+455	Bar
+455	Cafe
+455	Gym
+455	Swimming Pool
+455	Air Conditioned
+455	WiFi
+456	Restaurant
+456	Business Center
+456	Room Service
+456	WiFi
+456	Bar
+456	Internet
+456	Gym
+457	Internet
+457	Swimming Pool
+457	Restaurant
+457	Air Conditioned
+457	Room Service
+457	WiFi
+457	Cafe
+457	Business Center
+457	Bar
+457	Gym
+458	Swimming Pool
+458	Bar
+458	WiFi
+458	Room Service
+459	Internet
+459	Gym
+459	Restaurant
+459	Swimming Pool
+459	Air Conditioned
+459	Bar
+459	Cafe
+459	Business Center
+459	WiFi
+459	Room Service
+461	Room Service
+461	WiFi
+461	Bar
+461	Swimming Pool
+462	Room Service
+462	Internet
+462	Swimming Pool
+462	Cafe
+463	Cafe
+463	Gym
+463	WiFi
+463	Room Service
+463	Air Conditioned
+463	Bar
+463	Business Center
+464	Internet
+464	Gym
+464	Bar
+464	Restaurant
+464	WiFi
+465	Swimming Pool
+465	Air Conditioned
+465	Business Center
+465	WiFi
+465	Internet
+465	Cafe
+465	Bar
+465	Restaurant
+466	Cafe
+466	Business Center
+466	WiFi
+466	Gym
+467	Internet
+467	Cafe
+467	Restaurant
+467	Business Center
+467	Swimming Pool
+467	WiFi
+468	Air Conditioned
+468	Room Service
+468	Business Center
+469	WiFi
+469	Restaurant
+469	Gym
+469	Internet
+469	Room Service
+469	Air Conditioned
+470	Internet
+470	Cafe
+470	Bar
+471	Cafe
+471	WiFi
+471	Bar
+471	Restaurant
+471	Air Conditioned
+471	Room Service
+472	Swimming Pool
+472	Room Service
+472	Business Center
+472	Bar
+472	WiFi
+472	Internet
+472	Restaurant
+473	Cafe
+473	Bar
+473	Business Center
+474	Business Center
+474	Air Conditioned
+475	Business Center
+475	Swimming Pool
+475	Internet
+475	Cafe
+475	Room Service
+475	Air Conditioned
+475	WiFi
+475	Restaurant
+476	Room Service
+476	Swimming Pool
+476	Cafe
+476	Gym
+476	Internet
+476	Air Conditioned
+476	Restaurant
+476	Business Center
+476	WiFi
+476	Bar
+478	Cafe
+479	Cafe
+479	Internet
+479	Air Conditioned
+480	Internet
+481	Business Center
+481	Internet
+481	Restaurant
+481	Bar
+481	Room Service
+481	Swimming Pool
+481	WiFi
+482	Restaurant
+482	Internet
+482	Bar
+482	Gym
+483	Swimming Pool
+483	Business Center
+483	Room Service
+483	Cafe
+483	Restaurant
+483	Internet
+483	Gym
+483	Air Conditioned
+484	Restaurant
+486	Air Conditioned
+486	Restaurant
+486	Room Service
+486	Gym
+486	Swimming Pool
+486	Internet
+486	Bar
+486	Business Center
+486	WiFi
+486	Cafe
+487	Gym
+487	WiFi
+487	Business Center
+487	Internet
+487	Air Conditioned
+487	Swimming Pool
+487	Bar
+487	Cafe
+487	Restaurant
+488	Swimming Pool
+488	Business Center
+488	Internet
+488	Bar
+488	Air Conditioned
+488	Cafe
+488	Gym
+489	Air Conditioned
+489	Restaurant
+489	Internet
+489	Room Service
+489	Cafe
+489	Gym
+489	Business Center
+489	WiFi
+489	Bar
+490	Gym
+490	Cafe
+490	Restaurant
+491	Bar
+492	WiFi
+492	Room Service
+492	Cafe
+492	Internet
+492	Swimming Pool
+492	Bar
+492	Business Center
+492	Gym
+494	Internet
+494	Business Center
+495	Bar
+495	Cafe
+495	Room Service
+495	Air Conditioned
+495	Business Center
+495	Swimming Pool
+495	Restaurant
+496	Cafe
+496	Internet
+496	WiFi
+496	Gym
+496	Swimming Pool
+496	Air Conditioned
+496	Bar
+496	Business Center
+497	Restaurant
+497	Cafe
+497	Business Center
+497	Gym
+497	Air Conditioned
+497	Internet
+497	Room Service
+497	Bar
+497	WiFi
+497	Swimming Pool
+498	Bar
+499	Business Center
+499	Swimming Pool
+499	Gym
+499	Internet
+499	Air Conditioned
+500	Room Service
+500	WiFi
+500	Gym
+500	Air Conditioned
+500	Bar
+500	Swimming Pool
+501	Bar
+501	Air Conditioned
+501	Internet
+501	Restaurant
+501	Business Center
+502	Bar
+502	Restaurant
+503	Bar
+503	Air Conditioned
+503	Business Center
+503	WiFi
+504	Cafe
+504	WiFi
+504	Air Conditioned
+504	Room Service
+504	Restaurant
+504	Bar
+505	Restaurant
+505	Internet
+505	WiFi
+505	Business Center
+505	Air Conditioned
+505	Swimming Pool
+505	Cafe
+506	Internet
+506	Gym
+506	WiFi
+506	Bar
+506	Cafe
+506	Restaurant
+506	Room Service
+506	Swimming Pool
+506	Air Conditioned
+506	Business Center
+507	Air Conditioned
+507	Gym
+507	Bar
+507	Room Service
+508	Air Conditioned
+508	Business Center
+508	Cafe
+508	Room Service
+509	Business Center
+509	Room Service
+509	Restaurant
+509	Cafe
+509	Internet
+509	WiFi
+509	Bar
+510	Gym
+510	Restaurant
+511	Swimming Pool
+511	Cafe
+511	Room Service
+511	Bar
+511	Internet
+511	WiFi
+512	Gym
+512	Air Conditioned
+512	Business Center
+512	Restaurant
+512	Swimming Pool
+512	WiFi
+512	Cafe
+512	Bar
+512	Room Service
+512	Internet
+513	Air Conditioned
+513	Cafe
+513	Bar
+513	Internet
+514	Business Center
+514	Room Service
+514	Internet
+514	Bar
+514	Gym
+514	Restaurant
+514	Air Conditioned
+515	Business Center
+515	Bar
+515	Cafe
+515	Swimming Pool
+516	Cafe
+516	Business Center
+517	Internet
+517	Bar
+518	Restaurant
+518	Room Service
+518	Cafe
+518	Gym
+518	Internet
+518	WiFi
+518	Business Center
+518	Bar
+519	Air Conditioned
+519	Restaurant
+519	WiFi
+519	Gym
+519	Swimming Pool
+519	Internet
+520	WiFi
+520	Internet
+520	Gym
+520	Cafe
+520	Room Service
+521	Business Center
+521	Internet
+521	Room Service
+521	Swimming Pool
+521	Restaurant
+521	WiFi
+521	Cafe
+521	Air Conditioned
+522	Room Service
+522	Restaurant
+522	Swimming Pool
+523	WiFi
+524	Room Service
+524	Air Conditioned
+524	Gym
+524	Restaurant
+525	Business Center
+526	Air Conditioned
+526	Business Center
+526	Bar
+526	Restaurant
+526	Swimming Pool
+527	WiFi
+527	Business Center
+527	Air Conditioned
+530	Gym
+530	Business Center
+530	Bar
+530	Cafe
+531	Bar
+531	Air Conditioned
+531	Gym
+531	Swimming Pool
+531	Business Center
+531	WiFi
+531	Room Service
+531	Restaurant
+531	Cafe
+532	Internet
+532	Restaurant
+532	WiFi
+532	Bar
+532	Gym
+532	Swimming Pool
+533	Air Conditioned
+533	Business Center
+533	Restaurant
+533	Bar
+533	Cafe
+533	Swimming Pool
+533	WiFi
+533	Room Service
+533	Gym
+534	Air Conditioned
+534	Internet
+535	Cafe
+535	Gym
+535	Restaurant
+535	WiFi
+535	Room Service
+535	Swimming Pool
+535	Business Center
+536	Gym
+536	Business Center
+536	Restaurant
+536	WiFi
+536	Internet
+536	Air Conditioned
+536	Room Service
+537	Air Conditioned
+537	Cafe
+537	Swimming Pool
+539	Gym
+540	Bar
+540	Room Service
+540	Cafe
+541	Internet
+541	Bar
+541	Room Service
+541	Gym
+541	Air Conditioned
+541	Cafe
+541	WiFi
+542	Room Service
+542	Bar
+542	Business Center
+542	Gym
+542	Internet
+542	Restaurant
+542	Air Conditioned
+542	Cafe
+543	Swimming Pool
+543	Bar
+544	Bar
+544	Business Center
+544	Room Service
+544	WiFi
+544	Gym
+544	Swimming Pool
+544	Cafe
+544	Air Conditioned
+544	Internet
+545	Room Service
+545	Internet
+545	WiFi
+545	Cafe
+545	Swimming Pool
+545	Air Conditioned
+545	Gym
+545	Restaurant
+545	Bar
+546	Internet
+546	Room Service
+546	Gym
+548	Air Conditioned
+549	Cafe
+549	Swimming Pool
+549	Business Center
+549	Restaurant
+549	WiFi
+551	Gym
+551	Swimming Pool
+551	Bar
+552	Room Service
+552	Cafe
+553	Gym
+553	Internet
+553	Cafe
+553	Restaurant
+553	Air Conditioned
+553	Bar
+553	WiFi
+555	Cafe
+555	Air Conditioned
+555	Internet
+555	WiFi
+555	Swimming Pool
+555	Bar
+555	Restaurant
+556	Gym
+556	Bar
+556	Internet
+556	Air Conditioned
+556	WiFi
+556	Restaurant
+556	Cafe
+557	Cafe
+557	Gym
+557	Bar
+557	Swimming Pool
+557	WiFi
+558	WiFi
+558	Gym
+558	Air Conditioned
+559	Cafe
+559	WiFi
+559	Restaurant
+560	Cafe
+560	Internet
+560	Air Conditioned
+560	Business Center
+560	Restaurant
+560	Swimming Pool
+560	Room Service
+560	Gym
+560	WiFi
+561	Gym
+561	Swimming Pool
+561	Internet
+561	Bar
+562	Bar
+562	Cafe
+562	WiFi
+562	Room Service
+563	Cafe
+563	Internet
+565	Air Conditioned
+566	Business Center
+566	Cafe
+566	Bar
+566	Air Conditioned
+566	Restaurant
+566	Room Service
+566	Internet
+566	Gym
+566	WiFi
+566	Swimming Pool
+567	Business Center
+567	Bar
+567	Room Service
+567	Internet
+567	Gym
+567	WiFi
+567	Swimming Pool
+568	Air Conditioned
+568	Restaurant
+569	Gym
+569	Swimming Pool
+569	Cafe
+569	Bar
+569	WiFi
+569	Room Service
+570	Business Center
+570	Cafe
+570	Restaurant
+570	Gym
+570	WiFi
+570	Room Service
+570	Air Conditioned
+570	Internet
+572	Internet
+572	Gym
+574	Cafe
+574	Restaurant
+574	Bar
+574	Gym
+574	Swimming Pool
+575	Cafe
+576	Room Service
+576	Restaurant
+577	Room Service
+579	Internet
+579	Room Service
+579	Air Conditioned
+579	Cafe
+579	WiFi
+579	Business Center
+579	Restaurant
+579	Swimming Pool
+579	Bar
+580	Restaurant
+580	Air Conditioned
+580	Bar
+580	Internet
+580	Room Service
+580	WiFi
+581	Room Service
+581	Restaurant
+581	Air Conditioned
+581	Cafe
+582	Swimming Pool
+582	Business Center
+582	Room Service
+582	Gym
+582	Internet
+582	WiFi
+582	Cafe
+583	Swimming Pool
+583	Gym
+583	WiFi
+583	Business Center
+583	Room Service
+583	Air Conditioned
+584	Internet
+584	Gym
+584	Swimming Pool
+584	WiFi
+584	Business Center
+584	Air Conditioned
+586	Cafe
+586	Room Service
+586	WiFi
+586	Bar
+586	Swimming Pool
+586	Air Conditioned
+586	Gym
+586	Restaurant
+587	Bar
+587	Air Conditioned
+587	Cafe
+587	Internet
+587	Business Center
+587	Room Service
+587	Swimming Pool
+587	Restaurant
+587	WiFi
+588	Cafe
+588	Business Center
+590	Internet
+590	Business Center
+590	WiFi
+591	Room Service
+592	Swimming Pool
+593	WiFi
+593	Gym
+594	Cafe
+594	Restaurant
+594	Bar
+594	Room Service
+595	Gym
+596	Swimming Pool
+596	Cafe
+596	WiFi
+596	Gym
+597	Cafe
+597	Room Service
+597	Restaurant
+597	Air Conditioned
+597	Bar
+599	Business Center
+599	Restaurant
+599	Internet
+599	Room Service
+600	Swimming Pool
+600	Room Service
+600	Bar
+600	Restaurant
+600	Cafe
+600	WiFi
+600	Business Center
+600	Internet
+600	Gym
+601	Business Center
+601	WiFi
+601	Restaurant
+601	Room Service
+601	Bar
+601	Swimming Pool
+601	Air Conditioned
+601	Gym
+601	Internet
+602	Bar
+602	Room Service
+602	Internet
+602	Business Center
+602	Cafe
+602	Gym
+602	Restaurant
+602	Air Conditioned
+602	WiFi
+602	Swimming Pool
+603	Cafe
+603	Restaurant
+603	Bar
+603	Business Center
+603	Swimming Pool
+603	Internet
+604	Restaurant
+604	WiFi
+604	Internet
+604	Bar
+604	Air Conditioned
+604	Gym
+604	Room Service
+604	Cafe
+604	Business Center
+604	Swimming Pool
+605	Air Conditioned
+605	Business Center
+606	Bar
+606	Restaurant
+606	Gym
+606	Business Center
+606	Room Service
+606	WiFi
+606	Internet
+606	Air Conditioned
+606	Cafe
+607	WiFi
+607	Internet
+608	Swimming Pool
+608	Business Center
+608	WiFi
+609	Cafe
+609	Business Center
+609	Bar
+609	Restaurant
+609	Room Service
+609	Air Conditioned
+609	WiFi
+609	Swimming Pool
+610	Cafe
+610	Internet
+610	Business Center
+610	Swimming Pool
+610	Restaurant
+610	Gym
+610	WiFi
+611	Business Center
+611	Cafe
+611	Swimming Pool
+612	Swimming Pool
+612	Internet
+613	Restaurant
+613	Air Conditioned
+613	Gym
+613	Swimming Pool
+613	Bar
+613	Cafe
+613	Room Service
+613	WiFi
+613	Business Center
+613	Internet
+614	Restaurant
+614	Bar
+614	Business Center
+614	Room Service
+614	Cafe
+615	Room Service
+615	Gym
+615	Air Conditioned
+615	Bar
+615	Swimming Pool
+616	Air Conditioned
+616	Business Center
+616	Gym
+616	Cafe
+616	WiFi
+617	Cafe
+617	Gym
+618	Restaurant
+619	Business Center
+619	Room Service
+619	WiFi
+619	Gym
+619	Cafe
+619	Bar
+620	Business Center
+621	Gym
+621	Room Service
+621	Restaurant
+621	Internet
+621	Cafe
+621	WiFi
+621	Bar
+622	Bar
+622	Internet
+622	Business Center
+622	Swimming Pool
+622	Room Service
+623	Air Conditioned
+623	Internet
+623	Room Service
+623	Cafe
+624	Gym
+624	Cafe
+625	Internet
+625	Business Center
+625	Bar
+627	Swimming Pool
+627	WiFi
+627	Cafe
+627	Room Service
+627	Business Center
+627	Restaurant
+627	Bar
+628	Business Center
+628	Bar
+628	Cafe
+628	Swimming Pool
+628	Internet
+628	Gym
+629	Bar
+629	Restaurant
+629	Business Center
+629	Swimming Pool
+629	WiFi
+629	Cafe
+629	Internet
+629	Air Conditioned
+629	Room Service
+629	Gym
+630	Air Conditioned
+630	Cafe
+630	Business Center
+630	Gym
+630	Swimming Pool
+630	Internet
+630	Bar
+630	Room Service
+630	WiFi
+632	WiFi
+632	Cafe
+632	Internet
+632	Restaurant
+632	Business Center
+632	Room Service
+632	Air Conditioned
+632	Bar
+632	Gym
+632	Swimming Pool
+633	Swimming Pool
+634	Swimming Pool
+634	Air Conditioned
+634	Internet
+634	Cafe
+634	Room Service
+634	Bar
+634	WiFi
+634	Restaurant
+634	Business Center
+634	Gym
+635	Room Service
+635	Bar
+635	Internet
+636	Swimming Pool
+636	Bar
+637	Gym
+637	Internet
+637	Bar
+637	Cafe
+638	Room Service
+638	Restaurant
+638	Air Conditioned
+638	Swimming Pool
+638	Internet
+639	Restaurant
+639	Room Service
+639	Cafe
+640	Cafe
+640	Internet
+640	Bar
+640	Business Center
+640	Room Service
+641	Restaurant
+641	Internet
+641	WiFi
+641	Swimming Pool
+641	Room Service
+641	Air Conditioned
+641	Bar
+641	Gym
+643	Air Conditioned
+643	Business Center
+643	Cafe
+643	Bar
+643	Internet
+643	Gym
+644	Swimming Pool
+645	Business Center
+645	Bar
+645	Internet
+645	Cafe
+645	Swimming Pool
+647	Business Center
+647	Air Conditioned
+647	Swimming Pool
+647	Cafe
+647	Internet
+647	Gym
+648	WiFi
+648	Bar
+648	Swimming Pool
+648	Restaurant
+648	Room Service
+648	Internet
+648	Cafe
+648	Air Conditioned
+648	Business Center
+649	WiFi
+649	Room Service
+649	Gym
+649	Business Center
+649	Restaurant
+649	Swimming Pool
+649	Internet
+649	Air Conditioned
+649	Cafe
+650	Room Service
+650	Gym
+650	Internet
+650	WiFi
+651	Internet
+651	Cafe
+651	Restaurant
+651	Air Conditioned
+651	Bar
+651	Business Center
+652	Business Center
+652	Internet
+652	Room Service
+652	Swimming Pool
+652	Gym
+652	Air Conditioned
+652	Bar
+652	Cafe
+652	Restaurant
+652	WiFi
+653	Room Service
+653	Restaurant
+653	Gym
+653	WiFi
+653	Business Center
+654	Swimming Pool
+654	Cafe
+654	Room Service
+655	Gym
+656	Room Service
+656	Business Center
+656	Gym
+656	Cafe
+656	Restaurant
+656	Air Conditioned
+656	Bar
+656	Swimming Pool
+656	WiFi
+656	Internet
+657	Cafe
+657	Air Conditioned
+657	Gym
+657	Restaurant
+657	Room Service
+657	WiFi
+657	Internet
+658	Internet
+658	Swimming Pool
+658	Business Center
+658	Air Conditioned
+658	Bar
+658	Restaurant
+658	Gym
+658	WiFi
+658	Cafe
+658	Room Service
+659	Bar
+659	Swimming Pool
+659	Business Center
+659	Restaurant
+659	Internet
+659	WiFi
+659	Cafe
+659	Gym
+659	Room Service
+660	Room Service
+660	Air Conditioned
+660	Restaurant
+660	Swimming Pool
+660	Gym
+660	Internet
+660	Cafe
+660	WiFi
+660	Business Center
+660	Bar
+661	Cafe
+661	Bar
+661	Restaurant
+661	Gym
+661	Business Center
+661	WiFi
+661	Room Service
+661	Air Conditioned
+661	Internet
+663	Cafe
+664	Restaurant
+664	Cafe
+664	Internet
+664	Air Conditioned
+664	Swimming Pool
+664	Gym
+664	Room Service
+665	Internet
+665	Swimming Pool
+665	Cafe
+665	Air Conditioned
+665	Bar
+665	Room Service
+665	Business Center
+665	WiFi
+665	Restaurant
+666	Gym
+666	Bar
+666	Air Conditioned
+666	Internet
+666	WiFi
+666	Restaurant
+666	Business Center
+667	Gym
+667	Business Center
+667	Room Service
+667	Air Conditioned
+667	Restaurant
+667	Cafe
+667	Bar
+667	Swimming Pool
+668	Gym
+668	WiFi
+668	Cafe
+668	Internet
+668	Restaurant
+668	Bar
+669	Room Service
+669	Business Center
+669	WiFi
+670	Restaurant
+670	Internet
+671	Restaurant
+671	Bar
+672	Internet
+672	Room Service
+672	Swimming Pool
+672	Cafe
+672	WiFi
+672	Air Conditioned
+672	Bar
+672	Gym
+673	WiFi
+673	Gym
+673	Restaurant
+673	Swimming Pool
+674	Internet
+674	Swimming Pool
+674	Bar
+675	Air Conditioned
+675	Bar
+675	Gym
+675	Restaurant
+675	Room Service
+675	Cafe
+675	Swimming Pool
+676	Bar
+676	WiFi
+676	Air Conditioned
+676	Internet
+676	Business Center
+676	Gym
+677	Room Service
+677	Restaurant
+677	WiFi
+677	Internet
+677	Bar
+677	Air Conditioned
+677	Cafe
+677	Swimming Pool
+679	Restaurant
+679	WiFi
+679	Gym
+680	Room Service
+680	Bar
+680	Restaurant
+680	Swimming Pool
+680	Business Center
+680	Cafe
+680	Air Conditioned
+680	WiFi
+681	WiFi
+681	Cafe
+681	Room Service
+681	Air Conditioned
+681	Bar
+682	Internet
+682	Cafe
+682	Restaurant
+682	Air Conditioned
+682	WiFi
+682	Swimming Pool
+683	Business Center
+683	Gym
+683	Restaurant
+683	Cafe
+683	Room Service
+683	Internet
+683	Bar
+683	Swimming Pool
+683	Air Conditioned
+684	Cafe
+684	Gym
+684	Business Center
+684	Bar
+684	Swimming Pool
+685	Business Center
+686	Cafe
+687	Internet
+687	Gym
+688	Cafe
+688	Air Conditioned
+688	Swimming Pool
+688	WiFi
+688	Gym
+688	Internet
+688	Room Service
+689	Room Service
+690	Swimming Pool
+690	Gym
+690	Restaurant
+690	WiFi
+691	Gym
+691	Business Center
+691	Room Service
+691	Bar
+692	Cafe
+692	Swimming Pool
+692	Restaurant
+692	Air Conditioned
+692	Internet
+692	Business Center
+692	WiFi
+692	Bar
+692	Gym
+693	Room Service
+694	Room Service
+694	Cafe
+694	WiFi
+694	Restaurant
+694	Air Conditioned
+694	Bar
+694	Internet
+694	Gym
+695	Restaurant
+695	Bar
+695	WiFi
+696	Restaurant
+696	Internet
+696	Room Service
+697	Room Service
+697	Internet
+697	Restaurant
+697	Bar
+697	Business Center
+697	Cafe
+697	Gym
+697	WiFi
+698	Cafe
+698	Internet
+698	Room Service
+698	Gym
+698	Bar
+698	Restaurant
+698	WiFi
+698	Air Conditioned
+700	WiFi
+700	Restaurant
+700	Room Service
+701	Air Conditioned
+701	Cafe
+701	Internet
+701	Restaurant
+702	Internet
+702	Business Center
+702	Air Conditioned
+702	Bar
+703	Swimming Pool
+703	Internet
+703	Cafe
+703	WiFi
+703	Air Conditioned
+703	Gym
+703	Room Service
+703	Business Center
+703	Bar
+703	Restaurant
+705	Room Service
+705	Internet
+705	Bar
+705	Air Conditioned
+705	Business Center
+705	Gym
+705	Swimming Pool
+705	Cafe
+705	WiFi
+705	Restaurant
+706	Cafe
+706	Room Service
+706	Air Conditioned
+706	Business Center
+706	Swimming Pool
+706	WiFi
+707	Swimming Pool
+707	Internet
+707	Business Center
+707	Restaurant
+707	Bar
+707	Cafe
+707	Gym
+707	Room Service
+707	WiFi
+707	Air Conditioned
+708	Swimming Pool
+708	Air Conditioned
+708	WiFi
+708	Restaurant
+708	Room Service
+709	Business Center
+709	Air Conditioned
+709	Swimming Pool
+709	WiFi
+709	Internet
+709	Cafe
+709	Restaurant
+709	Bar
+709	Room Service
+710	Gym
+710	Bar
+710	Internet
+710	Air Conditioned
+710	Swimming Pool
+711	Restaurant
+711	Business Center
+711	Gym
+711	Room Service
+711	Bar
+711	Internet
+711	Cafe
+712	Cafe
+712	Room Service
+712	Swimming Pool
+712	Business Center
+713	Internet
+714	Restaurant
+714	WiFi
+714	Air Conditioned
+714	Gym
+714	Bar
+714	Cafe
+714	Business Center
+714	Swimming Pool
+714	Internet
+715	Cafe
+715	WiFi
+715	Swimming Pool
+715	Internet
+716	Restaurant
+716	Internet
+716	WiFi
+716	Bar
+716	Room Service
+717	Business Center
+717	Room Service
+717	Swimming Pool
+717	Restaurant
+717	Internet
+717	WiFi
+717	Gym
+717	Cafe
+718	Restaurant
+718	Gym
+718	Bar
+718	Business Center
+718	Internet
+718	Cafe
+718	Room Service
+718	Air Conditioned
+718	Swimming Pool
+718	WiFi
+719	WiFi
+719	Cafe
+719	Gym
+719	Restaurant
+719	Air Conditioned
+719	Room Service
+719	Bar
+720	Room Service
+720	Business Center
+720	Restaurant
+720	Cafe
+721	Bar
+721	Restaurant
+721	Air Conditioned
+721	Cafe
+721	WiFi
+722	Gym
+722	WiFi
+722	Internet
+722	Air Conditioned
+722	Business Center
+722	Bar
+722	Swimming Pool
+723	Restaurant
+723	Internet
+723	Room Service
+723	Bar
+723	WiFi
+723	Cafe
+723	Air Conditioned
+723	Swimming Pool
+723	Business Center
+723	Gym
+724	Restaurant
+724	WiFi
+724	Room Service
+724	Gym
+724	Internet
+724	Air Conditioned
+724	Cafe
+725	Air Conditioned
+725	Restaurant
+725	Cafe
+725	Swimming Pool
+725	Room Service
+725	Internet
+725	Gym
+725	Bar
+725	WiFi
+725	Business Center
+726	Swimming Pool
+726	Air Conditioned
+726	Bar
+726	Business Center
+726	Gym
+726	Restaurant
+726	WiFi
+726	Room Service
+726	Internet
+728	Air Conditioned
+728	Room Service
+728	Cafe
+728	Internet
+728	WiFi
+729	Bar
+729	Cafe
+730	Cafe
+730	WiFi
+731	Restaurant
+731	WiFi
+731	Room Service
+731	Cafe
+731	Business Center
+732	Swimming Pool
+733	Swimming Pool
+733	Gym
+733	Air Conditioned
+733	Business Center
+733	Room Service
+733	Cafe
+733	Restaurant
+733	WiFi
+733	Internet
+733	Bar
+734	Swimming Pool
+734	Gym
+734	WiFi
+734	Cafe
+734	Restaurant
+734	Room Service
+734	Air Conditioned
+734	Internet
+734	Bar
+734	Business Center
+736	Restaurant
+736	Internet
+736	Bar
+736	Swimming Pool
+736	Air Conditioned
+736	Cafe
+737	Bar
+737	Room Service
+737	Business Center
+737	WiFi
+738	Business Center
+738	WiFi
+738	Restaurant
+738	Cafe
+738	Bar
+738	Internet
+738	Swimming Pool
+739	Cafe
+739	Gym
+739	Business Center
+739	Air Conditioned
+739	Bar
+739	Swimming Pool
+739	WiFi
+740	Restaurant
+740	Business Center
+740	Internet
+740	Air Conditioned
+740	WiFi
+740	Swimming Pool
+740	Gym
+740	Cafe
+740	Room Service
+740	Bar
+741	Room Service
+741	Restaurant
+741	Air Conditioned
+741	WiFi
+741	Business Center
+741	Swimming Pool
+741	Internet
+741	Bar
+741	Cafe
+742	Business Center
+742	Swimming Pool
+742	Gym
+742	Cafe
+742	Bar
+742	Air Conditioned
+742	Restaurant
+742	Room Service
+742	Internet
+742	WiFi
+743	Room Service
+743	WiFi
+743	Business Center
+743	Cafe
+743	Gym
+743	Internet
+743	Restaurant
+743	Bar
+743	Air Conditioned
+744	Gym
+744	Cafe
+744	Restaurant
+744	Air Conditioned
+744	Internet
+745	Gym
+746	Gym
+746	Internet
+746	Cafe
+747	Gym
+748	Internet
+748	Business Center
+748	Cafe
+748	Restaurant
+748	Room Service
+749	Room Service
+749	Bar
+749	Internet
+749	Business Center
+749	Swimming Pool
+750	Bar
+751	Swimming Pool
+751	Internet
+753	Room Service
+754	Swimming Pool
+754	Business Center
+754	WiFi
+755	Bar
+755	WiFi
+756	Gym
+756	Bar
+756	Cafe
+756	WiFi
+756	Business Center
+756	Internet
+756	Restaurant
+756	Room Service
+756	Swimming Pool
+757	Business Center
+757	Room Service
+757	Restaurant
+757	Internet
+757	Cafe
+757	Air Conditioned
+757	Gym
+758	Air Conditioned
+758	Business Center
+758	Internet
+758	Swimming Pool
+758	Gym
+758	Room Service
+758	Bar
+759	Restaurant
+759	Bar
+759	Room Service
+759	Cafe
+759	Business Center
+759	WiFi
+759	Gym
+759	Swimming Pool
+760	Restaurant
+760	Gym
+760	Room Service
+760	Cafe
+760	Swimming Pool
+760	Internet
+760	Air Conditioned
+761	Swimming Pool
+761	Gym
+762	Room Service
+762	Cafe
+762	Gym
+762	Swimming Pool
+763	Air Conditioned
+763	WiFi
+763	Restaurant
+763	Bar
+763	Internet
+763	Swimming Pool
+764	Swimming Pool
+764	Gym
+764	Internet
+764	WiFi
+764	Cafe
+764	Bar
+764	Room Service
+764	Air Conditioned
+764	Business Center
+765	Business Center
+765	WiFi
+765	Room Service
+765	Air Conditioned
+765	Internet
+765	Gym
+765	Bar
+765	Swimming Pool
+765	Cafe
+765	Restaurant
+766	Gym
+766	Bar
+766	Air Conditioned
+766	Internet
+766	Room Service
+766	Restaurant
+766	Cafe
+766	WiFi
+766	Business Center
+766	Swimming Pool
+767	Gym
+767	Restaurant
+767	Internet
+767	Room Service
+767	Business Center
+767	Cafe
+767	WiFi
+768	Business Center
+768	Cafe
+768	Room Service
+768	Air Conditioned
+768	Restaurant
+768	WiFi
+769	Swimming Pool
+769	Gym
+769	WiFi
+769	Air Conditioned
+769	Cafe
+769	Business Center
+769	Restaurant
+769	Internet
+769	Bar
+769	Room Service
+770	Business Center
+770	Restaurant
+770	Room Service
+771	Swimming Pool
+771	Internet
+771	Cafe
+771	Gym
+771	WiFi
+771	Bar
+771	Room Service
+772	Cafe
+772	Swimming Pool
+772	Internet
+772	Room Service
+772	Restaurant
+772	Gym
+772	WiFi
+772	Business Center
+772	Bar
+774	Swimming Pool
+775	Air Conditioned
+776	Internet
+777	Gym
+777	WiFi
+777	Cafe
+777	Restaurant
+777	Internet
+777	Air Conditioned
+778	Air Conditioned
+778	Bar
+778	Swimming Pool
+780	Bar
+780	Internet
+780	Cafe
+780	Air Conditioned
+780	Gym
+780	Business Center
+780	Swimming Pool

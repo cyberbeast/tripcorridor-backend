@@ -1,0 +1,40 @@
+{
+    "Belgaum Division": [
+        "Bagalkot", 
+        "Belgaum", 
+        "Vijayapura", 
+        "Dharwad", 
+        "Gadag", 
+        "Haveri", 
+        "Uttara Kannada"
+    ], 
+    "Kalaburagi Division": [
+        "Bellary", 
+        "Bidar", 
+        "Kalaburagi", 
+        "Koppal", 
+        "Raichur", 
+        "Yadgir"
+    ], 
+    "Bangalore Division": [
+        "Bengaluru Urban", 
+        "Bengaluru Rural", 
+        "Chikkaballapur", 
+        "Chitradurga", 
+        "Davanagere", 
+        "Kolar", 
+        "Ramanagara", 
+        "Shivamogga", 
+        "Tumakuru"
+    ], 
+    "Mysore Division": [
+        "Chamarajanagar", 
+        "Chikkamagaluru", 
+        "Dakshina Kannada", 
+        "Hassan", 
+        "Kodagu", 
+        "Mandya", 
+        "Mysuru", 
+        "Udupi"
+    ]
+}
