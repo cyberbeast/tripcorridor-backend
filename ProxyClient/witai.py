@@ -23,8 +23,8 @@ class WitAI(object):
 		print "QUERY:"
 		print curl_req % (today,query)
 		
-		print "wit.ai OUTPUT:"
-		print out
+		# print "wit.ai OUTPUT:"
+		# print out
 		
 		return json.loads(out)
 

@@ -2,22 +2,19 @@ from flask import Flask, jsonify, abort, make_response
 from flask.ext.restful import Api, Resource, reqparse, fields, marshal
 from flask.ext.httpauth import HTTPBasicAuth
 from model import Model
-import settings, json, hashlib, base64
-from model3 import Model3
+import config, json, hashlib, base64
+from model import Model
 
 app = Flask(__name__, static_url_path="")
 api = Api(app)
 auth = HTTPBasicAuth()
 
-
-model = Model3()
-#Model2(verbose = True, fake_db_access = settings.FAKE_DB_ACCESS)
-#model = Model(verbose = True)
+model = Model()
 
 @auth.get_password
 def get_password(username):
-    if username == settings.API_USERNAME:
-        sha1_hash = hashlib.sha1(settings.API_USERNAME).hexdigest()
+    if username == config.API_USERNAME:
+        sha1_hash = hashlib.sha1(config.API_USERNAME).hexdigest()
         return base64.b64encode(sha1_hash)
     return None
 
@@ -49,8 +46,6 @@ class NaturalQueryAPI(Resource):
         -X POST \
         -d '{"wit_ai_response": <your response from wit.ai> }' \
         http://localhost:5544/api/naturalquery/execute
-
-
     """ 
     decorators = [auth.login_required]
 
@@ -76,5 +71,5 @@ class NaturalQueryAPI(Resource):
 api.add_resource(NaturalQueryAPI, '/api/naturalquery/execute', endpoint='execute')
 
 if __name__ == '__main__':
-    app.run(debug=True,port = settings.API_PORT,
-        host=settings.API_HOST_IP_ADDRESS)
+    app.run(debug=True,port = config.API_PORT,
+        host=config.API_HOST_IP_ADDRESS)

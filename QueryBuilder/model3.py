@@ -1,6 +1,6 @@
 from database import Neo4jDatabase
 
-class Model3(object):
+class Model(object):
 	def execute(self, parsed_args):
 		print 'parsed_args are:',parsed_args
 		return {'parsed_args':parsed_args}

@@ -1,5 +1,5 @@
 from py2neo import authenticate, watch, Graph
-import settings
+import config
 
 class Neo4jDatabase:
     """
@@ -46,9 +46,9 @@ class Neo4jDatabase:
 
     """
     def __init__(self):
-        authenticate(settings.NEO4J_DB_URL_PORT,
-            settings.NEO4J_DB_USERNAME,
-            settings.NEO4J_DB_PASSWORD)
+        authenticate(config.NEO4J_DB_URL_PORT,
+            config.NEO4J_DB_USERNAME,
+            config.NEO4J_DB_PASSWORD)
         watch('httpstream')
         watch('py2neo.cypher')
         self.graph = Graph()
