@@ -61,7 +61,7 @@ LOAD CSV WITH HEADERS FROM
 'file://XXX/districts-of-karnataka.tsv' 
 AS district FIELDTERMINATOR '\t'
 CREATE (d:District{name:district.District,
-	code:district.Code,headquarter:district.Headquarters});
+	code:district.Code,headquarter:district.Headquarters,alternate_name:district.AltName});
 
 //link districts of Karnataka to Karnataka;
 MATCH (s:State),(d:District)
@@ -86,3 +86,7 @@ AS div
 MATCH (d:Division),(dis:District)
 WHERE d.name = div.Name AND dis.name = div.District
 CREATE (d)-[:HAS_DISTRICT_UNDER_DIVISION]->(dis);
+
+// label all the nodes as Location
+MATCH (n)
+SET n :Location;

@@ -6,6 +6,6 @@
 echo "starting neo4j server..."
 sudo /var/lib/neo4j/bin/neo4j restart
 
-cd ../QueryGeneration
+cd ../QueryBuilder
 echo "starting flask app at localhost:6000/api/naturalquery/execute ..."
 python api.py 

@@ -23,14 +23,17 @@ class ProxyClient(object):
 
 if __name__ == '__main__':
 
-	query = "Business Hotels in Dubai"
+	query = "Hotels in Bangalore with Wifi gym and bar"
 	if len(sys.argv) >= 2:
 		query = sys.argv[1]
 
 	wit_ai_response = {"wit_ai_response": WitAI.query(query)}
+	print "=" * 30 + "REQUEST" + "=" * 30
+
+	print json.dumps(wit_ai_response, indent = 4)
 
 	response = ProxyClient.query(json.dumps(wit_ai_response, indent = 4))
-
+	#response = None
 	print "=" * 30 + "RESPONSE" + "=" * 30
 	if response:
 		print response

@@ -1,31 +1,31 @@
-Code	District	Headquarters	Population	Area	Density	OfficialWebsite
-BK	Bagalkot	Bagalkot	1,890,826	6,583	288	http://www.bagalkot.nic.in/
-BL	Bellary	Bellary	2,532,383	8,439	300	http://www.bellary.nic.in/
-BG	Belgaum	Belgaum	4,778,439	13,415	356	http://www.belgaum.nic.in/
-BR	Bangalore Rural	Bangalore	987,257	2,239	441	http://www.bangalorerural.nic.in/
-BN	Bangalore Urban	Bangalore	9,588,910	2,190	4,378	http://bangaloreurban.nic.in/
-BD	Bidar	Bidar	1,700,018	5,448	312	http://www.bidar.nic.in/
-CJ	Chamarajnagar	Chamarajanagar	1,020,962	5,102	200	http://chamrajnagar.nic.in/
-CK	Chikkaballapur	Chikkaballapur	1,254,377	4,208	298	http://www.chikballapur.nic.in/
-CK	Chikkamagaluru	Chikmagalur	1,137,753	7,201	158	http://chickmagalur.nic.in/
-CT	Chitradurga	Chitradurga	1,660,378	8,437	197	http://www.chitradurga.nic.in/
-DK	Dakshina Kannada	Mangalore	2,083,625	4,559	457	http://www.dk.nic.in/
-DA	Davanagere	Davangere	1,946,905	5,926	329	http://www.davanagere.nic.in/
-DH	Dharwad	Dharwad	1,846,993	4,265	434	http://www.dharwad.nic.in/
-GA	Gadag	Gadag-Betageri	1,065,235	4,651	229	http://gadag.nic.in/
-HS	Hassan	Hassan	1,776,221	6,814	261	http://www.hassan.nic.in/
-HV	Haveri	Haveri	1,598,506	4,825	331	http://haveri.nic.in/
-GU	Gulbarga	Gulbarga	2,564,892	10,990	233	http://www.gulbarga.nic.in/
-KD	Kodagu	Madikeri	554,762	4,102	135	http://www.kodagu.nic.in/
-KL	Kolar	Kolar	1,540,231	4,012	384	http://kolar.nic.in/
-KP	Koppal	Koppal	1,391,292	5,565	250	http://www.koppal.nic.in/
-MA	Mandya	Mandya	1,808,680	4,961	365	http://www.mandya.nic.in/
-MY	Mysore	Mysore	2,994,744	6,854	437	http://www.mysore.nic.in/
-RA	Raichur	Raichur	1,924,773	6,839	228	http://www.raichur.nic.in/
-RM	Ramanagara	Ramanagara	1,082,739	3,573	303	http://www.ramanagaracity.gov.in/
-SH	Shimoga	Shimoga	1,755,512	8,495	207	http://www.shimoga.nic.in/
-TU	Tumkur	Tumkur	2,681,449	10,598	253	http://www.tumkur.nic.in/
-UD	Udupi	Udupi	1,177,908	3,879	304	http://udupi.nic.in/
-UK	Uttara Kannada	Karwar	1,353,299	10,291	132	http://uttarakannada.nic.in/
-BJ	Vijayapura	Vijayapura	2,175,102	10,517	207	http://www.bijapur.nic.in/
-YG	Yadgir	Yadgir	1,172,985	5,225	224	http://www.yadgir.nic.in/
+Code	District	Headquarters	Population	Area	Density	OfficialWebsite	AltName
+BK	Bagalkot	Bagalkot	1,890,826	6,583	288	http://www.bagalkot.nic.in/	Bagalkote
+BL	Bellary	Bellary	2,532,383	8,439	300	http://www.bellary.nic.in/	Bellary
+BG	Belgaum	Belgaum	4,778,439	13,415	356	http://www.belgaum.nic.in/	Belagavi
+BR	Bangalore Rural	Bangalore	987,257	2,239	441	http://www.bangalorerural.nic.in/	Bengaluru
+BN	Bangalore Urban	Bangalore	9,588,910	2,190	4,378	http://bangaloreurban.nic.in/	Bengaluru
+BD	Bidar	Bidar	1,700,018	5,448	312	http://www.bidar.nic.in/	Bidara
+CJ	Chamarajnagar	Chamarajanagar	1,020,962	5,102	200	http://chamrajnagar.nic.in/	Chamarajanagar
+CK	Chikkaballapur	Chikkaballapur	1,254,377	4,208	298	http://www.chikballapur.nic.in/	Chikkaballapura
+CK	Chikkamagaluru	Chikmagalur	1,137,753	7,201	158	http://chickmagalur.nic.in/	chickmagaluru
+CT	Chitradurga	Chitradurga	1,660,378	8,437	197	http://www.chitradurga.nic.in/	Chitradurga
+DK	Dakshina Kannada	Mangalore	2,083,625	4,559	457	http://www.dk.nic.in/ Dakshin Kannada
+DA	Davanagere	Davangere	1,946,905	5,926	329	http://www.davanagere.nic.in/	Davangere
+DH	Dharwad	Dharwad	1,846,993	4,265	434	http://www.dharwad.nic.in/	Dharwada
+GA	Gadag	Gadag-Betageri	1,065,235	4,651	229	http://gadag.nic.in/	Gadaga 
+HS	Hassan	Hassan	1,776,221	6,814	261	http://www.hassan.nic.in/	Hassana
+HV	Haveri	Haveri	1,598,506	4,825	331	http://haveri.nic.in/	Haveri
+GU	Gulbarga	Gulbarga	2,564,892	10,990	233	http://www.gulbarga.nic.in/	Kalaburagi
+KD	Kodagu	Madikeri	554,762	4,102	135	http://www.kodagu.nic.in/	kodagu
+KL	Kolar	Kolar	1,540,231	4,012	384	http://kolar.nic.in/	Kolara
+KP	Koppal	Koppal	1,391,292	5,565	250	http://www.koppal.nic.in/	Koppala
+MA	Mandya	Mandya	1,808,680	4,961	365	http://www.mandya.nic.in/	Mandya
+MY	Mysore	Mysore	2,994,744	6,854	437	http://www.mysore.nic.in/	Mysuru
+RA	Raichur	Raichur	1,924,773	6,839	228	http://www.raichur.nic.in/	Raichuru
+RM	Ramanagara	Ramnagar	1,082,739	3,573	303	http://www.ramanagaracity.gov.in/	Ramnagara
+SH	Shimoga	Shimoga	1,755,512	8,495	207	http://www.shimoga.nic.in/	Shivamogga
+TU	Tumkur	Tumkur	2,681,449	10,598	253	http://www.tumkur.nic.in/	Tumakuru
+UD	Udupi	Udupi	1,177,908	3,879	304	http://udupi.nic.in/	Udupi
+UK	Uttara Kannada	Karwar	1,353,299	10,291	132	http://uttarakannada.nic.in/	Uttar Kannada
+BJ	Vijayapura	Vijayapura	2,175,102	10,517	207	http://www.bijapur.nic.in/	Vijayapur
+YG	Yadgir	Yadgir	1,172,985	5,225	224	http://www.yadgir.nic.in/	Yadgiri

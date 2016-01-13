@@ -1,5 +1,5 @@
 from py2neo import authenticate, watch, Graph
-import config
+import config, json
 
 class Neo4jDatabase:
     """
@@ -64,6 +64,9 @@ class Neo4jDatabase:
         
         return response
 
+    def simply_query(self,query):
+        return self.graph.cypher.execute(query)
+
     def _format_response(self,results):
         response = {'results':[]}
         if len(results) > 0:
@@ -76,3 +79,18 @@ class Neo4jDatabase:
 
         response['count'] = len(results)
         return response
+
+if __name__ == '__main__':
+    db = Neo4jDatabase()
+    query = """
+        MATCH (h:Hotel)-->(a:Amenity)
+        WHERE a.name in  ["Internet","WiFi"]
+        RETURN h as hotel,a as amenity
+        LIMIT 10
+    """
+    query2 = """
+        MATCH (l:Location)
+        RETURN l as location 
+        LIMIT 10
+    """
+    print json.dumps(db.execute(query2), indent = 4)
