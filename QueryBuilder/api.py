@@ -51,7 +51,7 @@ class NaturalQueryAPI(Resource):
 
     def __init__(self):
         self.parser = reqparse.RequestParser()
-        self.parser.add_argument('wit_ai_response', type=dict, required=True,
+        self.parser.add_argument('backend_request', type=dict, required=True,
             location='json')
 
         super(NaturalQueryAPI, self).__init__()

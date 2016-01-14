@@ -27,7 +27,7 @@ if __name__ == '__main__':
 	if len(sys.argv) >= 2:
 		query = sys.argv[1]
 
-	wit_ai_response = {"wit_ai_response": WitAI.query(query)}
+	wit_ai_response = {"backend_request": WitAI.query(query)}
 	print "=" * 30 + "REQUEST" + "=" * 30
 
 	print json.dumps(wit_ai_response, indent = 4)
