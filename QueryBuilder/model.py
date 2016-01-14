@@ -25,10 +25,7 @@ class Model(object):
 		
 		extract = self.xtrctr.extract(parsed_args["wit_ai_response"])
 		
-		#print "EXTRACT: ", extract
 		query = self.bldr.build(extract)
-		
-
 		
 		if not query["query"]:
 			print "=" * 30 + "ERROR" + "=" * 30

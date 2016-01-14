@@ -46,20 +46,21 @@ class Extractor:
 			"amenities": None,
 			"rating": None,
 			"roomtype": None,
+			"distance": None,
 			"limit": 25
 		}
 
 		ret["location"] = self._extract_location(entities)
 		ret["amenities"] = self._extract_amenities(entities)
-		# ret["class_star_rating"] = self._extract_class_star_rating(entities)
-		# ret["distance"] = self._extract_distance(entities)
-		# ret["budget"] = self._extract_budget(entities)
+		ret["rating"] = self._extract_class_star_rating(entities)
+		ret["distance"] = self._extract_distance(entities)
+		ret["roomtype"] = self._extract_roomtype(entities)
 		print "=" * 20 + "INTERMEDIATE REPRESENTATION" + "=" * 20
 		print json.dumps(ret, indent = 4)
 		return ret
 
 	def _parse_recursively(self, json_obj, key):
-
+		" Very tricky to write this function. Took me a while. "
 		if type(json_obj) == dict:
 			for k, v in json_obj.items():
 				# print "k:", k
@@ -93,8 +94,18 @@ class Extractor:
 			return None
 
 	def _extract_class_star_rating(self,entities):
-		if entities.has_key("class_star_rating"):
-			return entities["class_star_rating"][0]["value"]
+		rating = self._parse_recursively(entities,"class_star_rating")
+		values = []
+		if rating:
+			ret = { "min" : None, "max": None, "exact": None}
+			for rt in rating:
+				values.append(rt["value"])
+			if len(values) == 1:
+				ret["exact"] = values[0]
+			else:
+				ret["min"] = min(values)
+				ret["max"] = max(values)
+			return ret 
 
 	def _extract_location(self,entities):
 		# print "entities: ", entities
@@ -110,38 +121,91 @@ class Extractor:
 
 
 	def _extract_distance(self,entities):
-		if entities.has_key("distance"):
-			unit = entities["distance"][0]["unit"]
-			value = entities["distance"][0]["value"]
-			if unit == "mile":
-				value *= 1.60934
-			return value
+		distance = self._parse_recursively(entities,"distance")
+		values = []
+		if distance:
+			unit = distance[0]["unit"]
 
-	def _extract_budget(self, entities):
-		budget = {"min":None,"max":None,"avg":None}
+			distance_factor = 1.0
+
+			if unit == "mile":
+				distance_factor = 1.60934
+			
+			ret = { "min" : None, "max": None, "exact": None}
+			for dis in distance:
+				values.append(dis["value"])
+			
+			if len(values) == 1:
+				ret["exact"] = values[0] * distance_factor
+			else:
+				ret["min"] = min(values) * distance_factor
+				ret["max"] = max(values) * distance_factor
+		
+			return ret
+
+	def _extract_roomtype(self, entities):
+
+
+		roomtype = self._parse_recursively(entities,"accomodation_room_type")
+		cost = self._extract_cost(entities)
+		duration = self._extract_duration(entities)
+		adults = self._extract_num_adults(entities)
+		children = self._extract_num_children(entities)
+
+		if roomtype:
+			roomtype = roomtype[0]["value"]
+
+		if not roomtype:
+			roomtype = "any"
+
+		ret = {
+			str(roomtype): {
+				"cost": cost,
+				"adults": adults,
+				"children": children,
+				"duration": duration
+			}
+		}
+
+		print "RET", ret 
+
+		if (cost["min"] or cost["max"] or cost["exact"] 
+			or adults or children or (roomtype and roomtype != "any")):
+			return ret
+
+	def _extract_cost(self, entities):
+		budget = {"min":None,"max":None,"exact":None}
 		unit = "INR"
-		if entities.has_key("amount_of_money"):
-			value = entities["amount_of_money"][0]["value"]
-			unit = entities["amount_of_money"][0]["unit"]
+		USD_to_INR = 65
+		amount_of_money = self._parse_recursively(entities,"amount_of_money")
+		if amount_of_money:
+			value = amount_of_money[0]["value"]
+			unit = amount_of_money[0]["unit"]
 			if unit in ['$',"USD"]:
-				value *= 65 #Nominal value of INR in USD
-			budget["avg"] = value
-		if entities.has_key("min"):
-			value = entities["min"][0]["value"]
-			unit = entities["min"][0]["unit"]
+				value *= USD_to_INR #Nominal value of INR in USD
+			budget["exact"] = value
+
+		cost_min = self._parse_recursively(entities,"min")
+		if cost_min:
+			value = cost_min[0]["value"]
+			unit = cost_min[0]["unit"]
 			if unit in ['$',"USD"]:
-				value *= 65 #Nominal value of INR in USD
+				value *= USD_to_INR #Nominal value of INR in USD
 			budget["min"] = value
-		if entities.has_key("max"):
-			value = entities["max"][0]["value"]
-			unit = entities["max"][0]["unit"]
+
+		cost_max = self._parse_recursively(entities,"max")
+		if cost_max:
+			value = cost_max[0]["value"]
+			unit = cost_max[0]["unit"]
 			if unit in ['$',"USD"]:
-				value *= 65 #Nominal value of INR in USD
+				value *= USD_to_INR #Nominal value of INR in USD
 			budget["max"] = value
-		if entities.has_key("number"):
-			number = entities["number"][0]["value"]
+
+		number = self._parse_recursively(entities,"number")
+		if number:
+			number = number[0]["value"]
 			if unit in ['$',"USD"]:
-				number *= 65
+				number *= USD_to_INR
 			if budget["min"] and not budget["max"]:
 				budget["max"] = number
 			if budget["max"] and not budget["min"]:
@@ -149,16 +213,30 @@ class Extractor:
 
 		if budget["min"] > budget["max"]: #then swap
 			budget["min"],budget["max"] = budget["max"],budget["min"]	
+		
 		return budget
 
-	def _extract_adult(self, entities):
-		pass
+	def _extract_num_adults(self, entities):
+		adults = self._parse_recursively(entities,"adults")
+		num_adult = 0
+		if adults:
+			for adult in adults:
+				num_adult += adult["value"]
+			return num_adult
 
-	def _extract_children(self, entities):
-		pass
+	def _extract_num_children(self, entities):
+		children = self._parse_recursively(entities,"children")
+		num_child = 0
+		if children:
+			for child in children:
+				num_child += child["value"]
+			return num_child
 
 	def _extract_duration(self, entities):
-		pass
+		duration = self._parse_recursively(entities,"duration")
+		if duration:
+			pass	
+		return 24 # Hard coded value for duration
 
 	def _extract_check_in(self, entities):
 		pass
