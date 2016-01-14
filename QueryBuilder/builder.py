@@ -146,15 +146,15 @@ class Builder:
 		IR2["MATCH"].append(self.traversal_query[label])
 		IR2["WHERE"].append("%s.name IN %s" % ((self.loc_vars[label],locations)))
 		reduction = "REDUCE(addr = d.name , n IN [%s] | \
- 		\n addr + \", \" + n.name) AS hotel_address"
+ 		\n addr + \", \" + n.name) AS address"
 		reduction %= self.return_vars[label]
 
 		IR2["RETURN"].append(reduction)
 
 		IR2["MATCH"].append("(d)-->(h:Hotel)")
-		IR2["RETURN"].append("h.name AS hotel_name")
-		IR2["RETURN"].append("h.latitude AS hotel_latitude")
-		IR2["RETURN"].append("h.longitude AS hotel_longitude")
+		IR2["RETURN"].append("h.name AS name")
+		IR2["RETURN"].append("h.latitude AS latitude")
+		IR2["RETURN"].append("h.longitude AS longitude")
 
 
 		if IR1["rating"]:
