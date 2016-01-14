@@ -131,6 +131,8 @@ class Builder:
 
 		IR2 = { "MATCH": [],
 			"WHERE": [],
+			"WITH":[],
+			"WITHWHERE":[],
 			"RETURN": [],
 			"LIMIT": None
 		}
@@ -173,6 +175,12 @@ class Builder:
 			IR2["WHERE"].append("a.name IN %s" % str(amenities))
 			IR2["RETURN"].append("COLLECT(a.name) AS amenities")
 
+		if IR1["distance"]:
+			distance = IR1["distance"]
+			IR2["WITH"].append(self.distance_query_stage_1(self.loc_vars[label],
+				"h"))
+			IR2["WITHWHERE"] = self.distance_query_stage_2(distance)
+
 		if IR1["roomtype"]:
 			IR2["MATCH"].append("(h)-[rd]->(rt:RoomType)")
 
@@ -207,7 +215,7 @@ class Builder:
 			IR2["RETURN"].append("rt.type AS room_type")
 			IR2["RETURN"].append("rd.cost AS cost")
 			IR2["RETURN"].append("rd.duration AS rate_time_unit")
-	
+			
 
 		if IR1["limit"]:
 			IR2["LIMIT"] = IR1["limit"]
@@ -216,11 +224,24 @@ class Builder:
 
 	def build_stage_2(self, IR2):
 		IR3 = []
+		print "BUILD STAGE 2"
+		print IR2
 		IR3.append("MATCH " + ",\n ".join(IR2["MATCH"]))
 		IR3.append("\n")
 		if IR2["WHERE"]:
 			IR3.append("WHERE " + "\n AND ".join(IR2["WHERE"]))
 			IR3.append("\n")
+		if IR2["WITH"]:
+			IR2["WITH"].extend(IR2["RETURN"])
+			IR3.append("WITH " + ",\n ".join(IR2["WITH"]))
+			IR3.append("\n")
+			IR3.append("WHERE " + "\n AND ".join(IR2["WITHWHERE"]))
+			rets = ["dist"]
+			for ret in IR2["RETURN"]:
+				rets.append(ret.split()[-1].strip())
+			IR2["RETURN"] = rets
+		
+		IR3.append("\n")
 		IR3.append("RETURN " + ",\n ".join(IR2["RETURN"]))
 		IR3.append("\n")
 		IR3.append("LIMIT " + str(IR2["LIMIT"]))
@@ -233,6 +254,26 @@ class Builder:
 	
 	def simply_query(self,query):
 		return self.db.simply_query(query)
+
+	def distance_query_stage_1(self, src , dst):
+		query = """
+ 2 * 6371 * asin(sqrt(haversin(radians({dst}.latitude - 
+ {src}.latitude)) + cos(radians({dst}.latitude))*cos(
+ radians({src}.latitude))* haversin(radians({dst}.longitude
+ - {src}.longitude)))) AS dist""".format(src=src,dst=dst)
+
+		return query
+
+	def distance_query_stage_2(self,distance):
+		WITHWHERE = []
+		if distance["exact"]:
+			WITHWHERE.append("dist <= %d" % distance["exact"])
+		else:
+			if distance["max"]:
+				WITHWHERE.append("dist <= %d" % distance["max"])
+			if distance["min"]:
+				WITHWHERE.append("dist >= %d" % distance["min"])
+		return WITHWHERE
 
 	def build(self, IR1):
 

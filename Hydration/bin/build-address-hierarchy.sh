@@ -10,7 +10,7 @@
 alt=`pwd | rev | cut -d "/" -f 2- | rev`"/data"
 wtf=`echo "${1:-$alt}" | sed 's:[/\\&]:\\?:g'` # I sed wtf! Ha Haa!
 
-time cat ../utils/address-hierarchy-quick-and-dirty.cql | \
+time cat ./address-hierarchy-quick-and-dirty.cql | \
 sed "s/XXX/$wtf/g" | tr "?" "/" | \
 /var/lib/neo4j/bin/neo4j-shell -file -
 

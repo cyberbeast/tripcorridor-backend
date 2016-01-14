@@ -18,7 +18,7 @@ class ProxyClient(object):
 		proc = subprocess.Popen(curl_request,
 		stdout=subprocess.PIPE, stderr=FNULL, shell=True)
 		(out, err) = proc.communicate()
-
+		
 		return out
 
 if __name__ == '__main__':

@@ -2,7 +2,7 @@ from database import Neo4jDatabase
 from formatter import Formatter 
 from extractor import Extractor
 from builder import Builder, pp
-from input import parsed_args, IR1
+from gobbledygook import parsed_args, IR1
 import json
 
 class Model(object):

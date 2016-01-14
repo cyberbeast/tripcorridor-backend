@@ -1,0 +1,382 @@
+[
+    {
+        "latitude": 20.593684, 
+        "name": "India", 
+        "longitude": 78.96288
+    }, 
+    {
+        "latitude": 15.9128998, 
+        "name": "Andhra Pradesh", 
+        "longitude": 79.7399875
+    }, 
+    {
+        "latitude": 28.2179994, 
+        "name": "Arunachal Pradesh", 
+        "longitude": 94.7277528
+    }, 
+    {
+        "latitude": 26.2006043, 
+        "name": "Assam", 
+        "longitude": 92.9375739
+    }, 
+    {
+        "latitude": 25.0960742, 
+        "name": "Bihar", 
+        "longitude": 85.31311939999999
+    }, 
+    {
+        "latitude": 21.2786567, 
+        "name": "Chhattisgarh", 
+        "longitude": 81.8661442
+    }, 
+    {
+        "latitude": 15.2993265, 
+        "name": "Goa", 
+        "longitude": 74.12399599999999
+    }, 
+    {
+        "latitude": 22.258652, 
+        "name": "Gujarat", 
+        "longitude": 71.1923805
+    }, 
+    {
+        "latitude": 29.0587757, 
+        "name": "Haryana", 
+        "longitude": 76.085601
+    }, 
+    {
+        "latitude": 31.1048294, 
+        "name": "Himachal Pradesh", 
+        "longitude": 77.17339009999999
+    }, 
+    {
+        "latitude": 33.778175, 
+        "name": "Jammu and Kashmir", 
+        "longitude": 76.57617139999999
+    }, 
+    {
+        "latitude": 23.6101808, 
+        "name": "Jharkhand", 
+        "longitude": 85.2799354
+    }, 
+    {
+        "latitude": 15.3172775, 
+        "name": "Karnataka", 
+        "longitude": 75.7138884
+    }, 
+    {
+        "latitude": 10.8505159, 
+        "name": "Kerala", 
+        "longitude": 76.2710833
+    }, 
+    {
+        "latitude": 22.9734229, 
+        "name": "Madhya Pradesh", 
+        "longitude": 78.6568942
+    }, 
+    {
+        "latitude": 19.7514798, 
+        "name": "Maharashtra", 
+        "longitude": 75.7138884
+    }, 
+    {
+        "latitude": 24.6637173, 
+        "name": "Manipur", 
+        "longitude": 93.90626879999999
+    }, 
+    {
+        "latitude": 25.4670308, 
+        "name": "Meghalaya", 
+        "longitude": 91.366216
+    }, 
+    {
+        "latitude": 23.164543, 
+        "name": "Mizoram", 
+        "longitude": 92.9375739
+    }, 
+    {
+        "latitude": 26.1584354, 
+        "name": "Nagaland", 
+        "longitude": 94.5624426
+    }, 
+    {
+        "latitude": 20.9516658, 
+        "name": "Odisha", 
+        "longitude": 85.0985236
+    }, 
+    {
+        "latitude": 31.1471305, 
+        "name": "Punjab", 
+        "longitude": 75.34121789999999
+    }, 
+    {
+        "latitude": 27.0238036, 
+        "name": "Rajasthan", 
+        "longitude": 74.21793260000001
+    }, 
+    {
+        "latitude": 27.5329718, 
+        "name": "Sikkim", 
+        "longitude": 88.5122178
+    }, 
+    {
+        "latitude": 11.1271225, 
+        "name": "Tamil Nadu", 
+        "longitude": 78.6568942
+    }, 
+    {
+        "latitude": 18.1124372, 
+        "name": "Telangana", 
+        "longitude": 79.01929969999999
+    }, 
+    {
+        "latitude": 23.9408482, 
+        "name": "Tripura", 
+        "longitude": 91.9881527
+    }, 
+    {
+        "latitude": 26.8467088, 
+        "name": "Uttar Pradesh", 
+        "longitude": 80.9461592
+    }, 
+    {
+        "latitude": 30.066753, 
+        "name": "Uttarakhand", 
+        "longitude": 79.01929969999999
+    }, 
+    {
+        "latitude": 22.9867569, 
+        "name": "West Bengal", 
+        "longitude": 87.8549755
+    }, 
+    {
+        "latitude": 11.7400867, 
+        "name": "Andaman and Nicobar Islands", 
+        "longitude": 92.6586401
+    }, 
+    {
+        "latitude": 30.7333148, 
+        "name": "Chandigarh", 
+        "longitude": 76.7794179
+    }, 
+    {
+        "latitude": 20.1808672, 
+        "name": "Dadra and Nagar Haveli", 
+        "longitude": 73.0169135
+    }, 
+    {
+        "latitude": 20.428283, 
+        "name": "Daman and Diu", 
+        "longitude": 72.8397317
+    }, 
+    {
+        "latitude": 10.0760115, 
+        "name": "Lakshadweep", 
+        "longitude": 73.6303446
+    }, 
+    {
+        "latitude": 28.6139391, 
+        "name": "National Capital Territory of Delhi", 
+        "longitude": 77.2090212
+    }, 
+    {
+        "latitude": 11.9138598, 
+        "name": "Puducherry", 
+        "longitude": 79.8144722
+    }, 
+    {
+        "latitude": 20.593684, 
+        "name": "North India", 
+        "longitude": 78.96288
+    }, 
+    {
+        "latitude": 20.593684, 
+        "name": "East India", 
+        "longitude": 78.96288
+    }, 
+    {
+        "latitude": 28.16527, 
+        "name": "Western India", 
+        "longitude": 83.93208059999999
+    }, 
+    {
+        "latitude": 20.593684, 
+        "name": "South India", 
+        "longitude": 78.96288
+    }, 
+    {
+        "latitude": 20.593684, 
+        "name": "Northeast India", 
+        "longitude": 78.96288
+    }, 
+    {
+        "latitude": 16.1725355, 
+        "name": "Bagalkot", 
+        "longitude": 75.6557206
+    }, 
+    {
+        "latitude": 15.1393932, 
+        "name": "Bellary", 
+        "longitude": 76.9214428
+    }, 
+    {
+        "latitude": 15.8496953, 
+        "name": "Belgaum", 
+        "longitude": 74.4976741
+    }, 
+    {
+        "latitude": 13.2846993, 
+        "name": "Bangalore Rural", 
+        "longitude": 77.6077865
+    }, 
+    {
+        "latitude": 12.9700247, 
+        "name": "Bangalore Urban", 
+        "longitude": 77.6536125
+    }, 
+    {
+        "latitude": 17.9148799, 
+        "name": "Bidar", 
+        "longitude": 77.5046101
+    }, 
+    {
+        "latitude": 11.9261471, 
+        "name": "Chamarajnagar", 
+        "longitude": 76.9437312
+    }, 
+    {
+        "latitude": 13.432366, 
+        "name": "Chikkaballapur", 
+        "longitude": 77.7280396
+    }, 
+    {
+        "latitude": 13.315258, 
+        "name": "Chikkamagaluru", 
+        "longitude": 75.7754018
+    }, 
+    {
+        "latitude": 14.2305594, 
+        "name": "Chitradurga", 
+        "longitude": 76.39845369999999
+    }, 
+    {
+        "latitude": 12.8437814, 
+        "name": "Dakshina Kannada", 
+        "longitude": 75.2479061
+    }, 
+    {
+        "latitude": 14.4663438, 
+        "name": "Davanagere", 
+        "longitude": 75.9238397
+    }, 
+    {
+        "latitude": 15.4589236, 
+        "name": "Dharwad", 
+        "longitude": 75.007808
+    }, 
+    {
+        "latitude": 15.4324651, 
+        "name": "Gadag", 
+        "longitude": 75.6380337
+    }, 
+    {
+        "latitude": 13.0068142, 
+        "name": "Hassan", 
+        "longitude": 76.0995519
+    }, 
+    {
+        "latitude": 14.7959027, 
+        "name": "Haveri", 
+        "longitude": 75.3971254
+    }, 
+    {
+        "latitude": 17.329731, 
+        "name": "Gulbarga", 
+        "longitude": 76.8342957
+    }, 
+    {
+        "latitude": 12.3374942, 
+        "name": "Kodagu", 
+        "longitude": 75.8069082
+    }, 
+    {
+        "latitude": 13.1357446, 
+        "name": "Kolar", 
+        "longitude": 78.1325611
+    }, 
+    {
+        "latitude": 15.3507081, 
+        "name": "Koppal", 
+        "longitude": 76.1554311
+    }, 
+    {
+        "latitude": 12.5221567, 
+        "name": "Mandya", 
+        "longitude": 76.9009191
+    }, 
+    {
+        "latitude": 12.2958104, 
+        "name": "Mysore", 
+        "longitude": 76.6393805
+    }, 
+    {
+        "latitude": 16.2120031, 
+        "name": "Raichur", 
+        "longitude": 77.3439283
+    }, 
+    {
+        "latitude": 12.7094487, 
+        "name": "Ramanagara", 
+        "longitude": 77.2807423
+    }, 
+    {
+        "latitude": 13.9299299, 
+        "name": "Shimoga", 
+        "longitude": 75.568101
+    }, 
+    {
+        "latitude": 13.3391677, 
+        "name": "Tumkur", 
+        "longitude": 77.1139984
+    }, 
+    {
+        "latitude": 13.3371151, 
+        "name": "Udupi", 
+        "longitude": 74.746596
+    }, 
+    {
+        "latitude": 14.7937065, 
+        "name": "Uttara Kannada", 
+        "longitude": 74.6868815
+    }, 
+    {
+        "latitude": 13.2955371, 
+        "name": "Vijayapura", 
+        "longitude": 77.8009872
+    }, 
+    {
+        "latitude": 16.7601963, 
+        "name": "Yadgir", 
+        "longitude": 77.142764
+    }, 
+    {
+        "latitude": 15.8496953, 
+        "name": "Belgaum Division", 
+        "longitude": 74.4976741
+    }, 
+    {
+        "latitude": 17.3379595, 
+        "name": "Kalaburagi Division", 
+        "longitude": 76.8331743
+    }, 
+    {
+        "latitude": 13.111051, 
+        "name": "Bangalore Division", 
+        "longitude": 77.6061751
+    }, 
+    {
+        "latitude": 12.2958104, 
+        "name": "Mysore Division", 
+        "longitude": 76.6393805
+    }
+]
