@@ -6,7 +6,8 @@ class ProxyClient(object):
 	@staticmethod
 	def query(wit_ai_response):
 
-		url = "https://tcapi.localtunnel.me/api/naturalquery/execute"
+		#url = "https://tcapi.localtunnel.me/api/naturalquery/execute"
+		url = "http://localhost:5544/api/naturalquery/execute"
 		header = "Content-Type: application/json"
 		api_user_name = "TripCorridor"
 		api_key = "NjQwNzlkNmI1MWI5YWI3YjVjODM0Yjc2YzFkN2I4YjNlMWI5YmMyYw=="

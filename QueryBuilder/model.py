@@ -16,9 +16,10 @@ class Model(object):
 	def execute(self, parsed_args):
 
 		response = {
-			"status": "success",
+			"status": 3,
 			"results": [],
-			"count": 0
+			"count": 0,
+			"message": "Successfully completed the backend request."
 		}
 
 		
@@ -29,7 +30,7 @@ class Model(object):
 		if not query["query"]:
 			print "=" * 30 + "ERROR" + "=" * 30
 			print "Message: ", query["message"]
-			response["status"] = "failed"
+			response["status"] = 4
 			response["message"] = query["message"]
 			return response
 

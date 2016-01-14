@@ -197,7 +197,7 @@ class Builder:
 			cexact = room_detail["cost"]["exact"]
 
 			if cexact:
-				IR2["WHERE"].append("rd.cost = %d" % cexact)
+				IR2["WHERE"].append("rd.cost <= %d" % cexact)
 			else:
 				if cmax:
 					IR2["WHERE"].append("rd.cost <= %d" % cmax)
