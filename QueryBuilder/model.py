@@ -18,12 +18,11 @@ class Model(object):
 		response = {
 			"status": "success",
 			"results": [],
-			"count": 0,
-			"wit_ai_response": parsed_args["wit_ai_response"]
+			"count": 0
 		}
 
 		
-		extract = self.xtrctr.extract(parsed_args["wit_ai_response"])
+		extract = self.xtrctr.extract(parsed_args["backend_request"])
 		
 		query = self.bldr.build(extract)
 		

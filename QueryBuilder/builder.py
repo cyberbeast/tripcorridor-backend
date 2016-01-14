@@ -153,6 +153,9 @@ class Builder:
 
 		IR2["MATCH"].append("(d)-->(h:Hotel)")
 		IR2["RETURN"].append("h.name AS hotel_name")
+		IR2["RETURN"].append("h.latitude AS hotel_latitude")
+		IR2["RETURN"].append("h.longitude AS hotel_longitude")
+
 
 		if IR1["rating"]:
 			rmin = IR1["rating"]["min"]
